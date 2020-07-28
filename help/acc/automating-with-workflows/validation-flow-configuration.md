@@ -14,7 +14,7 @@ team: TM
 translation-type: tm+mt
 source-git-commit: b2820c65a88d25f9b7a4ed5005cd5083463e000a
 workflow-type: tm+mt
-source-wordcount: '356'
+source-wordcount: '357'
 ht-degree: 0%
 
 ---
@@ -26,7 +26,7 @@ Adobe Campaign bietet Marketingexperten mehrere Möglichkeiten zur Überprüfung
 
 In diesem Lernprogramm wird beschrieben, wie Sie verschiedene Workflows für die Genehmigungsüberprüfung konfigurieren.
 
-## Voraussetzung {#prerequisite}
+## Voraussetzung    {#prerequisite}
 
 Vor der Aktivierung der Genehmigungsschritte muss das Marketingteam einzelne Prüfer definieren:
 
@@ -35,7 +35,7 @@ Vor der Aktivierung der Genehmigungsschritte muss das Marketingteam einzelne Pr�
 
 ## Genehmigungen für Kampagnen konfigurieren  {#configuring-approvals-for-campaigns}
 
-Wenn Sie im Arbeitsablauf für die Kampagne dieselben Prüfer für alle Versand verwenden, würden Sie die Genehmigungsfunktionen nutzen [!DNL Campaign] . Durch die Einrichtung von Genehmigungen und Prüfern auf der Ebene der Kampagne werden die Aufgaben und Prüfer für die Genehmigung nach der Ausführung des Workflows auf die einzelnen Versand-Aktivitäten Ihres Workflows heruntergefahren.
+Wenn Sie im Arbeitsablauf für die Kampagne dieselben Prüfer für alle Versand verwenden, würden Sie die Genehmigungsfunktionen der Kampagne nutzen. Durch die Einrichtung von Genehmigungen und Prüfern auf der Ebene der Kampagne werden die Aufgaben und Prüfer für die Genehmigung nach der Ausführung des Workflows auf die einzelnen Versand-Aktivitäten Ihres Workflows heruntergefahren.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25175?quality=12)
 
