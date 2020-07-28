@@ -1,7 +1,7 @@
 ---
 product: adobe campaign
 sub-product: Campaign Classic
-user-guide-title: Adobe Campaign Classic-Tutorials
+user-guide-title: Adobe Campaign Classic Tutorials
 user-guide-url: https://docs.adobe.com/content/help/en/campaign-classic-learn/tutorials/overview.html
 solution-title: Experience League
 solution-hub-url: https://experienceleague.adobe.com/?tag=Campaign+Classic#recommended/solutions/campaign
@@ -12,8 +12,8 @@ getting-started-url: https://docs.campaign.adobe.com/doc/AC/en/PTF_Starting_with
 translation-type: tm+mt
 source-git-commit: f06225ca2fa9c90998f0f5d0430db434a786b7de
 workflow-type: tm+mt
-source-wordcount: '300'
-ht-degree: 15%
+source-wordcount: '319'
+ht-degree: 12%
 
 ---
 
@@ -28,9 +28,8 @@ ht-degree: 15%
    + [Erstellen von Marketingplänen, Programmen und Kampagnen](/help/acc/getting-started/creating-a-marketing-plan-programs-and-campaigns.md)
    + [Erstellen einer Kampagne und einer E-Mail](/help/acc/getting-started/creating-a-campaign-and-an-email.md)
    + [Erstellen einer Liste von Empfängern](/help/acc/getting-started/creating-a-list-of-recipients.md)
-   + [Erstellen eines Workflows](/help/acc/automating-with-workflows/creating-a-workflow.md)
-   + [Erstellen eines Zielgruppen-Workflows](/help/acc/automating-with-workflows/creating-a-targeting-workflow.md)
-   + [Saatgut und Testversand in einer E-Mail verwalten](/help/acc/sending-messages/managing-seed-and-proofs.md)
+   + [Erstellen eines Workflows](https://docs.adobe.com/content/help/en/campaign-classic-learn/tutorials/getting-started/creating-a-workflow.html)
+   + [Targeting von Profilen in einem Workflow](/help/acc/getting-started/targeting-profiles-in-a-workflow.md)
 + Profile Management {#profile-management}
    + [Profile erstellen und verwalten](/help/acc/profile-management/create-and-manage-profiles.md)
    + [Profilimport](/help/acc/data-management/importing-profiles.md)  
@@ -38,7 +37,9 @@ ht-degree: 15%
    + Email Channel{#email-channel}
       + [Erstellen einer Kampagne und einer E-Mail](/help/acc/getting-started/creating-a-campaign-and-an-email.md)
       + [Saatgut und Testversand in einer E-Mail verwalten](/help/acc/sending-messages/managing-seed-and-proofs.md)
-      + [Personalisieren von E-Mails mit dynamischen Inhaltsblöcken](/help/acc/sending-messages/personalization-with-dynamic-content-blocks.md)
+      + [Personalisieren von E-Mails mit dynamischen Inhaltsblöcken](/help/acc/sending-messages/email-channel/personalization-with-dynamic-content-blocks.md)
+      + [Personalisieren von E-Mails mit dem Feld &quot;Personalisierung&quot;](/help/acc/sending-messages/email-channel/personalizing-emails-using-personalization-fields.md)
+      + [Personalisieren von E-Mails - Erstellen eines mehrsprachigen Newsletters mit bedingtem Inhalt](/help/acc/sending-messages/email-channel/personalizing-emails-create-a-multi-lingual-newsletter-using-conditional-content.md)
       + [Regelmäßige und kontinuierliche E-Mail-Kampagnen konfigurieren](/help/acc/sending-messages/recurring-deliveries.md)
       + [Definieren interaktiver E-Mail-Inhalte mit AMP](/help/acc/sending-messages/email-channel/defining-interactive-email-content-with-amp.md)
    + Push-Kanal {#push-channel}
@@ -84,5 +85,5 @@ ht-degree: 15%
          + [Entschlüsseln von Daten](/help/acc/monitoring-campaign-classic/control-panel/gpg-key-management/decrypting-data.md)
       + [Fehlerbehebung beim Control Panel](/help/acc/monitoring-campaign-classic/control-panel/trouble-shooting.md)
    + Zugriff auf externe Datenbanken (FDA) {#fda}
-      + [Großes Data Management auf [!DNL Snowflake]](/help/acc/administrating/snowflake/big-data-segmentation-on-snowflake.md)
+      + [Großes Data Management im Snowflake](/help/acc/administrating/snowflake/big-data-segmentation-on-snowflake.md)
 
