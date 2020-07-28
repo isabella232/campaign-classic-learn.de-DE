@@ -1,6 +1,6 @@
 ---
-title: Die Benutzeroberfläche von Adobe Campaign Classic
-description: In dieser Lektion wird die Hauptbenutzeroberfläche von Adobe Campaign Classic erläutert und die Navigation in den Hauptfunktionen erläutert.
+title: Adobe Campaign Classic Benutzeroberfläche
+description: In dieser Lektion wird die Adobe Campaign Classic-Hauptbenutzeroberfläche erläutert und die Navigation in den Hauptfunktionen erläutert.
 feature: User Interface
 topics: Getting started
 kt: 5009
@@ -18,9 +18,9 @@ ht-degree: 22%
 ---
 
 
-# Die Benutzeroberfläche von Adobe Campaign Classic
+# Adobe Campaign Classic Benutzeroberfläche
 
-In dieser Lektion wird die Hauptbenutzeroberfläche von Adobe Campaign Classic erläutert und die Navigation in den Hauptfunktionen erläutert.
+In dieser Lektion wird die Adobe Campaign Classic-Hauptbenutzeroberfläche erläutert und die Navigation in den Hauptfunktionen erläutert.
 
 >[!VIDEO](https://video.tv.adobe.com/v/35130?quality=12)
 
