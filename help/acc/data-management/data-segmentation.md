@@ -36,7 +36,7 @@ Mit dem integrierten Kundendaten-Profil von Adobe Campaign können Marketingexpe
 
 Sobald Sie die Profil verstanden haben, sind Sie bereit, eine erweiterte Segmentierung durch tiefe Abfragen der allgemeinen Kundenattribute und anderer Datenquellen durchzuführen. Ermöglicht die Erstellung wiederverwendbarer Listen, die dynamische Aktualisierung von Listen auf der Grundlage von Datenänderungen in Echtzeit und sogar komplexere Aktivitäten wie Tests mit mehreren Varianten an einem dieser Datenpunkte.
 
-Bitte beachten Sie: Dieses Video wurde in Adobe Campaign Classic V6 aufgezeichnet. Die Funktionen sind identisch, die Workflow-Symbole wurden jedoch geändert.
+Bitte beachten Sie: Dieses Video wurde in Adobe Campaign Classic V6 aufgezeichnet, die Funktionalität ist genau gleich, aber die Workflow-Symbole haben sich geändert.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23635?quality=12)
 
