@@ -1,5 +1,5 @@
 ---
-title: Aktivität von E-Mail-Versänden im Vergleich zur Aktivität von Versänden in Adobe Campaign Classic
+title: E-Mail-Versand-Aktivität im Vergleich zur Versand-Aktivität in Adobe Campaign Classic
 description: In diesem Video wird beschrieben, wie Sie eine Versandvorlage konfigurieren und verwenden.
 feature: Delivery Templates
 topics: Templates
