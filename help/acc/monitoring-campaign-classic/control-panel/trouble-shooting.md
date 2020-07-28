@@ -28,18 +28,18 @@ Der Benutzer muss seine IMS-Organisations-ID (xxx) suchen. Der Administrator mus
 ### Symptom: Links im Experience Cloud-Home für den Zugriff auf [!UICONTROL Control Panel] werden nicht angezeigt
 
 **Ursache:**
-Die Links werden erst dann angezeigt, wenn sie als Benutzer zu Product Profil _Kampagne-xxx-Administrators/Admin_ hinzugefügt wurden.
+Benutzer sehen die Links erst dann als Benutzer zum Profil &quot;Kampagne-xxx-Administratoren/Admin&quot;
 
 **Vorgehensweise:**
-Der Administrator muss den Profil für jede Instanz, die er verwalten möchte, der _Kampagne-xxx-Admins_ des Produkts hinzufügen. Wenn der Benutzer Administrator aller Instanzen ist, muss er sich möglicherweise als &quot;Benutzer&quot;hinzufügen.
+Der Administrator muss den Benutzer für jede Instanz, die er verwalten möchte, dem Profil &quot;Kampagne-xxx-Admins&quot;hinzufügen. Wenn der Benutzer Administrator aller Instanzen ist, muss er sich möglicherweise als &quot;Benutzer&quot;hinzufügen.
 
 ### Symptom: Eine Instanz wird nicht im [!UICONTROL Control Panel aufgeführt]
 
 **Ursache:**
-Der Benutzer muss höchstwahrscheinlich als &quot;user&quot; Product Profil _Kampagne-xxx-Administrators/Admin_ für die fehlende Instanz hinzugefügt werden
+Der Benutzer muss höchstwahrscheinlich als &quot;user&quot;-Profil &quot;Kampagne-xxx-Administratoren/Admin&quot;für die fehlende Instanz hinzugefügt werden
 
 **Vorgehensweise:**
-Der Administrator muss den Profil für jede Instanz, die er verwalten möchte, der _Kampagne-xxx-Admins_ des Produkts hinzufügen. Wenn der Benutzer Administrator aller Instanzen ist, muss er sich möglicherweise noch als &quot;Benutzer&quot;hinzufügen.
+Der Administrator muss den Benutzer für jede Instanz, die er verwalten möchte, dem Profil &quot;Kampagne-xxx-Admins&quot;hinzufügen. Wenn der Benutzer Administrator aller Instanzen ist, muss er sich möglicherweise noch als &quot;Benutzer&quot;hinzufügen.
 
 ### Hilfreiche Videos
 
