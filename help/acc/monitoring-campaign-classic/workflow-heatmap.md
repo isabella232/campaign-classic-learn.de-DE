@@ -30,7 +30,7 @@ Die Workflow HeatMap unterstützt Plattformadministratoren bei Folgendem:
 
 * Suche nach einem bestimmten zu analysierenden Workflow
 
-Bitte beachten Sie: Diese Funktion ist erst ab Adobe Campaign Classic V7 verfügbar (Build 18.11.1)
+Bitte beachten Sie: Diese Funktion ist nur ab Adobe Campaign Classic V7 verfügbar (Build 18.11.1)
 
 >[!VIDEO](https://video.tv.adobe.com/v/25558?quality=12)
 
