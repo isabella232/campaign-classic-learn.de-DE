@@ -12,7 +12,7 @@ translation-type: tm+mt
 source-git-commit: 702ccde94b0437be599eca6997326ae5e37d0408
 workflow-type: tm+mt
 source-wordcount: '131'
-ht-degree: 1%
+ht-degree: 8%
 
 ---
 
@@ -30,4 +30,4 @@ Im folgenden Video wird erläutert, wie:
 
 ## Zusätzliche Ressourcen
 
-* [GPG-Schlüsselverwaltung](https://docs.adobe.com/content/help/en/control-panel/using/instances-settings/gpg-keys-management.html)
+* [GPG-Schlüsselverwaltung](https://docs.adobe.com/content/help/de-DE/control-panel/using/instances-settings/gpg-keys-management.html)
