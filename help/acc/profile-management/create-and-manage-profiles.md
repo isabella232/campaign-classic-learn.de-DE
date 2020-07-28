@@ -1,6 +1,6 @@
 ---
 title: Profile erstellen und verwalten
-description: Verstehen Sie das Konzept der Profil in Adobe Campaign Classic. Erfahren Sie, wie Sie auf Profil-Daten zugreifen, Profil sortieren und filtern und Profil manuell erstellen und verwalten können. In diesem Video wird auch erklärt, dass Adobe Campaign Classic die Bestimmungen der Allgemeinen Datenschutzverordnung (GDPR) und des California Consumer Privacy Act (CCPA) einhält.
+description: Verstehen Sie das Konzept der Profile in Adobe Campaign Classic. Erfahren Sie, wie Sie auf Profil-Daten zugreifen, Profil sortieren und filtern und Profil manuell erstellen und verwalten können. In diesem Video wird auch die Einhaltung der Allgemeinen Datenschutzverordnung (GDPR) und des California Consumer Privacy Act (CCPA) durch Adobe Campaign Classic erläutert.
 feature: Profiles
 topics: null
 kt: 5081
@@ -20,9 +20,9 @@ ht-degree: 14%
 
 # Profile erstellen und verwalten
 
-Verstehen Sie das Konzept der Profil in Adobe Campaign Classic. Erfahren Sie, wie Sie auf Profil-Daten zugreifen, Profil sortieren und filtern und Profil manuell erstellen und verwalten können.
+Verstehen Sie das Konzept der Profile in Adobe Campaign Classic. Erfahren Sie, wie Sie auf Profil-Daten zugreifen, Profil sortieren und filtern und Profil manuell erstellen und verwalten können.
 
-In diesem Video wird auch erklärt, dass Adobe Campaign Classic die Bestimmungen der Allgemeinen Datenschutzverordnung (GDPR) und des California Consumer Privacy Act (CCPA) einhält.
+In diesem Video wird auch die Einhaltung der Allgemeinen Datenschutzverordnung (GDPR) und des California Consumer Privacy Act (CCPA) durch Adobe Campaign Classic erläutert.
 
 >[!VIDEO](https://video.tv.adobe.com/v/35611?quality=12)
 
