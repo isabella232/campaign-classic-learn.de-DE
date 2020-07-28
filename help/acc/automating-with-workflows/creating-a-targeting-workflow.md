@@ -1,6 +1,6 @@
 ---
 title: Erstellen eines Zielgruppen-Workflows
-description: Adobe Campaign Classic verwendet Workflows zur Durchführung von Targeting-Kampagnen, zum Erstellen von Kampagnen oder zum Ausführen von Adobe Campaign-technischen Prozessen. In diesem Video konzentrieren wir uns auf Workflows. Mit Targeting Workflows können Sie mehrere Versand-Zielgruppen erstellen.
+description: Adobe Campaign Classic verwendet Workflows, um Targeting-Kampagnen durchzuführen, Kampagnen zu erstellen oder technische Adobe Campaign-Prozesse auszuführen. In diesem Video konzentrieren wir uns auf Workflows. Mit Targeting Workflows können Sie mehrere Versand-Zielgruppen erstellen.
 feature: Workflows
 topics: Targeting Activities
 kt: 2174
