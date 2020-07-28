@@ -10,7 +10,7 @@ team: PM
 translation-type: tm+mt
 source-git-commit: b2820c65a88d25f9b7a4ed5005cd5083463e000a
 workflow-type: tm+mt
-source-wordcount: '159'
+source-wordcount: '160'
 ht-degree: 0%
 
 ---
@@ -22,7 +22,7 @@ ht-degree: 0%
 
 Um auf das SFTP-Management in Control Panel zuzugreifen, gehen Sie zu:
 
-* [Experience Cloud-Startseite](https://experience.adobe.com/#/home) > Lösungsauswahl: **[!DNL Campaign]** > **Control Panel** -Karte > **SFTP** -Karte
+* [Experience Cloud-Startseite](https://experience.adobe.com/#/home) > Lösungsauswahl: Kampagne > **Control Panel** -Karte > **SFTP** -Karte
 
    oder
 * Direkt von der URL: [http://experience.adobe.com/#/controlpanel/sftp](http://experience.adobe.com/#/controlpanel/sftp)
