@@ -18,7 +18,7 @@ ht-degree: 3%
 
 # Verwendung des Prüfpfads
 
-[!UICONTROL Audit Trail] erfasst in Echtzeit eine umfassende Liste von Maßnahmen und Ereignissen, die in Adobe Campaign auftreten. Die [!UICONTROL Audit Trail] -Funktionen bieten eine Möglichkeit zum Zugriff auf einen Verlauf von Daten, um Fragen wie die folgenden zu beantworten:
+Audit Trail erfasst in Echtzeit eine umfassende Liste von Maßnahmen und Ereignissen, die in Adobe Campaign auftreten. Die Funktionen des Audit-Trail bieten einen Self-Service-Zugriff auf einen Verlauf von Daten, um Fragen wie die folgenden zu beantworten:
 
 * Was ist mit einem Objekt passiert?
 * Wer hat es zuletzt geändert und wann?
@@ -28,7 +28,7 @@ ht-degree: 3%
 >
 >Prüfspuren erfordern Campaign Classic Version 19.1 oder neuer
 
-Der [!UICONTROL Prüfpfad] protokolliert und protokolliert Operatoraktionen wie Erstellen, Ändern und Löschen für Workflows, Optionen und Quell-Schema. Zusätzlich werden die folgenden Aktionen speziell für Workflows protokolliert:
+Der Prüfpfad protokolliert und protokolliert Operatoraktionen wie Erstellen, Ändern und Löschen für Workflows, Optionen und Quell-Schema. Zusätzlich werden die folgenden Aktionen speziell für Workflows protokolliert:
 
 * Starten
 * Aussetzen
