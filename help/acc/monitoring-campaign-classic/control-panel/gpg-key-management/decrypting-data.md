@@ -11,8 +11,8 @@ team: PM
 translation-type: tm+mt
 source-git-commit: b2820c65a88d25f9b7a4ed5005cd5083463e000a
 workflow-type: tm+mt
-source-wordcount: '88'
-ht-degree: 6%
+source-wordcount: '89'
+ht-degree: 16%
 
 ---
 
@@ -20,11 +20,11 @@ ht-degree: 6%
 # Entschlüsseln von Daten
 
 Mit Control Panel können Sie externe Daten, die in Ihre Adobe Campaign-Instanzen gelangen, mit einem öffentlichen/privaten Schlüsselpaar entschlüsseln.
-Erfahren Sie, wie Sie einen öffentlichen Schlüssel erstellen, importieren und auf einer [!DNL Campaign] Instanz für die Entschlüsselung eingehender Daten installieren.
+Erfahren Sie, wie Sie einen öffentlichen Schlüssel erstellen, importieren und auf einer Kampagne-Instanz für die Entschlüsselung eingehender Daten installieren.
 
 >[!VIDEO](https://video.tv.adobe.com/v/36482?quality=12)
 
 ## Zusätzliche Ressourcen
 
 * [GPG-Key-Management (Videos)](./gpg-key-management-overview.md)
-* [GPG-Schlüsselverwaltung (Dokumentation)](https://docs.adobe.com/content/help/en/control-panel/using/instances-settings/gpg-keys-management.html)
+* [GPG-Schlüsselverwaltung (Dokumentation)](https://docs.adobe.com/content/help/de-DE/control-panel/using/instances-settings/gpg-keys-management.html)
