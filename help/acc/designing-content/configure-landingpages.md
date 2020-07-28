@@ -1,5 +1,5 @@
 ---
-title: Landingpages in Adobe Campaign Classic konfigurieren
+title: Konfigurieren von Landingpages in Adobe Campaign Classic
 description: Mit Adobe Campaign Classic können Sie verschiedene Webseiten auf dem Server entwerfen und hosten, einschließlich Online-Umfragen, Präferenzzentren und Abmeldeseiten. In diesem Video wird gezeigt, wie Sie durch das Erstellen eines Voreinstellungszentrums im Web-Anwendungs-Editor von Adobe Campaign navigieren.
 feature: Landing Pages
 topics: Configure
