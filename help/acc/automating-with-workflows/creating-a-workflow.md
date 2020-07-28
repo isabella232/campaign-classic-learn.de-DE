@@ -1,6 +1,6 @@
 ---
-title: 'Workflow erstellen  '
-seo-title: 'Workflow erstellen   '
+title: Erstellen eines Workflows
+seo-title: 'Workflow erstellen    '
 description: In diesem Video wird das Erstellen eines Workflows in Adobe Campaign Classic erläutert.
 seo-description: In diesem Video wird das Erstellen eines Workflows in Adobe Campaign Classic erläutert.
 uuid: 2b6be688-0569-45e7-93fe-fbfac4819198
@@ -15,12 +15,12 @@ translation-type: tm+mt
 source-git-commit: b2820c65a88d25f9b7a4ed5005cd5083463e000a
 workflow-type: tm+mt
 source-wordcount: '204'
-ht-degree: 59%
+ht-degree: 56%
 
 ---
 
 
-# Workflow erstellen  
+# Erstellen eines Workflows
 
 Mit Adobe Campaign verfügen Sie über ein integriertes Workflow-Management-System, welches die zentrale Steuerung aller Prozesse und Vorgänge der Anwendung ermöglicht. Die Workflow-Engine dient der Modellierung und Automatisierung der verschiedenen Aufgaben der Anwendungsserver-Module. Mithilfe der grafischen Oberfläche lassen sich vollständige Arbeitsabläufe zur Segmentierung von Zielgruppen, der Ausführung von Kampagnen, dem Umgang mit Dateien etc. gestalten.
 
