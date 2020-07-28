@@ -1,5 +1,5 @@
 ---
-title: Adobe Campaign Classic-Tutorials - Übersicht
+title: Adobe Campaign Classic-Tutorials - Überblick
 description: Adobe Campaign bietet eine Plattform zur Konzeption kanalübergreifender Kundenerlebnisse und stellt dazu eine Umgebung für die Entwicklung visueller Kampagnen, die Verwaltung von Echtzeit-Interaktionen und die kanalübergreifende Umsetzung bereit. Dieses Benutzerhandbuch enthält Videos und Tutorials zu den zahlreichen Funktionen und Funktionen von Adobe Campaign Standard.
 product: Campaign
 sub-product: Campaign Classic
@@ -14,13 +14,13 @@ ht-degree: 25%
 
 # Übersicht
 
-Adobe Campaign bietet eine Plattform zur Konzeption kanalübergreifender Kundenerlebnisse und stellt dazu eine Umgebung für die Entwicklung visueller Kampagnen, die Verwaltung von Echtzeit-Interaktionen und die kanalübergreifende Umsetzung bereit. Dieses Benutzerhandbuch enthält Videos und Tutorials zu den zahlreichen Funktionen von Adobe Campaign Classic.
+Adobe Campaign bietet eine Plattform zur Konzeption kanalübergreifender Kundenerlebnisse und stellt dazu eine Umgebung für die Entwicklung visueller Kampagnen, die Verwaltung von Echtzeit-Interaktionen und die kanalübergreifende Umsetzung bereit. Dieses Benutzerhandbuch enthält Videos und Tutorials zu den zahlreichen Funktionen und Funktionen von Adobe Campaign Classic.
 
 ## Neue Funktionen
 
 * **[GPG-Schlüsselverwaltung](/help/acc/monitoring-campaign-classic/control-panel/gpg-key-management/gpg-key-management-overview.md)**
 
-   *Erfahren Sie, wie Sie ein Paar mit öffentlichem/privatem Schlüssel für die Verschlüsselung von ausgehenden Daten auf einer angegebenen[!UICONTROL Kampagne]-Instanz erstellen und installieren sowie einen öffentlichen Schlüssel für die Entschlüsselung eingehender Daten importieren und auf einer Kampagne installieren.*
+   *Erfahren Sie, wie Sie ein Public-Private-Key-Paar für die Verschlüsselung ausländischer Kampagnen auf einer angegebenen Instanz erstellen und installieren sowie einen öffentlichen Schlüssel für die Entschlüsselung eingehender Daten importieren und auf einer Kampagne installieren.*
 
 * **[Delegieren von Subdomänen (BETA)](/help/acc/monitoring-campaign-classic/control-panel/subdomain-delegation.md)**
 
@@ -28,7 +28,7 @@ Adobe Campaign bietet eine Plattform zur Konzeption kanalübergreifender Kundene
 
 * **[Definieren interaktiver E-Mail-Inhalte mit AMP](/help/acc/sending-messages/email-channel/defining-interactive-email-content-with-amp.md)**
 
-   *Erfahren Sie, wie Sie den E-Mail-Content Adobe Campaign Classic (ACC) im AMP-Format konfigurieren.*
+   *Erfahren Sie, wie Sie den E-Mail-Inhalt Adobe Campaign Classic(ACC) im AMP-Format konfigurieren.*
 
 ## Personalauswahl
 
@@ -61,11 +61,11 @@ Adobe Campaign bietet eine Plattform zur Konzeption kanalübergreifender Kundene
     <p>
   </td>
   <td>
-    <a href="./sending-messages/personalization-with-dynamic-content-blocks.md">
+    <a href="./sending-messages/email-channel/personalization-with-dynamic-content-blocks.md">
       <img alt="Personalisieren von E-Mails mit dynamischen Inhaltsblöcken (Video)" src="./assets/ACC-Personalization.png" />
     </a>
     <div>
-      <a href="./sending-messages/personalization-with-dynamic-content-blocks.md">
+      <a href="./sending-messages/email-channel/personalization-with-dynamic-content-blocks.md">
     <strong>Personalisieren von E-Mails mit dynamischen Inhaltsblöcken</strong>
     </a>
     </div>
