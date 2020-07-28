@@ -12,7 +12,7 @@ translation-type: tm+mt
 source-git-commit: 2666fa2d95ca6df4720ad6a3e3d5789ac283b3a7
 workflow-type: tm+mt
 source-wordcount: '59'
-ht-degree: 3%
+ht-degree: 18%
 
 ---
 
@@ -26,4 +26,4 @@ Erfahren Sie, wie Sie Daten mit einem auf dem Control Panel installierten GPG-Sc
 ## Zusätzliche Ressourcen
 
 * [GPG-Key-Management (Videos)](./gpg-key-management-overview.md)
-* [GPG-Schlüsselverwaltung (Dokumentation)](https://docs.adobe.com/content/help/en/control-panel/using/instances-settings/gpg-keys-management.html)
+* [GPG-Schlüsselverwaltung (Dokumentation)](https://docs.adobe.com/content/help/de-DE/control-panel/using/instances-settings/gpg-keys-management.html)
