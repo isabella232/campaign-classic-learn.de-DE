@@ -1,5 +1,5 @@
 ---
-title: Festlegen von Eigenschaften von Versandvorlagen in Adobe Campaign Classic
+title: Festlegen der Eigenschaften von Versandvorlagen in Adobe Campaign Classic
 description: Das folgende Video zeigt, wie die Eigenschaften der Versandvorlage in Adobe Campaign Classic festgelegt werden, und erklärt die einzelnen Eigenschaften im Detail.
 feature: Delivery Templates
 topics: Templates
