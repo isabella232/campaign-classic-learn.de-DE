@@ -10,9 +10,9 @@ doc-type: feature video
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: b2820c65a88d25f9b7a4ed5005cd5083463e000a
+source-git-commit: 2d28efe0abc313db87610507564a08a9f7e380dc
 workflow-type: tm+mt
-source-wordcount: '205'
+source-wordcount: '203'
 ht-degree: 2%
 
 ---
@@ -22,16 +22,14 @@ ht-degree: 2%
 
 Mit dem Control Panel können Sie neue Verbindungen zu Ihren Instanzen einrichten, indem Sie die Auflistung der IP-Adressbereiche zulassen. Standardmäßig ist auf eine Adobe Campaign Classic-Instanz von verschiedenen IP-Adressen aus nicht zugegriffen werden kann. Daher muss eine IP-Adresse zugelassen werden:
 
-* So ermöglichen Sie Zugriff auf die Instanz der Kampagne über diese IP-Adresse
+* So erlauben Sie Zugriff auf die [!DNL Campaign] Instanz über diese IP-Adresse
 * So verbinden Sie eine API mit Ihrem Message Center oder Ihrer Marketing-Instanz
 
 ## Zugreifen auf Control Panel-Instanzeinstellungen
 
 Um auf die Subdomänenverwaltung in Control Panel zuzugreifen, gehen Sie zu:
 
-* [Experience Cloud-Startseite](https://experience.adobe.com/#/home) > Lösungsauswahl: Kampagne > **Control Panel** -Karte > Einstellungskarte für **Instanzen**
-
-   oder
+* [Experience Cloud-Startseite](https://experience.adobe.com/#/home) > Lösungsauswahl: **[!DNL Campaign]** > **[!UICONTROL Control Panel]** -Karte > Einstellungsbereich **für** Instanzen
 * Direkt von der URL: [https://experience.adobe.com/#/controlpanel/instances](https://experience.adobe.com/#/controlpanel/instances)
 
 ## Zulassungsliste von IP-Adressen
