@@ -9,9 +9,9 @@ doc-type: feature video
 activity: use
 team: WWFRE
 translation-type: tm+mt
-source-git-commit: e61d64be04034df91778ce0692f6fd406aae2743
+source-git-commit: 689807c24685e4af75ea6497f1bcfbf7cb608667
 workflow-type: tm+mt
-source-wordcount: '106'
+source-wordcount: '113'
 ht-degree: 5%
 
 ---
@@ -35,4 +35,4 @@ Tutorials:
 
 * [Targeting von Profilen in einem Workflow](/help/acc/getting-started/targeting-profiles-in-a-workflow.md)
 * [Zielgruppen durch Ausschließen der Abfrage verfeinern](/help/acc/automating-with-workflows/refining-targets-by-excluding-query-results.md)
-* [Erstellen von Listen mit einem Workflow](/help/acc/automating-with-workflows/creating-lists-with-a-workflow.md)
+* [Verwenden der Aktivität &quot;Liste aktualisieren&quot;, um eine Liste mit einem Workflow zu erstellen](/help/acc/automating-with-workflows/using-the-update-list-activity.md)
