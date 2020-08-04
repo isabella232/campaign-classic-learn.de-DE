@@ -4,9 +4,9 @@ description: Adobe Campaign bietet eine Plattform zur Konzeption kanalübergreif
 product: Campaign
 sub-product: Campaign Classic
 translation-type: tm+mt
-source-git-commit: 2d28efe0abc313db87610507564a08a9f7e380dc
+source-git-commit: 94732bded09a52ec5c15f6da5205f265b4e3089d
 workflow-type: tm+mt
-source-wordcount: '243'
+source-wordcount: '247'
 ht-degree: 25%
 
 ---
@@ -49,28 +49,28 @@ Adobe Campaign bietet eine Plattform zur Konzeption kanalübergreifender Kundene
   </td>
    <td>
     <a href="./monitoring-campaign-classic/audit-trail.md">
-      <img alt="Prüfpfad (Video)" src="./assets/acc-audit-trail.png" />
+      <img alt="Prüfpfad (Video)" src="./assets/acc-audit-trail-thumb.png" />
     </a>
     <div>
       <a href="./monitoring-campaign-classic/audit-trail.md">
     <strong>Audit-Protokoll</strong>
     </a>
-    </div>
+    </div> 
     <p>
     <em>Erfassen Sie eine umfassende Liste von Aktionen und Ereignissen, die in Adobe Campaign auftreten.</em>
     <p>
   </td>
   <td>
-    <a href="./sending-messages/email-channel/personalization-with-dynamic-content-blocks.md">
-      <img alt="Personalisieren von E-Mails mit dynamischen Inhaltsblöcken (Video)" src="./assets/ACC-Personalization.png" />
+    <a href="./sending-messages/email-channel/defining-interactive-email-content-with-amp.md">
+      <img alt="Definieren interaktiver E-Mail-Inhalte mit AMP (Video)" src="./assets/29940.png" />
     </a>
     <div>
-      <a href="./sending-messages/email-channel/personalization-with-dynamic-content-blocks.md">
-    <strong>Personalisieren von E-Mails mit dynamischen Inhaltsblöcken</strong>
+      <a href="./sending-messages/email-channel/defining-interactive-email-content-with-amp.md">
+    <strong>Definieren interaktiver E-Mail-Inhalte mit AMP</strong>
     </a>
     </div>
     <p>
-    <em>Personalisieren Sie Nachrichten mithilfe von Kriterien aus Empfänger-Profilen. </em>
+    <em>Erfahren Sie, wie Sie AMP in Adobe Campaign Classic aktivieren und verwenden </em>
     <p>
   </td>
 </tr>
