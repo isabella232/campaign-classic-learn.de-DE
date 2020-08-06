@@ -1,6 +1,6 @@
 ---
 title: Subdomänen übertragen
-description: 'Mit Adobe Campaign Control Panel können Sie eine Subdomäne vollständig an Adobe Campaign delegieren. Gehen Sie dazu wie folgt vor:'
+description: 'Mit der Adobe Campaign-Systemsteuerung können Sie eine Subdomäne vollständig an Adobe Campaign delegieren. Gehen Sie dazu wie folgt vor:'
 feature: Subdomain Delegation
 topics: Control Panel
 kt: 4115
@@ -8,7 +8,7 @@ doc-type: feature video
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: 2d28efe0abc313db87610507564a08a9f7e380dc
+source-git-commit: ce29e5dc91fad713ac0d19752dd8f84f9889df38
 workflow-type: tm+mt
 source-wordcount: '131'
 ht-degree: 16%
@@ -19,17 +19,16 @@ ht-degree: 16%
 # Subdomänen übertragen
 
 >[!NOTE]
-
-> Die Subdomänenübertragung des [!UICONTROL Control Panels] erfolgt in Beta-Phase und unterliegt
-> häufige Updates und Änderungen ohne Vorankündigung.
+>
+> Subdomain delegation from the [!UICONTROL Control Panel] is in beta and subject to frequent updates and modifications without notice.
 
 Adobe Campaign [!UICONTROL Control Panel] allows you to fully delegate a subdomain to Adobe Campaign.
 
-## Zugriff auf [!UICONTROL Control Panel] Subdomänenverwaltung
+## Zugriff auf [!UICONTROL Subdomänenverwaltung in der Systemsteuerung]
 
-Um auf die Subdomänenverwaltung in [!UICONTROL Control Panel]zuzugreifen, gehen Sie zu:
+Um auf die Subdomänenverwaltung in der [!UICONTROL Systemsteuerung]zuzugreifen, gehen Sie zu:
 
-* [Experience Cloud-Startseite](https://experience.adobe.com/#/home) > Lösungsauswahl: **[!DNL Campaign]** > **[!UICONTROL Control Panel]** -Karte > **Subdomänen und Zertifikate** -Kanal
+* [Experience Cloud-Startseite](https://experience.adobe.com/#/home) > Lösungsauswahl: **[!DNL Campaign]** > **[!UICONTROL Control Panel]** card > **Subdomains &amp; Certificates** cardor
 * Direkt von der URL: [https://experience.adobe.com/#/controlpanel/domain](https://experience.adobe.com/#/controlpanel/domain)
 
 ## Delegieren von Subdomänen
