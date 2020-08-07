@@ -1,8 +1,8 @@
 ---
 title: Control Panel
 seo-title: Control Panel
-description: Mit dem Control Panel können Sie Ihre SFTP-Datenspeicherung nach Instanz und Zulassungsliste-IP-Adressen überwachen und verwalten.
-seo-description: Mit dem Control Panel können Sie Ihre SFTP-Datenspeicherung nach Instanz und Zulassungsliste-IP-Adressen überwachen und verwalten.
+description: Über die Systemsteuerung können Sie Ihre SFTP-Datenspeicherung nach Instanz und Zulassungsliste-IP-Adressen überwachen und verwalten.
+seo-description: Über die Systemsteuerung können Sie Ihre SFTP-Datenspeicherung nach Instanz und Zulassungsliste-IP-Adressen überwachen und verwalten.
 feature: Control Panel
 topics: Control Panel
 kt: 3262
@@ -10,9 +10,9 @@ doc-type: feature video
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: 37c36a52fb6fc7a5ccfe5d82dc9a32397b9a7d89
+source-git-commit: ca3b7933927914b9965f6f059293041dd1db1da2
 workflow-type: tm+mt
-source-wordcount: '485'
+source-wordcount: '463'
 ht-degree: 7%
 
 ---
@@ -23,43 +23,43 @@ ht-degree: 7%
 >[!NOTE]
 >
 >Die Begriffe &quot;[!UICONTROL Whitelist]&quot;und &quot;[!UICONTROL schwarze Liste]&quot;wurden in den Unterlagen zum Adobe Campaign durch &quot;[!UICONTROL Zulassungsliste]&quot;und &quot;[!UICONTROL Blockierungsliste]&quot;ersetzt.
->Einige Vorkommen dieser Begriffe befinden sich möglicherweise noch in der Produktoberfläche, in Optionsnamen, im internen Code sowie in den Übungsvideos. Sie werden in den kommenden Control Paneln ersetzt.
+>Einige Vorkommen dieser Begriffe befinden sich möglicherweise noch in der Produktoberfläche, in Optionsnamen, im internen Code sowie in den Übungsvideos. Sie werden in den kommenden Versionen der Systemsteuerung ersetzt.
 
-Der [!UICONTROL Control Panel] ermöglicht es Adobe Campaign-Administratoren, wichtige Assets zu überwachen und administrative Aufgaben durchzuführen, z. B. die Verwaltung der SFTP-Datenspeicherung nach Instanz oder [!UICONTROL Zulassungsliste] -IP-Adressen.
+The [!UICONTROL Control Panel] allows Adobe Campaign administrators to monitor key assets and perform administrative tasks, such as managing the SFTP storage by instance or [!UICONTROL allow list] IP addresses.
 
 ## Accessing [!UICONTROL Control Panel]
 
-Um auf den Control Panel zuzugreifen, gehen Sie zu Experience Cloud Home: [https://experiencecloud.adobe.com](https://experiencecloud.adobe.com):
+To access the Control Panel go to Experience Cloud Home: [https://experiencecloud.adobe.com](https://experiencecloud.adobe.com):
 
-* **[!UICONTROL Experience Cloud-Startseite]** > **[!UICONTROL Schnellzugriff]**
-
-   oder
-* **[!UICONTROL Experience Cloud-Startseite]** > [!UICONTROL Lösungsauswahl]: **Kampagne** > **[!UICONTROL Control Panel]-Karte **
+* **[!UICONTROL Experience Cloud Home]** > **[!UICONTROL Quick Access]**
 
    oder
+* **[!UICONTROL Experience Cloud Home]**  > [!UICONTROL Solution picker]: **Campaign** > **[!UICONTROL Control Panel]card **
 
-* Direkt von der URL: [https://experience.adobe.com/#/controlpanel](https://experience.adobe.com/#/controlpanel)
+   oder
+
+* Directly from the URL: [https://experience.adobe.com/#/controlpanel](https://experience.adobe.com/#/controlpanel)
 
 ## Voraussetzungen
 
-Bevor Sie beginnen, müssen Sie die folgenden Voraussetzungen erfüllen:
+Before you get started, complete the following prerequisites:
 
 ### Bestätigen [!DNL IMS Org ID]
 
-Du musst dein [!DNL IMS org ID]wissen. Im folgenden Video wird beschrieben, wo Sie die Instanz suchen können [!DNL IMS org ID].
+You need to know your [!DNL IMS org ID]. The following video describes where you can lookup your instance&#39;s [!DNL IMS org ID].
 
 >[!VIDEO](https://video.tv.adobe.com/v/27183?quality=12)
-*Prüfung[!DNL IMS Org ID](00:26 Min.)*
+*Check[!DNL IMS Org ID](00:26 min)*
 
-### Administratorrechte
+### Administrator rights
 
-Für den Zugriff auf den [!UICONTROL Control Panel]sind Administratorrechte erforderlich.
-Im folgenden Video wird erläutert, wie Sie einer Instanz einer Kampagne einen Administrator hinzufügen
+Administrator rights are required to access to the [!UICONTROL Control Panel].
+The following video explains how to add an administrator to a Campaign instance
 
 >[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12)
-*Hinzufügen eines Administrators zum Profil &quot;[!UICONTROL Administratoren]&quot;zur Verwendung von[!UICONTROL Control Panel](01:03 Min.)*
+*Hinzufügen eines Administrators zum Profil &quot;[!UICONTROL Administratoren]&quot;zur Verwendung der[!UICONTROL Systemsteuerung](01:03 Min.)*
 
-## [!UICONTROL Control Panel] -Lernprogramme
+## [!UICONTROL Bedienfeldübungen]
 
 * **Verwalten von SFTP-Servern**
 
@@ -75,23 +75,19 @@ Im folgenden Video wird erläutert, wie Sie einer Instanz einer Kampagne einen A
 
 * **[SSL-Zertifikate hinzufügen](/help/acc/monitoring-campaign-classic/control-panel/adding-ssl-certificates.md)**
 
-   *Erfahren Sie, wie Sie SSL-Zertifikate hinzufügen können, um Ihre Subdomänen mit Control Panel zu sichern.*
+   *Learn how you can add a SSL certificates to secure your subdomains using Control Panel.*
 
-* **[Verwalten von SSL-Zertifikaten](/help/acc/monitoring-campaign-classic/control-panel/managing-ssl-certificates.md)**
-
-   *Erfahren Sie, wie Sie den Status der SSL-Zertifikate Ihrer Subdomänen sowie Erneuerungen anfordern können.*
-
-* **[URL-Berechtigungen hinzufügen](/help/acc/monitoring-campaign-classic/control-panel/adding-url-permissions.md)**
+* **[Adding URL permissions](/help/acc/monitoring-campaign-classic/control-panel/adding-url-permissions.md)**
 
    *wie Sie einige externe URLs zur Liste autorisierter URLs hinzufügen, damit Ihre Instanz eine Verbindung zu ihnen herstellen kann.*
 
 * **[IP-Zulassungsauflistung für den Zugriff auf Instanzen](/help/acc/monitoring-campaign-classic/control-panel/ip-allow-listing.md)**
 
-   *Erfahren Sie, wie Sie neue Verbindungen zu Ihren Instanzen einrichten, indem Sie die Auflistung[!UICONTROL von IP-Adressbereichen]zulassen.*
+   *Learn how to set up new connections to your instances by[!UICONTROL allow listing]IP addresses ranges.*
 
 * **[Verwaltung von Google TXT-Einträgen](/help/acc/monitoring-campaign-classic/control-panel/google-txt-record-management.md)**
 
-   *Erfahren Sie, wie Sie allen Subdomänen, die zum Senden von E-Mails an[!DNL Google TXT]Adressen über den[!DNL GMAIL]Kampagnen-Control Panelverwendet werden, einen Site-Überprüfungsdatensatz hinzufügen.*
+   *Erfahren Sie, wie Sie allen Subdomänen, die zum Senden von E-Mails an[!DNL Google TXT]Adressen über die[!DNL GMAIL]Systemsteuerungverwendet werden, einen Site-Überprüfungsdatensatz hinzufügen.*
 
 * **GPG-Schlüsselverwaltung**
 
@@ -103,8 +99,8 @@ Im folgenden Video wird erläutert, wie Sie einer Instanz einer Kampagne einen A
 
 * **[Fehlerbehebung im Bedienfeld](/help/acc/monitoring-campaign-classic/control-panel/trouble-shooting.md)**
 
-   *Fehlerbehebung beim[!UICONTROL Control Panel ]*
+   *Informationen zur Fehlerbehebung in der[!UICONTROL Systemsteuerung ]*
 
 ## Zusätzliche Ressourcen
 
-* [Control Panel Help Center](https://docs.adobe.com/content/help/de-DE/control-panel/using/control-panel-home.html)
+* [Hilfe-Center für Systemsteuerung](https://docs.adobe.com/content/help/de-DE/control-panel/using/control-panel-home.html)
