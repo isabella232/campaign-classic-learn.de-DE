@@ -10,10 +10,10 @@ tutorials-url: https://docs.adobe.com/content/help/en/campaign-classic-learn/tut
 getting-started-title: Dokumentation
 getting-started-url: https://docs.campaign.adobe.com/doc/AC/en/PTF_Starting_with_Adobe_Campaign_About_Adobe_Campaign_Classic.html
 translation-type: tm+mt
-source-git-commit: 689807c24685e4af75ea6497f1bcfbf7cb608667
+source-git-commit: c381bc42774310cef01ecd575e0a3cb5e43147c1
 workflow-type: tm+mt
-source-wordcount: '353'
-ht-degree: 11%
+source-wordcount: '350'
+ht-degree: 12%
 
 ---
 
@@ -23,7 +23,7 @@ ht-degree: 11%
 + [Übersicht](/help/acc/overview.md)
 + Erste Schritte {#getting-started}
    + [Einführung in Adobe Campaign Classic](/help/acc/getting-started/introduction-to-adobe-campaign-classic.md)
-   + [Benutzeroberfläche von Adobe Campaign Classic](/help/acc/getting-started/exploring-the-adobe-campaign-classic-user-interface.md)
+   + [Exploring the Adobe Campaign Classic user interface](/help/acc/getting-started/exploring-the-adobe-campaign-classic-user-interface.md)
    + [Verwalten von Marketing-Kampagnen](/help/acc/getting-started/managing-marketing-campaigns.md)
    + [Erstellen von Marketingplänen, Programmen und Kampagnen](/help/acc/getting-started/creating-a-marketing-plan-programs-and-campaigns.md)
    + [Erstellen einer Kampagne und einer E-Mail](https://docs.adobe.com/content/help/en/campaign-classic-learn/tutorials/getting-started/creating-a-campaign-and-an-email.html)
@@ -39,9 +39,9 @@ ht-degree: 11%
       + [Saatgut und Testversand in einer E-Mail verwalten](/help/acc/sending-messages/managing-seed-and-proofs.md)
       + [Personalisieren von E-Mails mit dynamischen Inhaltsblöcken](/help/acc/sending-messages/email-channel/personalization-with-dynamic-content-blocks.md)
       + [Personalisieren von E-Mails mit dem Feld &quot;Personalisierung&quot;](/help/acc/sending-messages/email-channel/personalizing-emails-using-personalization-fields.md)
-      + [Personalisieren von E-Mails - Erstellen eines mehrsprachigen Newsletters mit bedingtem Inhalt](/help/acc/sending-messages/email-channel/personalizing-emails-create-a-multi-lingual-newsletter-using-conditional-content.md)
-      + [Regelmäßige und kontinuierliche E-Mail-Kampagnen konfigurieren](/help/acc/sending-messages/recurring-deliveries.md)
-      + [Definieren interaktiver E-Mail-Inhalte mit AMP](/help/acc/sending-messages/email-channel/defining-interactive-email-content-with-amp.md)
+      + [Personalizing emails - Create a multi lingual newsletter using conditional content](/help/acc/sending-messages/email-channel/personalizing-emails-create-a-multi-lingual-newsletter-using-conditional-content.md)
+      + [Configure recurring and continuous email campaigns](/help/acc/sending-messages/recurring-deliveries.md)
+      + [Defining Interactive Email Content with AMP](/help/acc/sending-messages/email-channel/defining-interactive-email-content-with-amp.md)
    + Push-Kanal {#push-channel}
       + [Push-Kanal mit dem Experience Platform Mobile SDK konfigurieren](/help/acc/sending-messages/mobile-channel/configure-push-using-aep-mobile-sdk.md)
    + Versandvorlagen verwenden{#using-delivery-templates}
@@ -73,15 +73,14 @@ ht-degree: 11%
    + [Integration von Dynamics 365 mit Adobe Campaign Classic](/help/acc/integrations/dynamics365-integration.md)
 + Verwalten{#administrating}
    + Control Panel {#control-panel-acc}
-      + [Übersicht über die Systemsteuerung](/help/acc/monitoring-campaign-classic/control-panel/control-panel-overview.md)
+      + [Control Panel Overview](/help/acc/monitoring-campaign-classic/control-panel/control-panel-overview.md)
       + [Überwachen der Serverkapazität, Auflisten von IP-Adressen und Hinzufügen von SSH-Schlüsseln](/help/acc/monitoring-campaign-classic/control-panel/monitoring-server-capacity-allow-listing-adding-ssh-key.md)
       + [Erstellen eines SSH-Schlüssels](/help/acc/monitoring-campaign-classic/control-panel/generate-ssh-key.md)
       + [Herstellen einer Verbindung zu einem SFTP-Server](/help/acc/monitoring-campaign-classic/control-panel/connect-to-sftp-server.md)
       + [Subdomänen übertragen](/help/acc/monitoring-campaign-classic/control-panel/subdomain-delegation.md)
       + [SSL-Zertifikate hinzufügen](/help/acc/monitoring-campaign-classic/control-panel/adding-ssl-certificates.md)
-      + [Verwalten von SSL-Zertifikaten](/help/acc/monitoring-campaign-classic/control-panel/managing-ssl-certificates.md)
       + [Hinzufügen von URL-Berechtigungen](/help/acc/monitoring-campaign-classic/control-panel/adding-url-permissions.md)
-      + [IP-Listen für Instanzzugriff zulassen](/help/acc/monitoring-campaign-classic/control-panel/ip-allow-listing.md)
+      + [IP allow listing for Instance Access](/help/acc/monitoring-campaign-classic/control-panel/ip-allow-listing.md)
       + [Verwaltung von Google TXT-Einträgen](/help/acc/monitoring-campaign-classic/control-panel/google-txt-record-management.md)
       + GPG-Schlüsselverwaltung {#gpg-key-management}
          + [GPG-Schlüsselmanagement - Übersicht](/help/acc/monitoring-campaign-classic/control-panel/gpg-key-management/gpg-key-management-overview.md)
