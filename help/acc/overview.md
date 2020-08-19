@@ -1,36 +1,36 @@
 ---
-title: Adobe Campaign Classic-Tutorials - Überblick
-description: Adobe Campaign bietet eine Plattform zur Konzeption kanalübergreifender Kundenerlebnisse und stellt dazu eine Umgebung für die Entwicklung visueller Kampagnen, die Verwaltung von Echtzeit-Interaktionen und die kanalübergreifende Umsetzung bereit. Dieses Benutzerhandbuch enthält Videos und Tutorials zu den zahlreichen Funktionen und Funktionen von Adobe Campaign Standard.
+title: Adobe Campaign Classic-Tutorials – Übersicht
+description: Adobe Campaign bietet eine Plattform zur Konzeption kanalübergreifender Kundenerlebnisse und stellt dazu eine Umgebung für die Entwicklung visueller Kampagnen, die Verwaltung von Echtzeit-Interaktionen und die kanalübergreifende Umsetzung bereit. Dieses Benutzerhandbuch enthält Videos und Tutorials zu den verschiedenen Funktionen und Leistungsmerkmalen von Adobe Campaign Standard.
 product: Campaign
 sub-product: Campaign Classic
 translation-type: tm+mt
 source-git-commit: 94732bded09a52ec5c15f6da5205f265b4e3089d
 workflow-type: tm+mt
 source-wordcount: '247'
-ht-degree: 25%
+ht-degree: 92%
 
 ---
 
 
 # Übersicht
 
-Adobe Campaign bietet eine Plattform zur Konzeption kanalübergreifender Kundenerlebnisse und stellt dazu eine Umgebung für die Entwicklung visueller Kampagnen, die Verwaltung von Echtzeit-Interaktionen und die kanalübergreifende Umsetzung bereit. Dieses Benutzerhandbuch enthält Videos und Tutorials zu den zahlreichen Funktionen und Funktionen von Adobe Campaign Classic.
+Adobe Campaign bietet eine Plattform zur Konzeption kanalübergreifender Kundenerlebnisse und stellt dazu eine Umgebung für die Entwicklung visueller Kampagnen, die Verwaltung von Echtzeit-Interaktionen und die kanalübergreifende Umsetzung bereit. Dieses Benutzerhandbuch enthält Videos und Tutorials zu den verschiedenen Funktionen und Leistungsmerkmalen von Adobe Campaign Classic.
 
 ## Neue Funktionen
 
-* **[GPG-Schlüsselverwaltung](/help/acc/monitoring-campaign-classic/control-panel/gpg-key-management/gpg-key-management-overview.md)**
+* **[Verwaltung von GPG-Schlüsseln](/help/acc/monitoring-campaign-classic/control-panel/gpg-key-management/gpg-key-management-overview.md)**
 
-   *Erfahren Sie, wie Sie ein Paar mit öffentlichem/privatem Schlüssel für die Verschlüsselung von ausgehenden Daten auf einer angegebenen[!UICONTROL Kampagne]-Instanz erstellen und installieren sowie einen öffentlichen Schlüssel für die Entschlüsselung eingehender Daten importieren und auf einer Kampagne installieren.*
+   *Erfahren Sie, wie Sie zur Verschlüsselung ausgehender Daten ein Schüsselpaar aus öffentlichem/privatem Schlüssel generieren und in einer angegebenen[!UICONTROL Campaign]-Instanz installieren sowie zur Entschlüsselung eingehender Daten einen öffentlichen Schlüssel importieren und in einer Campaign-Instanz installieren.*
 
-* **[Delegieren von Subdomänen (BETA)](/help/acc/monitoring-campaign-classic/control-panel/subdomain-delegation.md)**
+* **[Zuweisen von Subdomains (BETA)](/help/acc/monitoring-campaign-classic/control-panel/subdomain-delegation.md)**
 
-   *Erfahren Sie, wie Sie eine Subdomäne vollständig an Adobe Campaign delegieren.*
+   *Erfahren Sie, wie Sie eine Subdomain vollständig Adobe Campaign zuweisen.*
 
 * **[Definieren interaktiver E-Mail-Inhalte mit AMP](/help/acc/sending-messages/email-channel/defining-interactive-email-content-with-amp.md)**
 
-   *Erfahren Sie, wie Sie den E-Mail-Inhalt Adobe Campaign Classic(ACC) im AMP-Format konfigurieren.*
+   *Erfahren Sie, wie Sie E-Mail-Inhalte für Adobe Campaign Classic (ACC) im AMP-Format konfigurieren.*
 
-## Personalauswahl
+## Mitarbeiterauswahl
 
 <table>
 <tr>
@@ -44,12 +44,12 @@ Adobe Campaign bietet eine Plattform zur Konzeption kanalübergreifender Kundene
     </a>
     </div>
     <p>
-    <em>Verschaffen Sie sich einen Überblick über die Anzahl der gleichzeitigen Workflows.</em>
+    <em>Verschaffen Sie sich einen Überblick über die Zahl gleichzeitiger Workflows.</em>
     <p>
   </td>
    <td>
     <a href="./monitoring-campaign-classic/audit-trail.md">
-      <img alt="Prüfpfad (Video)" src="./assets/acc-audit-trail-thumb.png" />
+      <img alt="Audit-Protokoll (Video)" src="./assets/acc-audit-trail-thumb.png" />
     </a>
     <div>
       <a href="./monitoring-campaign-classic/audit-trail.md">
@@ -78,4 +78,4 @@ Adobe Campaign bietet eine Plattform zur Konzeption kanalübergreifender Kundene
 
 ## Zusätzliche Ressourcen
 
-* [Dokumentation](https://docs.campaign.adobe.com/doc/AC/en/PTF_Starting_with_Adobe_Campaign_About_Adobe_Campaign_Classic.html)
+* [Dokumentation](https://docs.adobe.com/content/help/de-DE/campaign-classic/using/getting-started/starting-with-adobe-campaign/about-adobe-campaign-classic.html)
