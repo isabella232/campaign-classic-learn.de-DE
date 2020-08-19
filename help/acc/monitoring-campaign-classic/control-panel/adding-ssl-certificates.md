@@ -1,6 +1,6 @@
 ---
-title: SSL-Zertifikate hinzufügen
-description: Mit Adobe Campaign Control Panel können Sie SSL-Zertifikate hinzufügen, um Ihre Subdomänen zu schützen.
+title: Hinzufügen von SSL-Zertifikaten
+description: Mit dem Adobe Campaign Control Panel können Sie SSL-Zertifikate hinzufügen, um Ihre Subdomains zu schützen.
 feature: SSL Certificates
 topics: Control Panel
 kt: 4219
@@ -10,52 +10,52 @@ team: PM
 translation-type: tm+mt
 source-git-commit: b2820c65a88d25f9b7a4ed5005cd5083463e000a
 workflow-type: tm+mt
-source-wordcount: '221'
-ht-degree: 5%
+source-wordcount: '220'
+ht-degree: 100%
 
 ---
 
 
-# SSL-Zertifikate hinzufügen
+# Hinzufügen von SSL-Zertifikaten
 
-Mit Adobe Campaign Control Panel können Sie SSL-Zertifikate hinzufügen, um Ihre Subdomänen zu schützen.
+Mit dem Adobe Campaign [!UICONTROL Control Panel] können Sie SSL-Zertifikate hinzufügen, um Ihre Subdomains zu schützen.
 
-## Zugriff auf Control Panel-Subdomänenverwaltung
+## Zugriff auf die Verwaltung von Subdomains im Control Panel
 
-Um auf die Subdomänenverwaltung in Control Panel zuzugreifen, gehen Sie zu:
+Um auf die Verwaltung von Subdomains im Control Panel zuzugreifen, navigieren Sie zu:
 
-* [Experience Cloud-Startseite](https://experience.adobe.com/#/home) > Lösungsauswahl: Kampagne > **Control Panel** -Karte > **Subdomänen- und Zertifikatkarte**
+* [Experience Cloud Home](https://experience.adobe.com/#/home) > Lösungsauswahl: **[!DNL Campaign]** > **[!UICONTROL Control Panel]**-Karte > **[!UICONTROL Subdomains und Zertifikate]**-Karte
 
    oder
-* Direkt von der URL: [https://experience.adobe.com/#/controlpanel/domain](https://experience.adobe.com/#/controlpanel/domain)
+* Direkt über die URL: [https://experience.adobe.com/#/controlpanel/domain](https://experience.adobe.com/#/controlpanel/domain)
 
 ## Schritte zum Hinzufügen von SSL-Zertifikaten
 
 Das Hinzufügen von SSL-Zertifikaten erfordert drei Schritte:
 
-### 1. Zertifikatsignaturanforderungen erstellen
+### 1. Certificate Signing Requests erzeugen
 
-Die Zertifikatsignaturanforderung (Certificate Signing Request, CSR) ist für den Erwerb eines SSL-Zertifikats erforderlich. Ich muss für die Instanz und die Subdomänen generiert werden, die Sie sichern möchten.
+Für den Erwerb eines SSL-Zertifikats ist ein Certificate Signing Request (CSR) erforderlich. Es muss für die Instanz und die Subdomains, die Sie schützen möchten, generiert werden.
 
-Im folgenden Video wird beschrieben, wie Sie eine Zertifikatsignaturanforderung in Control Panel generieren.
+Im folgenden Video erfahren Sie, wie Sie ein Certificate Signing Request im Control Panel generieren.
 
 >[!VIDEO](https://video.tv.adobe.com/v/31317?quality=12)
-*Zertifikatsignaturanforderungen erstellen (02:36 Min.)*
+*Certificate Signing Requests generieren (02:36 Min.)*
 
-### 2. SSL-Zertifikat erwerben
+### 2- SSL-Zertifikat kaufen
 
-Nach Erhalt des CSR müssen Sie das SSL-Zertifikat von einer Zertifizierungsstelle erwerben, die von Ihrem Unternehmen genehmigt wurde.
+Nach dem Erhalt des CSR müssen Sie das SSL-Zertifikat von einer Zertifizierungsstelle erwerben, die von Ihrem Unternehmen genehmigt wurde.
 
-### 3. SSL-Zertifikate installieren
+### 3- SSL-Zertifikate installieren
 
-Nachdem Sie das SSL-Zertifikat erhalten haben, muss es für die Subdomänen installiert werden, die Sie schützen möchten.
+Nachdem Sie das SSL-Zertifikat erhalten haben, muss es für die Subdomains, die Sie schützen möchten, installiert werden.
 
-Im folgenden Video wird erklärt, wie SSL-Zertifikate in Control Panel installiert werden.
+Im folgenden Video erfahren Sie, wie SSL-Zertifikate im [!UICONTROL Control Panel]installiert werden.
 
 >[!VIDEO](https://video.tv.adobe.com/v/31166?quality=12)
 *SSL-Zertifikate installieren (01:25 Min.)*
 
 ## Zusätzliche Ressourcen
 
-* [Subdomänen übertragen](/help/acc/monitoring-campaign-classic/control-panel/subdomain-delegation.md)
-* [Subdomänen und Zertifikate - Dokumentation](https://docs.adobe.com/content/help/de-DE/control-panel/using/subdomains-and-certificates/renewing-subdomain-certificate.html)
+* [Zuweisen von Subdomains](/help/acc/monitoring-campaign-classic/control-panel/subdomain-delegation.md)
+* [Subdomains und Zertifikate – Dokumentation](https://docs.adobe.com/content/help/de-DE/control-panel/using/subdomains-and-certificates/renewing-subdomain-certificate.html)
