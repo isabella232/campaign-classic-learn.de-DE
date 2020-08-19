@@ -1,8 +1,8 @@
 ---
-title: URL-Berechtigungen hinzufügen
+title: Hinzufügen von URL-Berechtigungen
 seo-title: Hinzufügen von URL-Berechtigungen
-description: 'Im folgenden Video wird erklärt, wie einige externe URLs zur Liste autorisierter URLs hinzugefügt werden, damit Ihre Instanz eine Verbindung zu diesen URLs herstellen kann.  '
-seo-description: 'In dem folgenden Video wird erläutert, wie der Liste autorisierter URLs einige externe URLs hinzugefügt werden, damit die Instanz eine Verbindung zu ihnen herstellen kann. '
+description: 'Im folgenden Video erfahren Sie, wie Sie über das Control Panel externe URLs zur Liste der berechtigten URLs hinzufügen, sodass sich Ihre Instanz mit ihnen verbinden kann.  '
+seo-description: 'Im folgenden Video erfahren Sie, wie Sie über das Control Panel externe URLs zur Liste der berechtigten URLs hinzufügen, sodass sich Ihre Instanz mit ihnen verbinden kann. '
 feature: URl Permissions
 topics: Control Panel
 kt: 3259
@@ -13,14 +13,14 @@ translation-type: tm+mt
 source-git-commit: 7518219e6e6e60a558cfb9026c1f401018927028
 workflow-type: tm+mt
 source-wordcount: '106'
-ht-degree: 4%
+ht-degree: 100%
 
 ---
 
 
-# URL-Berechtigungen hinzufügen
+# Hinzufügen von URL-Berechtigungen
 
-Im folgenden Video wird erklärt, wie einige externe URLs zur Liste autorisierter URLs hinzugefügt werden, damit Ihre Instanz eine Verbindung zu diesen URLs herstellen kann.  Weitere Informationen finden Sie unter Informationen zu URL-Berechtigungen. Weitere Informationen finden Sie unter [URL-Berechtigungen](https://helpx.adobe.com/de/campaign/kb/control-panel-instance-settings.html).
+Im Folgenden Video erfahren Sie, wie Sie über das Control Panel externe URLs zur Liste der berechtigten URLs hinzufügen, sodass sich Ihre Instanz mit ihnen verbinden kann.  Weitere Informationen finden Sie unter „Über URL-Berechtigungen“. Weitere Informationen finden Sie unter [Über URL-Berechtigungen](https://helpx.adobe.com/de/campaign/kb/control-panel-instance-settings.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/28149?quality=12)
-*URL-Berechtigungen hinzufügen (01:52 Min.)*
+*Hinzufügen von URL-Berechtigungen (01:52 Min.)*
