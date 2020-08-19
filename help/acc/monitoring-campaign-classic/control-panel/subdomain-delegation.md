@@ -1,6 +1,6 @@
 ---
-title: Subdomänen übertragen
-description: Erfahren Sie, wie Sie eine Subdomäne vollständig an Adobe Campaign delegieren.
+title: Zuweisen von Subdomains
+description: Erfahren Sie, wie Sie eine Subdomain vollständig Adobe Campaign zuweisen.
 feature: Subdomain Delegation
 topics: Control Panel
 kt: 4115
@@ -11,34 +11,35 @@ translation-type: tm+mt
 source-git-commit: e40441c242af138f9686d291bb804fae46b4f62d
 workflow-type: tm+mt
 source-wordcount: '120'
-ht-degree: 11%
+ht-degree: 85%
 
 ---
 
 
-# Subdomänen übertragen
+# Zuweisen von Subdomains
 
 >[!NOTE]
 >
 > Subdomain delegation from the [!UICONTROL Control Panel] is in beta and subject to frequent updates and modifications without notice.
 
-Adobe Campaign [!UICONTROL Control Panel] allows you to fully delegate a subdomain to Adobe Campaign.
+Über das Adobe Campaign [!UICONTROL Control Panel] können Sie Adobe Campaign eine Subdomain vollständig zuweisen.
 
-## Zugriff auf [!UICONTROL Subdomänenverwaltung in der Systemsteuerung]
+## Zugreifen auf die Subdomain-Verwaltung im [!UICONTROL Control Panel]
 
-Um auf die Subdomänenverwaltung in der [!UICONTROL Systemsteuerung]zuzugreifen, gehen Sie zu:
+Um auf die Subdomain-Verwaltung im [!UICONTROL Control Panel] zuzugreifen, navigieren Sie zu:
 
-* [Experience Cloud-Startseite](https://experience.adobe.com/#/home) > Lösungsauswahl: **[!DNL Campaign]** > **[!UICONTROL Control Panel]** card > **Subdomains &amp; Certificates** cardor
-* Direkt von der URL: [https://experience.adobe.com/#/controlpanel/domain](https://experience.adobe.com/#/controlpanel/domain)
+* [Startseite von Experience Cloud](https://experience.adobe.com/#/home) > Lösungsauswahl: **[!DNL Campaign]** > **[!UICONTROL Control Panel]**-Karte > **Subdomains und Zertifikate**-Karte
+oder
+* Direkt über die URL: [https://experience.adobe.com/#/controlpanel/domain](https://experience.adobe.com/#/controlpanel/domain)
 
-## Delegieren von Subdomänen
+## Zuweisen von Subdomains
 
-Das folgende Video zeigt, wie Subdomänen delegiert werden.
+Das folgende Video zeigt, wie Sie Subdomains zuweisen können.
 
 >[!VIDEO](https://video.tv.adobe.com/v/31390?quality=12)
-*Subdomänendelegation (05:07 Min.)*
+*Zuweisung von Subdomains (05:07 Min.)*
 
 ## Zusätzliche Ressourcen
 
-* [SSL-zertifiziert hinzufügen](/help/acc/monitoring-campaign-classic/control-panel/adding-ssl-certificates.md)
+* [Hinzufügen von SSL-Zertifikaten](/help/acc/monitoring-campaign-classic/control-panel/adding-ssl-certificates.md)
 * [Subdomains und Zertifikate](https://docs.adobe.com/content/help/de-DE/control-panel/using/subdomains-and-certificates/renewing-subdomain-certificate.html)
