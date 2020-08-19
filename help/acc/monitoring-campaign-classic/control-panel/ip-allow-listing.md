@@ -1,8 +1,8 @@
 ---
-title: IP-Listen für Instanzzugriff zulassen
-seo-title: IP-Listen für Instanzzugriff zulassen
-description: In dem folgenden Video wird beschrieben, wie Sie neue Verbindungen zu Ihren Instanzen einrichten, indem Sie die Auflistung der IP-Adressbereiche zulassen.
-seo-description: In dem folgenden Video wird beschrieben, wie Sie neue Verbindungen zu Ihren Instanzen einrichten, indem Sie die Auflistung der IP-Adressbereiche zulassen.
+title: Setzen von IP-Adressen auf die Zulassungsliste für Zugriff auf Instanzen
+seo-title: Setzen von IP-Adressen auf die Zulassungsliste für Zugriff auf Instanzen
+description: Im folgenden Video erfahren Sie, wie Sie neue Verbindungen zu Ihren Instanzen einrichten, indem Sie IP-Adressbereiche auf die Zulassungsliste setzen.
+seo-description: Im folgenden Video erfahren Sie, wie Sie neue Verbindungen zu Ihren Instanzen einrichten, indem Sie IP-Adressbereiche auf die Zulassungsliste setzen.
 feature: IP allow listing
 topics: Control Panel
 kt: 3479
@@ -13,30 +13,31 @@ translation-type: tm+mt
 source-git-commit: 2d28efe0abc313db87610507564a08a9f7e380dc
 workflow-type: tm+mt
 source-wordcount: '203'
-ht-degree: 2%
+ht-degree: 100%
 
 ---
 
 
-# IP-Listen für Instanzzugriff zulassen
+# Setzen von IP-Adressen auf die Zulassungsliste für Zugriff auf Instanzen
 
-Mit dem Control Panel können Sie neue Verbindungen zu Ihren Instanzen einrichten, indem Sie die Auflistung der IP-Adressbereiche zulassen. Standardmäßig ist auf eine Adobe Campaign Classic-Instanz von verschiedenen IP-Adressen aus nicht zugegriffen werden kann. Daher muss eine IP-Adresse zugelassen werden:
+Im Control Panel können Sie neue Verbindungen zu Ihren Instanzen einrichten, indem Sie IP-Adressbereiche auf die Zulassungsliste setzen. Standardmäßig kann auf eine Adobe Campaign Classic-Instanz nicht über verschiedene IP-Adressen zugegriffen werden. Daher muss eine IP-Adresse auf die Zulassungsliste gesetzt werden:
 
-* So erlauben Sie Zugriff auf die [!DNL Campaign] Instanz über diese IP-Adresse
-* So verbinden Sie eine API mit Ihrem Message Center oder Ihrer Marketing-Instanz
+* Um Zugriff auf die [!DNL Campaign]-Instanz über diese IP-Adresse zuzulassen
+* Um eine API mit Ihrem Message Center oder Ihrer Marketing-Instanz zu verbinden
 
-## Zugreifen auf Control Panel-Instanzeinstellungen
+## Zugreifen auf Einstellungen der Control Panel-Instanz
 
-Um auf die Subdomänenverwaltung in Control Panel zuzugreifen, gehen Sie zu:
+Um auf die Verwaltung von Subdomains im Control Panel zuzugreifen, navigieren Sie zu:
 
-* [Experience Cloud-Startseite](https://experience.adobe.com/#/home) > Lösungsauswahl: **[!DNL Campaign]** > **[!UICONTROL Control Panel]** -Karte > Einstellungsbereich **für** Instanzen
-* Direkt von der URL: [https://experience.adobe.com/#/controlpanel/instances](https://experience.adobe.com/#/controlpanel/instances)
+* [Startseite von Experience Cloud](https://experience.adobe.com/#/home) > Lösungsauswahl: **[!DNL Campaign]** > **[!UICONTROL Control Panel]**-Karte > **Einstellungen der Instanzen**-Karte
+oder
+* Direkt über die URL: [https://experience.adobe.com/#/controlpanel/instances](https://experience.adobe.com/#/controlpanel/instances)
 
-## Zulassungsliste von IP-Adressen
+## Setzen von IP-Adressen auf die Zulassungsliste
 
-Im folgenden Video wird die Zulassungsliste von IP-Adressen mithilfe des Bedienfelds beschrieben.
+Im folgenden Video erfahren Sie, wie Sie IP-Adressen mithilfe des Control Panels auf die Zulassungsliste setzen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28726?quality=12)
-*IP-Listen zulassen (03:24 Min.)*
+*IP-Adressen auf Zulassungsliste setzen (03:24 Min.)*
 
-Weitere Informationen zu IP-Listen finden Sie in der [ausführlichen Produktdokumentation](https://helpx.adobe.com/de/campaign/kb/control-panel-instance-settings.html).
+Weiterführende Informationen zum Setzen von IP-Adressen auf die Zulassungsliste finden Sie in der [ausführlichen Produktdokumentation](https://helpx.adobe.com/de/campaign/kb/control-panel-instance-settings.html).
