@@ -1,6 +1,6 @@
 ---
 title: Definieren interaktiver E-Mail-Inhalte mit AMP
-description: In diesem Video wird erläutert, wie der E-Mail-Inhalt Adobe Campaign Classic(ACC) im AMP-Format konfiguriert wird.
+description: In diesem Video wird beschrieben, wie Sie E-Mail-Inhalte für Adobe Campaign Classic (ACC) im AMP-Format konfigurieren.
 feature: Email Channel
 topics: Create and Send Email Deliveries
 kt: 3475
@@ -12,22 +12,22 @@ translation-type: tm+mt
 source-git-commit: 94732bded09a52ec5c15f6da5205f265b4e3089d
 workflow-type: tm+mt
 source-wordcount: '142'
-ht-degree: 47%
+ht-degree: 100%
 
 ---
 
 
 # Definieren interaktiver E-Mail-Inhalte mit AMP
 
-AMP for Email ist ein neues Open-Source-Format, mit dem Entwickler dynamische und interaktive E-Mails erstellen können. Über moderne App-Funktionen, die direkt in E-Mails verfügbar sind, können Empfänger dynamisch mit Inhalten in der Nachricht selbst interagieren.
+„AMP for Email“ ist ein neues Open-Source-Format, mit dem Entwickler dynamische und interaktive E-Mails erstellen können. Über moderne App-Funktionen, die direkt in E-Mails verfügbar sind, können Empfänger dynamisch mit Inhalten in der Nachricht selbst interagieren.
 
 Derzeit wird es von zwei E-Mail-Anbietern unterstützt: Gmail und Outlook.
 
 >[!NOTE]
 >
->Um AMP-E-Mails senden zu können, müssen Sie die E-Mail-Adresse registrieren, die Sie von [Google](https://developers.google.com/gmail/ampemail/register) und [Microsoft](https://docs.microsoft.com/en-us/outlook/amphtml/register-outlook)senden.
+>Um E-Mails mit AMP senden zu können, müssen Sie die E-Mail-Adresse, von der Sie senden, bei [Google](https://developers.google.com/gmail/ampemail/register) und [Microsoft](https://docs.microsoft.com/de-de/outlook/amphtml/register-outlook) registrieren.
 
-In dem folgenden Video wird erläutert, wie AMP in Adobe Campaign Classic aktiviert wird, und die Verwendung wird erläutert.
+Im folgenden Video wird erläutert, wie Sie AMP in Adobe Campaign Classic aktivieren und nutzen können.
 
 >[!VIDEO](https://video.tv.adobe.com/v/29940?quality=12&learn=on)
 
