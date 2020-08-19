@@ -1,23 +1,23 @@
 ---
-title: GPG-Schlüsselmanagement - Übersicht
-description: In den folgenden Videos wird beschrieben, wie Sie ein Paar mit öffentlichem/privatem Schlüssel für die Verschlüsselung von ausgehenden Kampagnen auf einer bestimmten Instanz erstellen und installieren sowie einen öffentlichen Schlüssel für die Entschlüsselung von Eingangsdaten importieren und auf einer Kampagne installieren.
+title: Verwaltung von GPG-Schlüsseln – Übersicht
+description: In den folgenden Videos erfahren Sie, wie Sie zur Verschlüsselung ausgehender Daten ein Schlüsselpaar aus öffentlichem/privatem Schlüssel generieren und in einer angegebenen Campaign-Instanz installieren sowie zur Entschlüsselung eingehender Daten einen öffentlichen Schlüssel importieren und in einer Campaign-Instanz installieren.
 feature: Control Panel
 topics: GPG Key Management
 team: TM
 translation-type: tm+mt
 source-git-commit: b2820c65a88d25f9b7a4ed5005cd5083463e000a
 workflow-type: tm+mt
-source-wordcount: '164'
-ht-degree: 24%
+source-wordcount: '161'
+ht-degree: 100%
 
 ---
 
 
-# GPG-Schlüsselmanagement - Übersicht
+# Verwaltung von GPG-Schlüsseln – Übersicht
 
-GPG (GnuPG) verschlüsselt Nachrichten mit asymmetrischen individuellen Schlüsselpaaren. Um die GPG-Verschlüsselung mit Campaign zu implementieren, müssen GPG-Schlüssel von einem Administrator direkt über das Control Panel in einer Marketing-Instanz installiert bzw. generiert werden.
+GPG (GnuPG) verschlüsselt Nachrichten mit asymmetrischen individuellen Schlüsselpaaren. Um die GPG-Verschlüsselung mit [!DNL Campaign] zu implementieren, müssen GPG-Schlüssel von einem Administrator direkt über das Control Panel in einer Marketing-Instanz installiert bzw. generiert werden.
 
-In den folgenden Videos wird beschrieben, wie Sie ein Paar mit öffentlichem/privatem Schlüssel für die Verschlüsselung von ausgehenden Kampagnen auf einer bestimmten Instanz erstellen und installieren sowie einen öffentlichen Schlüssel für die Entschlüsselung von Eingangsdaten importieren und auf einer Kampagne installieren.
+In den folgenden Videos erfahren Sie, wie Sie zur Verschlüsselung ausgehender Daten ein Schlüsselpaar aus öffentlichem/privatem Schlüssel generieren und in einer angegebenen [!DNL Campaign]-Instanz installieren sowie zur Entschlüsselung eingehender Daten einen öffentlichen Schlüssel importieren und in einer [!DNL Campaign]-Instanz installieren.
 
 * [Generieren und Installieren von GPG-Schlüsseln für die Datenverschlüsselung](./generating-and-installing-gpg-keys-for-data-encryption.md)
 * [Verschlüsseln von Daten mit einem GPG-Schlüssel](./using-a-gpg-key-to-encrypt-data.md)
@@ -25,4 +25,4 @@ In den folgenden Videos wird beschrieben, wie Sie ein Paar mit öffentlichem/pri
 
 ## Zusätzliche Ressourcen
 
-* [GPG-Schlüsselverwaltung (Dokumentation)](https://docs.adobe.com/content/help/de-DE/control-panel/using/instances-settings/gpg-keys-management.html)
+* [Verwaltung von GPG-Schlüsseln (Dokumentation)](https://docs.adobe.com/content/help/de-DE/control-panel/using/instances-settings/gpg-keys-management.html)
