@@ -1,6 +1,6 @@
 ---
-title: Verwendung des Prüfpfads
-description: 'Audit Trail erfasst in Echtzeit eine umfassende Liste von Maßnahmen und Ereignissen, die in Adobe Campaign auftreten. '
+title: Verwenden des Audit-Protokolls
+description: 'Das Audit-Protokoll erfasst in Echtzeit eine umfassende Liste von Aktionen und Ereignissen, die in Adobe Campaign auftreten. '
 feature: Audit Trail
 topics: Monitoring and Guardrails
 kt: 2835
@@ -11,36 +11,36 @@ translation-type: tm+mt
 source-git-commit: b2820c65a88d25f9b7a4ed5005cd5083463e000a
 workflow-type: tm+mt
 source-wordcount: '167'
-ht-degree: 3%
+ht-degree: 100%
 
 ---
 
 
-# Verwendung des Prüfpfads
+# Verwenden des Audit-Protokolls
 
-Audit Trail erfasst in Echtzeit eine umfassende Liste von Maßnahmen und Ereignissen, die in Adobe Campaign auftreten. Die Funktionen des Audit-Trail bieten einen Self-Service-Zugriff auf einen Verlauf von Daten, um Fragen wie die folgenden zu beantworten:
+Das [!UICONTROL Audit-Protokoll] erfasst in Echtzeit eine umfassende Liste von Aktionen und Ereignissen, die in Adobe Campaign auftreten. Die Funktionen des [!UICONTROL Audit-Protokolls] beinhalten eine Self-Service-Option für den Zugriff auf einen Datenverlauf, damit sich zum Beispiel folgende Fragen beantworten lassen:
 
-* Was ist mit einem Objekt passiert?
+* Was ist mit einem Objekt geschehen?
 * Wer hat es zuletzt geändert und wann?
-* Was war der vorherige Bundesstaat?
+* Wie war der vorherige Status?
 
 >[!NOTE]
 >
->Prüfspuren erfordern Campaign Classic Version 19.1 oder neuer
+>Audit-Protokolle erfordern Campaign Classic Version 19.1 oder höher.
 
-Der Prüfpfad protokolliert und protokolliert Operatoraktionen wie Erstellen, Ändern und Löschen für Workflows, Optionen und Quell-Schema. Zusätzlich werden die folgenden Aktionen speziell für Workflows protokolliert:
+Das [!UICONTROL Audit-Protokoll] protokolliert und listet Operatoraktionen wie Erstellen, Ändern und Löschen von Workflows, Optionen und Quellschemata auf. Außerdem werden folgende Aktionen speziell für Workflows protokolliert:
 
 * Starten
 * Aussetzen
 * Anhalten
 * Neu starten
-* Bereinigung
+* Bereinigen
 * Simulieren
-* Wakeup
-* Nicht bedingter Stopp
+* Wecken
+* Unbedingter Stopp
 
-In dem folgenden Video wird beschrieben, wo auf die Prüfprotokolle zugegriffen werden kann und welche Einstellungen konfiguriert werden können.
+Im folgenden Video erfahren Sie, wo Sie auf die Audit-Protokolle zugreifen können und welche Einstellungen sich konfigurieren lassen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27425?quality=12)
 
-Weitere Informationen finden Sie in der [Audit-Protokolldokumentation](https://docs.adobe.com/content/help/en/campaign-classic/using/monitoring-campaign-classic/production-procedures/audit-trail.html).
+Weitere Informationen finden Sie in der [Dokumentation zum Audit-Protokoll](https://docs.adobe.com/content/help/de-DE/campaign-classic/using/monitoring-campaign-classic/production-procedures/audit-trail.html).
