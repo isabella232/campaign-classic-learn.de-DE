@@ -12,16 +12,16 @@ translation-type: tm+mt
 source-git-commit: 8bd36a13c027138f9555ea800f6f435b135f1e8c
 workflow-type: tm+mt
 source-wordcount: '147'
-ht-degree: 10%
+ht-degree: 55%
 
 ---
 
 
 # Personalisieren von E-Mails mit dynamischen Inhaltsblöcken
 
-In Adobe Campaign können Sie Inhalte oder das Erscheinungsbild von Nachrichten personalisieren und sie mit Kriterien aus Empfänger-Profilen kombinieren.
+In Adobe Campaign können Sie Inhalte oder das Erscheinungsbild von Nachrichten personalisieren und mit Kriterien aus Empfängerprofilen kombinieren.
 
-Ein Personalisierungsblock ist dynamisch, personalisiert und enthält spezifischen Rendercode, der Versänden hinzugefügt werden kann. Sie können beispielsweise Bilder, E-Mail-Kopfzeilen, E-Mail-Fußzeilen, Links zur Mirrorseite, Links zur Abmeldung und vieles mehr hinzufügen.
+Ein Gestaltungsbaustein ist dynamisch und personalisiert und enthält spezifischen Rendering-Code, der Sendungen hinzugefügt werden kann. Sie können beispielsweise Bilder, E-Mail-Header, E-Mail-Footer, Links zu einer Mirrorseite, Abmelde-Links und vieles mehr hinzufügen.
 
 Erfahren Sie, wie dynamische Inhaltsblöcke erstellt wurden und wie Sie sie verwenden, um den Inhalt Ihres E-Mail-Versands zu personalisieren.
 
@@ -31,7 +31,7 @@ Erfahren Sie, wie dynamische Inhaltsblöcke erstellt wurden und wie Sie sie verw
 
 Dokumentation:
 
-* [Info zur Personalisierung](https://docs.adobe.com/content/help/en/campaign-classic/using/sending-messages/personalizing-deliveries/about-personalization.html)
+* [Über Personalisierung](https://docs.adobe.com/content/help/de-DE/campaign-classic/using/sending-messages/personalizing-deliveries/about-personalization.html)
 * ([Gestaltungsbausteine](https://docs.adobe.com/content/help/de-DE/campaign-classic/using/sending-messages/personalizing-deliveries/personalization-blocks.html)
 
 Tutorials:
