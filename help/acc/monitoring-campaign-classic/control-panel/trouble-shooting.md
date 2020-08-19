@@ -1,6 +1,6 @@
 ---
-title: Control Panel mit Problemen beim Schießen
-description: Mit dem Control Panel können Sie Ihre SFTP-Datenspeicherung nach Instanz und Zulassungsliste-IP-Adressen überwachen und verwalten.
+title: Fehlerbehebung im Control Panel
+description: Mit dem Control Panel können Sie Ihren SFTP-Speicher anhand von Instanz und IP-Adressen auf der Zulassungsliste überwachen und verwalten.
 feature: Control Panel
 topics: Control Panel
 kt: 2938
@@ -11,58 +11,58 @@ translation-type: tm+mt
 source-git-commit: b2820c65a88d25f9b7a4ed5005cd5083463e000a
 workflow-type: tm+mt
 source-wordcount: '351'
-ht-degree: 3%
+ht-degree: 100%
 
 ---
 
 
-# Probleme beim Schießen [!UICONTROL des Control Panels]
+# Fehlerbehebung im [!UICONTROL Control Panel]
 
 ## Anmelden und Homepage
 
 ### Symptom: Anmeldung bei Experience Cloud nicht möglich
 
 **Vorgehensweise:**
-Der Benutzer muss seine IMS-Organisations-ID (xxx) suchen. Der Administrator muss den Benutzer für jede Instanz, die er verwalten möchte, dem Profil &quot;Kampagne-xxx-Admins&quot;hinzufügen. Wenn der Benutzer Administrator aller Instanzen ist, muss er sich möglicherweise noch als Benutzer hinzufügen.
+Der Benutzer muss seine IMS-Organisations-ID (xxx) suchen. Der Administrator muss den Benutzer für jede Instanz, die er verwalten möchte, dem Profil „Campaign-xxx-Admins“ hinzufügen. Wenn der Benutzer ein Administrator aller Instanzen ist, muss er sich möglicherweise dennoch selbst als Benutzer hinzufügen.
 
-### Symptom: Links im Experience Cloud-Home für den Zugriff auf [!UICONTROL Control Panel] werden nicht angezeigt
-
-**Ursache:**
-Benutzer sehen die Links erst dann als Benutzer zum Profil &quot;Kampagne-xxx-Administratoren/Admin&quot;
-
-**Vorgehensweise:**
-Der Administrator muss den Benutzer für jede Instanz, die er verwalten möchte, dem Profil &quot;Kampagne-xxx-Admins&quot;hinzufügen. Wenn der Benutzer Administrator aller Instanzen ist, muss er sich möglicherweise als &quot;Benutzer&quot;hinzufügen.
-
-### Symptom: Eine Instanz wird nicht im [!UICONTROL Control Panel aufgeführt]
+### Symptom: Links auf der Experience Cloud-Startseite für den Zugriff auf [!UICONTROL Control Panel] werden für einen Benutzer nicht angezeigt
 
 **Ursache:**
-Der Benutzer muss höchstwahrscheinlich als &quot;user&quot;-Profil &quot;Kampagne-xxx-Administratoren/Admin&quot;für die fehlende Instanz hinzugefügt werden
+Diese Links werden Benutzern erst dann angezeigt, nachdem sie dem Produktprofil _Campaign-xxx-Administrators/Admin_ als Benutzer hinzugefügt wurden.
 
 **Vorgehensweise:**
-Der Administrator muss den Benutzer für jede Instanz, die er verwalten möchte, dem Profil &quot;Kampagne-xxx-Admins&quot;hinzufügen. Wenn der Benutzer Administrator aller Instanzen ist, muss er sich möglicherweise noch als &quot;Benutzer&quot;hinzufügen.
+Der Administrator muss den Benutzer für jede Instanz, die er verwalten möchte, dem Produktprofil _Campaign-xxx-Admins_ hinzufügen. Wenn der Benutzer ein Administrator aller Instanzen ist, muss er sich möglicherweise dennoch selbst als Benutzer hinzufügen.
 
-### Hilfreiche Videos
+### Symptom: Eine Instanz wird im [!UICONTROL Control Panel] nicht aufgeführt
+
+**Ursache:**
+Der Benutzer muss wahrscheinlich für die fehlende Instanz dem Produktprofil _Campaign-xxx-Administrators/Admin_ als Benutzer hinzugefügt werden.
+
+**Vorgehensweise:**
+Der Administrator muss den Benutzer für jede Instanz, die er verwalten möchte, dem Produktprofil _Campaign-xxx-Admins_ hinzufügen. Wenn der Benutzer ein Administrator aller Instanzen ist, muss er sich möglicherweise dennoch selbst als „Benutzer“ hinzufügen.
+
+### Nützliche Videos
 
 >[!VIDEO](https://video.tv.adobe.com/v/27183?quality=12)
-*IMS-Organisations-ID überprüfen (00:26 Min.)*
+*IMS-Organisations-ID prüfen (00:26 Min.)*
 
 >[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12)
-*Hinzufügen eines Administrators zu Produktadministratoren, um die[!UICONTROL Systemsteuerung]verwenden zu können (01:03 Min.)*
+*Hinzufügen eines Administrators zum Produktprofil „Administratoren“ für die Verwendung von[!UICONTROL Control Panel](01:03 Min.)*
 
-### Hilfreiche Dokumentation
+### Nützliche Dokumentation
 
-* [Entdecken Sie den Control Panel](https://helpx.adobe.com/campaign/kb/control-panel-overview.html)
-* [[!UICONTROL Berechtigungen für das Control Panel verwalten]](https://helpx.adobe.com/campaign/kb/control-panel-access.html)
+* [Funktionsweise des Control Panels](https://helpx.adobe.com/de/campaign/kb/control-panel-overview.html)
+* [[!UICONTROL Verwalten von Berechtigungen für das ]Control Panel](https://helpx.adobe.com/de/campaign/kb/control-panel-access.html)
 
-## Verbindung zum SFTP-Server herstellen (Client oder API)
+## Herstellen einer Verbindung zum SFTP-Server (Client oder API)
 
-Für die Verbindung mit den SFTP-Servern ist Folgendes erforderlich:
+Für Verbindungen zu SFTP-Servern ist Folgendes erforderlich:
 
-* [!UICONTROL Zulassen der Auflistung] der IP-Adresse, von der Sie eine Verbindung zum SFTP-Server herstellen
-* Private/öffentliche Schlüsselpaare, die bei Adobe Campaign registriert werden müssen
-* Wenn Sie eine direkte Verbindung zum SFTP-Server herstellen, benötigen Sie auch die SFTP-Clientsoftware
+* [!UICONTROL Setzen auf die Zulassungsliste] der IP-Adresse, von der Sie eine Verbindung zum SFTP-Server herstellen
+* Schlüsselpaar aus privatem/öffentlichen Schlüssel, das bei Adobe Campaign registriert werden muss
+* Wenn Sie eine direkte Verbindung zum SFTP-Server herstellen möchten, benötigen Sie auch SFTP-Clientsoftware.
 
-### Hilfreiche Dokumentation
+### Nützliche Dokumentation
 
-* [Anmeldung bei Ihrem SFTP-Server](https://helpx.adobe.com/campaign/kb/control-panel-sftp.html#LoggingintoyourSFTPserver)
+* [Anmeldung bei Ihrem SFTP-Server](https://docs.adobe.com/content/help/de-DE/control-panel/using/control-panel-home.html#LoggingintoyourSFTPserver)
 
