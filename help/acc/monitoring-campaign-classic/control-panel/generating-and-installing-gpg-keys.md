@@ -1,6 +1,6 @@
 ---
 title: Generieren und Installieren von GPG-Schlüsseln
-description: In dem folgenden Video wird erläutert, wie Sie ein Public-Private-Key-Paar für die Verschlüsselung ausländischer Kampagnen auf einer angegebenen Instanz erstellen und installieren und wie Sie einen öffentlichen Schlüssel für die Entschlüsselung eingehender Daten auf einer Kampagne importieren und installieren.
+description: Im folgenden Video wird beschrieben, wie Sie zur Verschlüsselung ausgehender Daten ein Schlüsselpaar aus öffentlichem/privatem Schlüssel generieren und in einer angegebenen Campaign-Instanz installieren sowie zur Entschlüsselung eingehender Daten einen öffentlichen Schlüssel importieren und in einer Campaign-Instanz installieren.
 feature: Control Panel
 topics: null
 kt: 5240
@@ -12,22 +12,22 @@ translation-type: tm+mt
 source-git-commit: 702ccde94b0437be599eca6997326ae5e37d0408
 workflow-type: tm+mt
 source-wordcount: '131'
-ht-degree: 8%
+ht-degree: 100%
 
 ---
 
 
-# Generieren und Installieren von [!DNL GPG] Schlüsseln
+# Generieren und Installieren von [!DNL GPG]-Schlüsseln
 
-[!DNL GPG (GnuPG)] verschlüsselt Nachrichten mit asymmetrischen individuellen Schlüsselpaaren. Sie können die GPG-Schlüssel mit dem Adobe Campaign- [!UICONTROL Control Panel]installieren und generieren.
+[!DNL GPG (GnuPG)] verschlüsselt Nachrichten mit asymmetrischen individuellen Schlüsselpaaren. Sie können die GPG-Schlüssel mit dem Adobe Campaign [!UICONTROL Control Panel]installieren und generieren.
 
-Im folgenden Video wird erläutert, wie:
+Im folgenden Video werden diese Themen erläutert:
 
-1. Generieren und installieren Sie ein **öffentliches/privates Schlüsselpaar** auf einer angegebenen Kampagne-Instanz für die **Verschlüsselung ausländischer Daten**.
-2. So importieren und installieren Sie einen **öffentlichen Schlüssel** auf einer Kampagne-Instanz für die **Entschlüsselung eingehender Daten**.
+1. Generieren und Installieren eines **Schlüsselpaars aus öffentlichem und privatem Schlüssel** in einer angegebenen Campaign-Instanz zur **Verschlüsselung ausgehender Daten**.
+2. Importieren und Installieren eines **öffentlichen Schlüssels** in einer Campaign-Instanz zur **Entschlüsselung eingehender Daten**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/34201?quality=12)
 
 ## Zusätzliche Ressourcen
 
-* [GPG-Schlüsselverwaltung](https://docs.adobe.com/content/help/de-DE/control-panel/using/instances-settings/gpg-keys-management.html)
+* [Verwaltung von GPG-Schlüsseln](https://docs.adobe.com/content/help/de-DE/control-panel/using/instances-settings/gpg-keys-management.html)
