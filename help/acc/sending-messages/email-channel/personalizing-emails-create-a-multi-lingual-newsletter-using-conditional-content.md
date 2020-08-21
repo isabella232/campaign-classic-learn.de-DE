@@ -3,16 +3,16 @@ title: Personalisieren von E-Mails - Erstellen eines mehrsprachigen Newsletters 
 description: Hier erfahren Sie, wie Sie einem Versand Bedingungsinhalte hinzufügen, z. B. einen mehrsprachigen Newsletter.
 feature: Dynamic Content Blocks
 topics: Email Channel
-kt: 1559
+kt: 5922
 thumbnail: 24926.jpg
 doc-type: feature video
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: 8bd36a13c027138f9555ea800f6f435b135f1e8c
+source-git-commit: 8d28a093766e0b247d00e4b3c4f8735da5bc342e
 workflow-type: tm+mt
 source-wordcount: '116'
-ht-degree: 25%
+ht-degree: 35%
 
 ---
 
@@ -29,7 +29,7 @@ Hier erfahren Sie, wie Sie einem Versand Bedingungsinhalte hinzufügen, z. B. ei
 
 Dokumentation:
 
-* [Info zur Personalisierung](https://docs.adobe.com/content/help/en/campaign-classic/using/sending-messages/personalizing-deliveries/about-personalization.html)
+* [Über Personalisierung](https://docs.adobe.com/content/help/de-DE/campaign-classic/using/sending-messages/personalizing-deliveries/about-personalization.html)
 * [Bedingter Inhalt](https://docs.adobe.com/content/help/en/campaign-classic/using/sending-messages/personalizing-deliveries/conditional-content.html)
 
 Tutorials:
