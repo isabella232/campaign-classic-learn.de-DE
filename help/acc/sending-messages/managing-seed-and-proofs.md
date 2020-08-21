@@ -1,24 +1,25 @@
 ---
 title: Verwalten von Saatgut und Testversänden in einer E-Mail
-description: In diesem Video erfahren Sie, wie Sie einer vorhandenen E-Mail Samen und Testversand hinzufügen und diese senden.
-feature: Seed address management
-topics: Email Channel
+description: Erfahren Sie, wie Sie einer vorhandenen E-Mail Samen und Testversand hinzufügen und wie Sie diese senden.
+feature: Email
+topics: null
 kt: 2178
+thumbnail: 25606.jpg
 doc-type: feature video
 activity: use
 team: DOC
 translation-type: tm+mt
-source-git-commit: 8112b947cc37c6143c38f7d59787c3c6339cb5c9
+source-git-commit: 8d28a093766e0b247d00e4b3c4f8735da5bc342e
 workflow-type: tm+mt
-source-wordcount: '87'
-ht-degree: 8%
+source-wordcount: '77'
+ht-degree: 9%
 
 ---
 
 
 # Verwalten von Saatgut und Testversänden in einer E-Mail
 
-In diesem Video erfahren Sie, wie Sie einer vorhandenen E-Mail Samen und Testversand hinzufügen und diese senden.
+Erfahren Sie, wie Sie einer vorhandenen E-Mail Samen und Testversand hinzufügen und wie Sie diese senden.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25606?quality=12)
 
