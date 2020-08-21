@@ -10,7 +10,7 @@ tutorials-url: https://docs.adobe.com/content/help/de-DE/campaign-classic-learn/
 getting-started-title: Dokumentation
 getting-started-url: https://docs.adobe.com/content/help/de-DE/campaign-classic/using/getting-started/starting-with-adobe-campaign/about-adobe-campaign-classic.html
 translation-type: tm+mt
-source-git-commit: a5efb8f8230373b9aa3c5dd2f85305f4685e9190
+source-git-commit: faec1533178c9bd70474a682557c6a1a8ed2b535
 workflow-type: tm+mt
 source-wordcount: '356'
 ht-degree: 76%
@@ -49,7 +49,7 @@ ht-degree: 76%
       + [Festlegen der Eigenschaften einer Versandvorlage](/help/acc/sending-messages/using-delivery-templates/setting-delivery-template-properties.md)
       + [Bereitstellen einer Ad-hoc-E-Mail-Versandvorlage](/help/acc/sending-messages/using-delivery-templates/deploying-ad-hoc-email-delivery-template.md)
    + Briefpost {#direct-mail}
-      + [Erstellen von Versänden für Direktwerbung](help/acc/sending-messages/direct-mail/creating-direct-mail-deliveries.md)
+      + [Erstellen von Versänden für Direktwerbung](/help/acc/sending-messages/direct-mail/creating-direct-mail-deliveries.md)
    + Ermüdungsverwaltung{#fatigue-management}
       + [Verwenden von Typologieregeln](/help/acc/sending-messages/fatigue-management/typology-rules-for-fatigue-management.md)
       + [Verwenden von vordefinierten Filtern](/help/acc/sending-messages/fatigue-management/fatigue-management-using-filters.md)
