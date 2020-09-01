@@ -57,7 +57,7 @@ Für den Zugriff auf das [!UICONTROL Control Panel] sind Administratorberechtigu
 Im folgenden Video erfahren Sie, wie Sie einer Campaign-Instanz einen Administrator hinzufügen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12)
-*Hinzufügen eines Administrators zum Produktprofil „[!UICONTROL Administratoren]“ für die Verwendung des[!UICONTROL Control Panels](01:03 Min.)*
+*Hinzufügen eines Administrators zum Produktprofil „[!UICONTROL Administratoren]“ für die Verwendung des [!UICONTROL Control Panels] (01:03 Min.)*
 
 ## [!UICONTROL Control Panel]-Tutorials
 
