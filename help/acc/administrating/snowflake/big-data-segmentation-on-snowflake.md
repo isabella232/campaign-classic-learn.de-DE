@@ -3,14 +3,14 @@ title: Großes Data Management im Snowflake
 description: In diesem Lernprogramm wird erläutert, wie der Snowflake Connector in Adobe Campaign Classic genutzt werden kann
 feature: Snowflake
 topics: FDA
-kt: 4450
+kt: 4405
 doc-type: feature video
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: b2820c65a88d25f9b7a4ed5005cd5083463e000a
+source-git-commit: 0c330ade07ba8bcdb825a632c7ac319fa8c845e9
 workflow-type: tm+mt
-source-wordcount: '108'
+source-wordcount: '107'
 ht-degree: 6%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 6%
 
 # Großes Data Management im Snowflake
 
-In diesem Lernprogramm wird erläutert, wie der Snowflake Connector in Adobe Campaign Classic genutzt werden kann.
+In diesem Lernprogramm wird erläutert, wie der [!DNL Snowflake] Connector in Adobe Campaign Classic genutzt werden kann.
 Sie werden lernen, wie
 
 * Verbindung mit Snowflake
