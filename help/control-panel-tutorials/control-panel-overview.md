@@ -1,7 +1,7 @@
 ---
 title: Control Panel
 seo-title: Control Panel
-description: Die Systemsteuerung ermöglicht es Adobe Campaign-Administratoren, wichtige Assets zu überwachen und administrative Aufgaben durchzuführen, z. B. die Verwaltung der SFTP-Datenspeicherung nach Instanz oder Zulassungsliste-IP-Adressen.
+description: Mit dem Control Panel können Adobe Campaign-Administratoren wichtige Kreativelemente überwachen und administrative Aufgaben ausführen, z. B. die Verwaltung von SFTP-Speicher durch die Instanz oder auf die Zulassungsliste gesetzte IP-Adressen.
 feature: Control Panel
 topics: Control Panel
 kt: 3262
@@ -9,10 +9,10 @@ doc-type: feature video
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: 5e240cfde96c38f646b9915fe143239b16ef97ea
+source-git-commit: 314a0aa471bdd5673fdbc1c99cfefd325ec268e4
 workflow-type: tm+mt
 source-wordcount: '221'
-ht-degree: 87%
+ht-degree: 100%
 
 ---
 
