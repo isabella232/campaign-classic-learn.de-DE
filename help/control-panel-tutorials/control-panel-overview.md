@@ -1,7 +1,7 @@
 ---
-title: Control Panel
+title: Control Panel - Übersicht
 seo-title: Control Panel
-description: Mit dem Control Panel können Adobe Campaign-Administratoren wichtige Kreativelemente überwachen und administrative Aufgaben ausführen, z. B. die Verwaltung von SFTP-Speicher durch die Instanz oder auf die Zulassungsliste gesetzte IP-Adressen.
+description: Die Systemsteuerung ermöglicht es Adobe Campaign-Administratoren, wichtige Elemente zu überwachen und administrative Aufgaben durchzuführen, wie z. B. die Verwaltung der SFTP-Datenspeicherung nach Instanz, die Verwaltung der GPG-Schlüssel oder Subdomänen und Zertifikate.
 feature: Control Panel
 topics: Control Panel
 kt: 3262
@@ -9,22 +9,21 @@ doc-type: feature video
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: 314a0aa471bdd5673fdbc1c99cfefd325ec268e4
+source-git-commit: ab7c8903a7eaa024abd8e658aee6c31f87f73f96
 workflow-type: tm+mt
-source-wordcount: '221'
-ht-degree: 100%
+source-wordcount: '223'
+ht-degree: 65%
 
 ---
 
 
-# [!UICONTROL Control Panel]
+# [!UICONTROL Übersicht über die Systemsteuerung]
 
 >[!NOTE]
 >
->Die Begriffe [!UICONTROL Whitelist] und [!UICONTROL Blacklist] wurden in der Dokumentation zu Adobe Campaign durch [!UICONTROL Zulassungsliste] und [!UICONTROL Blockierungsliste] ersetzt.
->Diese Begriffe können noch in der Produktoberfläche, in Optionsnamen, in internem Code sowie in den Anleitungsvideos vorkommen. Sie werden in kommenden Control Panel-Versionen ersetzt.
+>The terms ‘[!UICONTROL whitelist]’ and ‘[!UICONTROL blacklist]’ have been replaced by ‘[!UICONTROL allowlist]’ and ‘[!UICONTROL denylist]’ in the Adobe Campaign documentation. Diese Begriffe können noch in der Produktoberfläche, in Optionsnamen, in internem Code sowie in den Anleitungsvideos vorkommen. Sie werden in kommenden Control Panel-Versionen ersetzt.
 
-Mit dem [!UICONTROL Control Panel] können Adobe Campaign-Administratoren wichtige Kreativelemente überwachen und administrative Aufgaben ausführen, z. B. die Verwaltung von SFTP-Speicher durch die Instanz oder auf die [!UICONTROL Zulassungsliste] gesetzte IP-Adressen.
+The [!UICONTROL Control Panel] allows Adobe Campaign administrators to monitor key assets and perform administrative tasks, such as managing the [!DNL SFTP] storage by instance, managing [!DNL GPG] keys, or [!UICONTROL subdomains] and [!UICONTROL certificates].
 
 ## Zugreifen auf das [!UICONTROL Control Panel]
 
@@ -53,7 +52,7 @@ Sie müssen Ihre [!DNL IMS org ID] kennen. Im folgenden Video wird beschrieben, 
 ### Administratorberechtigungen
 
 Für den Zugriff auf das [!UICONTROL Control Panel] sind Administratorberechtigungen erforderlich.
-Im folgenden Video erfahren Sie, wie Sie einer Campaign-Instanz einen Administrator hinzufügen.
+Im folgenden Video erfahren Sie, wie Sie einer Campaign-Instanz einen Administrator hinzufügen..
 
 >[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12)
 
