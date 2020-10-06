@@ -13,10 +13,10 @@ getting-started-url: https://docs.adobe.com/content/help/de-DE/campaign-classic/
 type: Tutorial
 index: true
 translation-type: tm+mt
-source-git-commit: 71edaefa80d411d810a3a94197739a40a6658d49
+source-git-commit: 32998c870da2217d11bdba5f541e4161132b4792
 workflow-type: tm+mt
-source-wordcount: '120'
-ht-degree: 86%
+source-wordcount: '126'
+ht-degree: 82%
 
 ---
 
@@ -24,6 +24,7 @@ ht-degree: 86%
 # Adobe Campaign Control Panel - Tutorials {#control-panel}
 
 + [Control Panel – Übersicht](/help/control-panel-tutorials/control-panel-overview.md)
++ [Erste Schritte mit der Systemsteuerung](/help/control-panel-tutorials/getting-started-with-the-control-panel.md)
 + SFTP-Verwaltung {#sftp-management}
    + [Herstellen einer Verbindung zu einem SFTP-Server](/help/control-panel-tutorials/sftp-management/connect-to-sftp-server.md)
    + [Überwachen der Server-Kapazität, Setzen von IP-Adressen auf die Zulassungsliste und Hinzufügen von SSH-Schlüsseln](/help/control-panel-tutorials/sftp-management/monitoring-server-capacity-allow-listing-adding-ssh-key.md)
