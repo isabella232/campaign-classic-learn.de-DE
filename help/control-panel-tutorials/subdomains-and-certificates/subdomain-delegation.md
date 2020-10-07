@@ -8,7 +8,7 @@ doc-type: feature video
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
+source-git-commit: 51bfeb7f53cc68b78080ae7106ab8188cb78adb6
 workflow-type: tm+mt
 source-wordcount: '120'
 ht-degree: 85%
@@ -37,6 +37,7 @@ oder
 Das folgende Video zeigt, wie Sie Subdomains zuweisen können.
 
 >[!VIDEO](https://video.tv.adobe.com/v/31390?quality=12)
+
 *Zuweisung von Subdomains (05:07 Min.)*
 
 ## Zusätzliche Ressourcen
