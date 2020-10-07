@@ -8,7 +8,7 @@ doc-type: feature video
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
+source-git-commit: 51bfeb7f53cc68b78080ae7106ab8188cb78adb6
 workflow-type: tm+mt
 source-wordcount: '134'
 ht-degree: 100%
@@ -34,4 +34,5 @@ Um auf die SFTP-Verwaltung im Control Panel zuzugreifen, navigieren Sie zu:
 Im folgenden Video erfahren Sie, wie Sie mithilfe eines Terminals einen SSH-Schlüssel generieren.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27259?quality=12)
+
 *So generieren Sie einen SSH-Schlüssel (2:16 Min.)*
