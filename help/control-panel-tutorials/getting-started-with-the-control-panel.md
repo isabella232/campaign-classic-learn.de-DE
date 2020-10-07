@@ -1,18 +1,18 @@
 ---
 title: Erste Schritte mit der Systemsteuerung
-description: Die Systemsteuerung ermöglicht es Adobe Campaign-Administratoren, wichtige Elemente zu überwachen und administrative Aufgaben durchzuführen, wie z. B. die Verwaltung der SFTP-Datenspeicherung nach Instanz, die Verwaltung der GPG-Schlüssel oder Subdomänen und Zertifikate.
+description: In diesem Artikel wird beschrieben, wie Sie auf die Systemsteuerung zugreifen und welche Voraussetzungen erfüllt sein müssen, um mit der Systemsteuerung arbeiten zu können.
 feature: Control Panel
 topics: Control Panel
 kt: 6388
 thumbnail: kt-6385.jpg
 doc-type: feature video
-activity: use
+activity: setup
 team: TM
 translation-type: tm+mt
-source-git-commit: 51bfeb7f53cc68b78080ae7106ab8188cb78adb6
+source-git-commit: 93e2482e42a1fdddb77007cab3bbd7149e2545a9
 workflow-type: tm+mt
-source-wordcount: '227'
-ht-degree: 61%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -24,6 +24,8 @@ ht-degree: 61%
 >The terms ‘[!UICONTROL whitelist]’ and ‘[!UICONTROL blacklist]’ have been replaced by ‘[!UICONTROL allowlist]’ and ‘[!UICONTROL denylist]’ in the Adobe Campaign documentation. Diese Begriffe können noch in der Produktoberfläche, in Optionsnamen, in internem Code sowie in den Anleitungsvideos vorkommen. Sie werden in kommenden Control Panel-Versionen ersetzt.
 
 The [!UICONTROL Control Panel] allows Adobe Campaign administrators to monitor key assets and perform administrative tasks, such as managing the [!DNL SFTP] storage by instance, managing [!DNL GPG] keys, or [!UICONTROL subdomains] and [!UICONTROL certificates].
+
+In diesem Artikel wird beschrieben, wie Sie auf die Systemsteuerung zugreifen und welche Voraussetzungen erfüllt sein müssen, um mit der Systemsteuerung arbeiten zu können.
 
 ## Zugreifen auf das [!UICONTROL Control Panel]
 
