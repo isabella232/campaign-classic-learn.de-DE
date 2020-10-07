@@ -13,7 +13,7 @@ getting-started-url: https://docs.adobe.com/content/help/de-DE/campaign-classic/
 type: Tutorial
 index: true
 translation-type: tm+mt
-source-git-commit: 32998c870da2217d11bdba5f541e4161132b4792
+source-git-commit: 0c8e60fa27a3cd1699286327fe9722f7fd7f306d
 workflow-type: tm+mt
 source-wordcount: '126'
 ht-degree: 82%
@@ -26,9 +26,9 @@ ht-degree: 82%
 + [Control Panel – Übersicht](/help/control-panel-tutorials/control-panel-overview.md)
 + [Erste Schritte mit der Systemsteuerung](/help/control-panel-tutorials/getting-started-with-the-control-panel.md)
 + SFTP-Verwaltung {#sftp-management}
+   + [Erstellen eines SSH-Schlüssels](/help/control-panel-tutorials/sftp-management/generate-ssh-key.md)
    + [Herstellen einer Verbindung zu einem SFTP-Server](/help/control-panel-tutorials/sftp-management/connect-to-sftp-server.md)
    + [Überwachen der Server-Kapazität, Setzen von IP-Adressen auf die Zulassungsliste und Hinzufügen von SSH-Schlüsseln](/help/control-panel-tutorials/sftp-management/monitoring-server-capacity-allow-listing-adding-ssh-key.md)
-   + [Erstellen eines SSH-Schlüssels](/help/control-panel-tutorials/sftp-management/generate-ssh-key.md)
 + Subdomains und Zertifikate {#subdomains-and-certificates}
    + [Zuweisen von Subdomains](/help/control-panel-tutorials/subdomains-and-certificates/subdomain-delegation.md)
    + [Hinzufügen von SSL-Zertifikaten](/help/control-panel-tutorials/subdomains-and-certificates/adding-ssl-certificates.md)
