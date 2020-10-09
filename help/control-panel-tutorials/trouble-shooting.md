@@ -49,7 +49,7 @@ Der Administrator muss den Benutzer für jede Instanz, die er verwalten möchte,
 
 >[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12)
 
-*Hinzufügen eines Administrators zum Produktprofil „Administratoren“ für die Verwendung von[!UICONTROL Control Panel](01:03 Min.)*
+*Hinzufügen eines Administrators zum Produktprofil „Administratoren“ für die Verwendung von[!UICONTROL Control Panel] (01:03 Min.)*
 
 ### Nützliche Dokumentation
 
