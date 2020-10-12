@@ -1,8 +1,8 @@
 ---
 product: adobe campaign standard
 user-guide-title: Tutorials der Systemsteuerung für Adobe Campaigne
-user-guide-description: Control Panel allows Adobe Campaign administrators to monitor key assets and perform administrative tasks, such as managing the SFTP storage by instance or allow list IP addresses.
-breadcrumb-title: Control Panel Tutorials
+user-guide-description: Über die Systemsteuerung können Adobe Campaign-Administratoren wichtige Assets überwachen und administrative Aufgaben durchführen, z. B. die Verwaltung der SFTP-Datenspeicherung nach Instanz oder Zulassungsliste-IP-Adressen.
+breadcrumb-title: Control Panel – Tutorials
 breadcrumb-url: /docs/campaign-classic-learn/control-panel/control-panel-overview.html
 solution-title: Experience League
 solution-hub-url: https://experienceleague.adobe.com/?tag=Campaign+Classic#recommended/solutions/campaign
@@ -13,10 +13,10 @@ getting-started-url: https://docs.adobe.com/content/help/de-DE/campaign-classic/
 type: Tutorial
 index: true
 translation-type: tm+mt
-source-git-commit: 0c8e60fa27a3cd1699286327fe9722f7fd7f306d
+source-git-commit: 7b2c1ac95dc59ab0c9d8098d76a04af94f273dc8
 workflow-type: tm+mt
-source-wordcount: '126'
-ht-degree: 82%
+source-wordcount: '158'
+ht-degree: 62%
 
 ---
 
@@ -26,9 +26,11 @@ ht-degree: 82%
 + [Control Panel – Übersicht](/help/control-panel-tutorials/control-panel-overview.md)
 + [Erste Schritte mit der Systemsteuerung](/help/control-panel-tutorials/getting-started-with-the-control-panel.md)
 + SFTP-Verwaltung {#sftp-management}
+   + SFTP-Verwaltung {#sftp-management}
+   + [Überwachen der Serverkapazität](/help/control-panel-tutorials/sftp-management/monitoring-server-capacity.md)
+   + [Hinzufügen eines IP-Bereichs zur Zulassungsliste](/help/control-panel-tutorials/sftp-management/adding-ip-range-to-allow-list.md)
    + [Erstellen eines SSH-Schlüssels](/help/control-panel-tutorials/sftp-management/generate-ssh-key.md)
    + [Herstellen einer Verbindung zu einem SFTP-Server](/help/control-panel-tutorials/sftp-management/connect-to-sftp-server.md)
-   + [Überwachen der Server-Kapazität, Setzen von IP-Adressen auf die Zulassungsliste und Hinzufügen von SSH-Schlüsseln](/help/control-panel-tutorials/sftp-management/monitoring-server-capacity-allow-listing-adding-ssh-key.md)
 + Subdomains und Zertifikate {#subdomains-and-certificates}
    + [Zuweisen von Subdomains](/help/control-panel-tutorials/subdomains-and-certificates/subdomain-delegation.md)
    + [Hinzufügen von SSL-Zertifikaten](/help/control-panel-tutorials/subdomains-and-certificates/adding-ssl-certificates.md)
