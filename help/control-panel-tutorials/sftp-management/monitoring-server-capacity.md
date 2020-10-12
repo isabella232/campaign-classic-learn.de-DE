@@ -10,10 +10,10 @@ doc-type: feature video
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: 7b2c1ac95dc59ab0c9d8098d76a04af94f273dc8
+source-git-commit: 8d354d89015e1985be5a8c3c13fee53961b1d686
 workflow-type: tm+mt
-source-wordcount: '233'
-ht-degree: 82%
+source-wordcount: '106'
+ht-degree: 70%
 
 ---
 
@@ -33,25 +33,6 @@ Um die Subdomain-Verwaltung in [!UICONTROL Control Panel]aufzurufen, gehen Sie z
 
 ## Server-Kapazität überwachen, IP-Adressen auf [!UICONTROL Zulassungsliste] setzen und SSH-Schlüssel hinzufügen
 
-In diesem Video wird erläutert, wie Sie auf die [!UICONTROL Adobe Campaign-Systemsteuerung] zugreifen und die Datenspeicherung der SFTP-Server überwachen können.
+Erfahren Sie, wie Sie die Datenspeicherung Ihrer SFTP-Server überwachen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27270?quality=12)
-
-### Beschreibung der Benutzeroberfläche
-
-**Instanzen:** Es werden nur die Instanzen aufgelistet, für die Sie Administratorberechtigungen haben.
-
-**Vorgangs-Logs:** Es werden nur Vorgänge aufgelistet, die im [!UICONTROL Control Panel] ausgeführt wurden. Vorgänge, die außerhalb des [!UICONTROL Control Panels] ausgeführt wurden, sind nicht eingeschlossen (z. B. Workflows, die gerade ausgeführt werden, usw.).
-
-Die Logs enthalten nur jene Vorgänge, die von den Administratoren Ihrer Organisation ausgeführt werden. Wenn es mehrere Organisationen gibt, werden die Logs anderer Organisationen nicht in den Vorgangs-Logs angezeigt.
-
-**Registerkarte „Datenspeicherung“:** In der Kopfzeile werden die drei am meisten genutzten Server angezeigt. Wenn Sie über mehr als drei Server verfügen, können Sie den Rest auf der Registerkarte [!UICONTROL Datenspeicherung] anzeigen.
-
-**Warnhinweis:**
-
-* Orange – Server ist zu 80 % ausgelastet
-* Rot – Server ist zu 90 % ausgelastet
-
-## Zusätzliche Ressourcen
-
-* [Erstellen eines SSH-Schlüssels](./generate-ssh-key.md)
