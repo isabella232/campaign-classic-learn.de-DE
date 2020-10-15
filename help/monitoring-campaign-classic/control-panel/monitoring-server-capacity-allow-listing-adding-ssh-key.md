@@ -7,9 +7,9 @@ kt: 3266
 doc-type: feature video
 activity: use
 team: PM
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '260'
 ht-degree: 100%
 
@@ -32,15 +32,15 @@ Um auf die Verwaltung von Subdomains in [!UICONTROL Control Panel] zuzugreifen, 
 
 In diesem Video erfahren Sie, wie Sie auf das [!UICONTROL Adobe Campaign Control Panel] zugreifen, den Speicher von SFTP-Servern überwachen, eine IP-Adresse auf die [!UICONTROL Zulassungsliste] setzen und einen SSH-Schlüssel hinzufügen können.
 
->[!VIDEO](https://video.tv.adobe.com/v/27270?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/27270?quality=12&captions=ger)
 
 ### Beschreibung der Benutzeroberfläche
 
 **Instanzen:** Es werden nur die Instanzen aufgelistet, für die Sie Administratorberechtigungen haben.
 
-**Vorgangs-Logs:** Es werden nur Vorgänge aufgelistet, die im [!UICONTROL Control Panel] ausgeführt wurden. Vorgänge, die außerhalb des [!UICONTROL Control Panels] ausgeführt wurden, sind nicht eingeschlossen (z. B. Workflows, die gerade ausgeführt werden, usw.).
+**Vorgangslogs:** Es werden nur Vorgänge aufgelistet, die im [!UICONTROL Control Panel] ausgeführt wurden. Vorgänge, die außerhalb des [!UICONTROL Control Panels] ausgeführt wurden, sind nicht eingeschlossen (z. B. Workflows, die gerade ausgeführt werden, usw.).
 
-Die Logs enthalten nur jene Vorgänge, die von den Administratoren Ihrer Organisation ausgeführt werden. Wenn es mehrere Organisationen gibt, werden die Logs anderer Organisationen nicht in den Vorgangs-Logs angezeigt.
+Die Logs enthalten nur jene Vorgänge, die von den Administratoren Ihrer Organisation ausgeführt werden. Wenn es mehrere Organisationen gibt, werden die Logs anderer Organisationen nicht in den Vorgangslogs angezeigt.
 
 **Registerkarte „Datenspeicherung“:** In der Kopfzeile werden die drei am meisten genutzten Server angezeigt. Wenn Sie über mehr als drei Server verfügen, können Sie den Rest auf der Registerkarte [!UICONTROL Datenspeicherung] anzeigen.
 
