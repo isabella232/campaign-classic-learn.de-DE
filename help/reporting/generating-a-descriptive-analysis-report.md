@@ -1,5 +1,5 @@
 ---
-title: Erstellen eines beschreibenden Berichts zur Analyse
+title: Erstellen eines deskriptiven Analyseberichts
 description: Erfahren Sie, wie Sie einen beschreibenden Bericht zur Analyse aus einem Workflow in Adobe Campaign Classic erstellen.
 feature: Reports
 topics: null
@@ -13,14 +13,14 @@ translation-type: tm+mt
 source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
 workflow-type: tm+mt
 source-wordcount: '66'
-ht-degree: 30%
+ht-degree: 68%
 
 ---
 
 
-# Erstellen eines beschreibenden Berichts zur Analyse
+# Erstellen eines deskriptiven Analyseberichts
 
-Erfahren Sie, wie Sie einen [!UICONTROL beschreibenden Bericht] zur Analyse aus einem Workflow generieren.
+Learn how to generate a [!UICONTROL descriptive analysis report] from a workflow.
 
 >[!VIDEO](https://video.tv.adobe.com/v/35616?quality=12)
 
