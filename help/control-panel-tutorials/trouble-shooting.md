@@ -8,7 +8,7 @@ doc-type: article
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: 51bfeb7f53cc68b78080ae7106ab8188cb78adb6
+source-git-commit: fe3d8945922aa1a2b78772cf0a033976b67b85a5
 workflow-type: tm+mt
 source-wordcount: '351'
 ht-degree: 100%
@@ -49,7 +49,7 @@ Der Administrator muss den Benutzer für jede Instanz, die er verwalten möchte,
 
 >[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12)
 
-*Hinzufügen eines Administrators zum Produktprofil „Administratoren“ für die Verwendung von[!UICONTROL Control Panel] (01:03 Min.)*
+*Hinzufügen eines Administrators zum Produktprofil „Administratoren“ für die Verwendung von [!UICONTROL Control Panel] (01:03 Min.)*
 
 ### Nützliche Dokumentation
 
@@ -64,7 +64,7 @@ Für Verbindungen zu SFTP-Servern ist Folgendes erforderlich:
 * Schlüsselpaar aus privatem/öffentlichen Schlüssel, das bei Adobe Campaign registriert werden muss
 * Wenn Sie eine direkte Verbindung zum SFTP-Server herstellen möchten, benötigen Sie auch SFTP-Clientsoftware.
 
-### Nützliche Dokumentation
+### Nützliche Dokumentation {#helpful-docs}
 
 * [Anmeldung bei Ihrem SFTP-Server](https://docs.adobe.com/content/help/de-DE/control-panel/using/control-panel-home.html#LoggingintoyourSFTPserver)
 
