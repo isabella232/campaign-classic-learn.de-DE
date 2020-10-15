@@ -8,11 +8,11 @@ thumbnail: 25604.jpg
 doc-type: feature video
 activity: use
 team: DOC
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '66'
-ht-degree: 48%
+ht-degree: 100%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 48%
 
 Erfahren Sie, wie Sie einen E-Mail-Versand direkt aus einer Kampagne erstellen.
 
->[!VIDEO](https://video.tv.adobe.com/v/25604?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/25604?quality=12&captions=ger)
 
 ## Zusätzliche Ressourcen
 
