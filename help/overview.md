@@ -3,11 +3,11 @@ title: Adobe Campaign Classic-Tutorials – Übersicht
 description: Adobe Campaign bietet eine Plattform zur Konzeption kanalübergreifender Kundenerlebnisse und stellt dazu eine Umgebung für die Entwicklung visueller Kampagnen, die Verwaltung von Echtzeit-Interaktionen und die kanalübergreifende Umsetzung bereit. Dieses Benutzerhandbuch enthält Videos und Tutorials zu den verschiedenen Funktionen und Leistungsmerkmalen von Adobe Campaign Standard.
 product: Campaign
 sub-product: Campaign Classic
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '251'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 
@@ -20,7 +20,7 @@ Adobe Campaign bietet eine Plattform zur Konzeption kanalübergreifender Kundene
 
 * **[Verwaltung von GPG-Schlüsseln](/help/monitoring-campaign-classic/control-panel/gpg-key-management/gpg-key-management-overview.md)**
 
-   *Erfahren Sie, wie Sie zur Verschlüsselung ausgehender Daten ein Schüsselpaar aus öffentlichem/privatem Schlüssel generieren und in einer angegebenen[!UICONTROL Campaign]-Instanz installieren sowie zur Entschlüsselung eingehender Daten einen öffentlichen Schlüssel importieren und in einer Campaign-Instanz installieren.*
+   *Erfahren Sie, wie Sie zur Verschlüsselung ausgehender Daten ein Schüsselpaar aus öffentlichem/privatem Schlüssel generieren und in einer angegebenen [!UICONTROL Campaign]-Instanz installieren sowie zur Entschlüsselung eingehender Daten einen öffentlichen Schlüssel importieren und in einer Campaign-Instanz installieren.*
 
 * **[Zuweisen von Subdomains (BETA)](/help/monitoring-campaign-classic/control-panel/subdomain-delegation.md)**
 
@@ -70,7 +70,7 @@ Adobe Campaign bietet eine Plattform zur Konzeption kanalübergreifender Kundene
     </a>
     </div>
     <p>
-    <em>Erfahren Sie, wie Sie AMP in Adobe Campaign Classic aktivieren und verwenden </em>
+    <em>Erfahren Sie, wie Sie AMP in Adobe Campaign Classic aktivieren und verwenden.</em>
     <p>
   </td>
 </tr>
