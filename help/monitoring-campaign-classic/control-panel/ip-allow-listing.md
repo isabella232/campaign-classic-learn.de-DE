@@ -1,7 +1,7 @@
 ---
 title: Hinzufügen von IP-Adressen zu Zulassungslisten
 seo-title: Hinzufügen von IP-Adressen zu Zulassungslisten
-description: Erfahren Sie, wie Sie den Zulassungslisten von Campaign Classic-Instanzen einen IP-Bereich hinzufügen und diese mithilfe des Bedienfelds aus der Zulassungsliste entfernen.
+description: Erfahren Sie, wie Sie den Zulassungslisten von Campaign Classic-Instanzen einen IP-Bereich hinzufügen und Bereiche mithilfe des Control Panel aus der Zulassungsliste entfernen.
 seo-description: Im folgenden Video erfahren Sie, wie Sie neue Verbindungen zu Ihren Instanzen einrichten, indem Sie IP-Adressbereiche auf die Zulassungsliste setzen.
 feature: instance settings
 topics: null
@@ -10,11 +10,11 @@ thumbnail: 28726.jpg
 doc-type: feature video
 activity: use
 team: PM
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '219'
-ht-degree: 64%
+ht-degree: 100%
 
 ---
 
@@ -31,13 +31,14 @@ Im Control Panel können Sie neue Verbindungen zu Ihren Instanzen einrichten, in
 Um auf die Verwaltung von Subdomains im Control Panel zuzugreifen, navigieren Sie zu:
 
 * [Startseite von Experience Cloud](https://experience.adobe.com/#/home) > Lösungsauswahl: **[!DNL Campaign]** > **[!UICONTROL Control Panel]**-Karte > **Einstellungen der Instanzen**-Karte
+
 oder
 * Direkt über die URL: [https://experience.adobe.com/#/controlpanel/instances](https://experience.adobe.com/#/controlpanel/instances)
 
-## hinzufügen eines IP-Bereichs für die Zulassungsliste Ihrer Instanz
+## Hinzufügen eines IP-Bereichs zur Zulassungsliste Ihrer Instanz
 
-Erfahren Sie, wie Sie den Zulassungslisten von Campaign Classic-Instanzen einen IP-Bereich hinzufügen und diese mithilfe des Bedienfelds aus der Zulassungsliste entfernen.
+Erfahren Sie, wie Sie den Zulassungslisten von Campaign Classic-Instanzen einen IP-Bereich hinzufügen und Bereiche mithilfe des Control Panel aus der Zulassungsliste entfernen.
 
->[!VIDEO](https://video.tv.adobe.com/v/28726?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/28726?quality=12&captions=ger)
 
 Weiterführende Informationen zum Setzen von IP-Adressen auf die Zulassungsliste finden Sie in der [ausführlichen Produktdokumentation](https://helpx.adobe.com/de/campaign/kb/control-panel-instance-settings.html).
