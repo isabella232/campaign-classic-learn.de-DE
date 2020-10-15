@@ -8,19 +8,19 @@ thumbnail: 28149.jpg
 doc-type: feature video
 activity: use
 team: TM
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '54'
-ht-degree: 27%
+ht-degree: 100%
 
 ---
 
 
 # Hinzufügen von URL-Berechtigungen
 
-Erfahren Sie, wie Sie eine Verbindung zwischen Ihrer [!UICONTROL Adobe Campaign Classic] -Instanz und einer externen URL herstellen.
+Erfahren Sie, wie Sie eine Verbindung zwischen Ihrer [!UICONTROL Adobe Campaign Classic]-Instanz und einer externen URL herstellen.
 
->[!VIDEO](https://video.tv.adobe.com/v/28149?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/28149?quality=12&captions=ger)
 
-For more information please see [URL permissions](https://docs.adobe.com/content/help/de-DE/control-panel/using/instances-settings/url-permissions.html).
+Weitere Informationen finden Sie unter [URL-Berechtigungen](https://docs.adobe.com/content/help/de-DE/control-panel/using/instances-settings/url-permissions.html).
