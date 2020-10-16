@@ -1,6 +1,6 @@
 ---
 product: adobe campaign standard
-user-guide-title: Tutorials der Systemsteuerung für Adobe Campaigne
+user-guide-title: Adobe Campaign Control Panel – Tutorials
 user-guide-description: Über die Systemsteuerung können Adobe Campaign-Administratoren wichtige Assets überwachen und administrative Aufgaben durchführen, z. B. die Verwaltung der SFTP-Datenspeicherung nach Instanz oder Zulassungsliste-IP-Adressen.
 breadcrumb-title: Control Panel – Tutorials
 breadcrumb-url: /docs/campaign-classic-learn/control-panel/control-panel-overview.html
@@ -16,15 +16,15 @@ translation-type: tm+mt
 source-git-commit: ecb96c182bc319cc77514dd8025c0b67a55b9285
 workflow-type: tm+mt
 source-wordcount: '156'
-ht-degree: 61%
+ht-degree: 75%
 
 ---
 
 
-# Adobe Campaign Control Panel - Tutorials {#control-panel}
+# Adobe Campaign Control Panel – Tutorials {#control-panel}
 
 + [Control Panel – Übersicht](/help/control-panel-tutorials/control-panel-overview.md)
-+ [Erste Schritte mit der Systemsteuerung](/help/control-panel-tutorials/getting-started-with-the-control-panel.md)
++ [Erste Schritte mit dem Control Panel](/help/control-panel-tutorials/getting-started-with-the-control-panel.md)
 + SFTP-Verwaltung {#sftp-management}
    + [Überwachen der Serverkapazität](/help/control-panel-tutorials/sftp-management/monitoring-server-capacity.md)
    + [Hinzufügen eines IP-Bereichs zur Zulassungsliste](/help/control-panel-tutorials/sftp-management/adding-ip-range-to-allow-list.md)
