@@ -13,7 +13,7 @@ translation-type: tm+mt
 source-git-commit: 51bfeb7f53cc68b78080ae7106ab8188cb78adb6
 workflow-type: tm+mt
 source-wordcount: '463'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -50,7 +50,7 @@ Sie müssen Ihre [!DNL IMS org ID] kennen. Im folgenden Video wird beschrieben, 
 
 >[!VIDEO](https://video.tv.adobe.com/v/27183?quality=12)
 
-*[!DNL IMS Org ID]prüfen (00:26 Min.)*
+*[!DNL IMS Org ID] prüfen (00:26 Min.)*
 
 ### Administratorberechtigungen
 
@@ -59,13 +59,13 @@ Im folgenden Video erfahren Sie, wie Sie einer Campaign-Instanz einen Administra
 
 >[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12)
 
-*Hinzufügen eines Administrators zum Produktprofil „[!UICONTROL Administratoren]“ für die Verwendung des[!UICONTROL Control Panels](01:03 Min.)*
+*Hinzufügen eines Administrators zum Produktprofil „[!UICONTROL Administratoren]“ für die Verwendung des [!UICONTROL Control Panels] (01:03 Min.)*
 
 ## [!UICONTROL Control Panel]-Tutorials
 
 * **Verwalten von SFTP-Servern**
 
-   *Erfahren Sie, wie Sie die Server-Kapazität sowie IP-Adressen auf der[!UICONTROL Zulassungsliste]überwachen und SSH-Schlüssel hinzufügen können*
+   *Erfahren Sie, wie Sie die Server-Kapazität sowie IP-Adressen auf der [!UICONTROL Zulassungsliste] überwachen und SSH-Schlüssel hinzufügen können*
 
    * [Überwachen der Server-Kapazität, Setzen von IP-Adressen auf die Zulassungsliste und Hinzufügen von SSH-Schlüsseln](/help/monitoring-campaign-classic/control-panel/monitoring-server-capacity-allow-listing-adding-ssh-key.md)
    * [Erstellen eines SSH-Schlüssels](/help/monitoring-campaign-classic/control-panel/generate-ssh-key.md)
@@ -73,7 +73,7 @@ Im folgenden Video erfahren Sie, wie Sie einer Campaign-Instanz einen Administra
 
 * **[Zuweisen von Subdomains](/help/monitoring-campaign-classic/control-panel/subdomain-delegation.md)**
 
-   *Erfahren Sie, wie Sie eine Subdomain vollständig an[!UICONTROL Adobe Campaign]* zuweisen.
+   *Erfahren Sie, wie Sie eine Subdomain vollständig an [!UICONTROL Adobe Campaign]* zuweisen.
 
 * **[Hinzufügen von SSL-Zertifikaten](/help/monitoring-campaign-classic/control-panel/adding-ssl-certificates.md)**
 
@@ -85,11 +85,11 @@ Im folgenden Video erfahren Sie, wie Sie einer Campaign-Instanz einen Administra
 
 * **[Hinzufügen von IP-Adressen zu Zulassungslisten](/help/monitoring-campaign-classic/control-panel/ip-allow-listing.md)**
 
-   *Erfahren Sie, wie Sie neue Verbindungen zu Ihren Instanzen einrichten können, indem Sie IP-Adressbereiche auf die[!UICONTROL Zulassungsliste]setzen.*
+   *Erfahren Sie, wie Sie neue Verbindungen zu Ihren Instanzen einrichten können, indem Sie IP-Adressbereiche auf die [!UICONTROL Zulassungsliste] setzen.*
 
 * **[Verwaltung von Google TXT-Einträgen](/help/monitoring-campaign-classic/control-panel/google-txt-record-management.md)**
 
-   *Erfahren Sie, wie Sie allen Subdomains, die zum Senden von E-Mails an[!DNL GMAIL]-Adressen über das[!UICONTROL Campaign Control Panel]verwendet werden, einen Eintrag der Website-Überprüfung von[!DNL Google TXT]hinzufügen.*
+   *Erfahren Sie, wie Sie allen Subdomains, die zum Senden von E-Mails an [!DNL GMAIL]-Adressen über das [!UICONTROL Campaign Control Panel] verwendet werden, einen Eintrag der Website-Überprüfung von [!DNL Google TXT] hinzufügen.*
 
 * **Verwaltung von GPG-Schlüsseln**
 
@@ -101,7 +101,7 @@ Im folgenden Video erfahren Sie, wie Sie einer Campaign-Instanz einen Administra
 
 * **[Fehlerbehebung im Control Panel](/help/monitoring-campaign-classic/control-panel/trouble-shooting.md)**
 
-   *Informationen zur Fehlerbehebung im[!UICONTROL Control Panel]*
+   *Informationen zur Fehlerbehebung im [!UICONTROL Control Panel]*
 
 ## Zusätzliche Ressourcen
 
