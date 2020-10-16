@@ -11,7 +11,7 @@ translation-type: tm+mt
 source-git-commit: 51bfeb7f53cc68b78080ae7106ab8188cb78adb6
 workflow-type: tm+mt
 source-wordcount: '120'
-ht-degree: 85%
+ht-degree: 100%
 
 ---
 
@@ -20,7 +20,7 @@ ht-degree: 85%
 
 >[!NOTE]
 >
-> Subdomain delegation from the [!UICONTROL Control Panel] is in beta and subject to frequent updates and modifications without notice.
+> Die Subdomain-Zuweisung über das [!UICONTROL Control Panel] befindet sich in der Beta-Phase und unterliegt häufigen Aktualisierungen und Änderungen ohne Vorankündigung.
 
 Über das Adobe Campaign [!UICONTROL Control Panel] können Sie Adobe Campaign eine Subdomain vollständig zuweisen.
 
@@ -29,6 +29,7 @@ ht-degree: 85%
 Um auf die Subdomain-Verwaltung im [!UICONTROL Control Panel] zuzugreifen, navigieren Sie zu:
 
 * [Startseite von Experience Cloud](https://experience.adobe.com/#/home) > Lösungsauswahl: **[!DNL Campaign]** > **[!UICONTROL Control Panel]**-Karte > **Subdomains und Zertifikate**-Karte
+
 oder
 * Direkt über die URL: [https://experience.adobe.com/#/controlpanel/domain](https://experience.adobe.com/#/controlpanel/domain)
 
