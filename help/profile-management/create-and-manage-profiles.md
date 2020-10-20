@@ -32,4 +32,4 @@ In diesem Video wird auch die Einhaltung der Datenschutz-Grundverordnung (DSGVO)
 
 * [Über Profile](https://docs.adobe.com/content/help/de-DE/campaign-classic/using/getting-started/profile-management/about-profiles.html)
 * [Profile bearbeiten](https://docs.adobe.com/content/help/en/campaign-classic/using/getting-started/profile-management/editing-a-profile.html)
-* [Verwaltung von Profilen](https://docs.adobe.com/content/help/en/campaign-classic/using/getting-started/profile-management/adding-profiles.html)
+* [Profile verwalten](https://docs.adobe.com/content/help/en/campaign-classic/using/getting-started/profile-management/adding-profiles.html)
