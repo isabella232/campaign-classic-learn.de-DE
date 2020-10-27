@@ -16,7 +16,7 @@ translation-type: tm+mt
 source-git-commit: 422e29d281d23c6d0da70fc85d625c3137c3081a
 workflow-type: tm+mt
 source-wordcount: '324'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -63,20 +63,20 @@ ht-degree: 97%
 + Automatisieren mit Workflows{#automating-with-workflows}
    + [Erstellen eines Workflows](/help/automating-with-workflows/creating-a-workflow.md)
    + [Erstellen eines Zielgruppen-Workflows](/help/automating-with-workflows/creating-a-targeting-workflow.md)
-   + [Verfeinern von Zielen durch Kombinieren von Abfrageergebnissen](/help/automating-with-workflows/refining-targets-by-combining-query-results.md)
-   + [Verfeinern von Zielen durch Ausschließen von Abfrageergebnissen](/help/automating-with-workflows/refining-targets-by-excluding-query-results.md)
+   + [Verfeinern von Zielgruppen durch Kombinieren von Abfrageergebnissen](/help/automating-with-workflows/refining-targets-by-combining-query-results.md)
+   + [Verfeinern von Zielgruppen durch Ausschließen von Abfrageergebnissen](/help/automating-with-workflows/refining-targets-by-excluding-query-results.md)
    + [Verwenden der Aktivität „Liste aktualisieren“, um eine Liste mit einem Workflow zu erstellen](/help/automating-with-workflows/using-the-update-list-activity.md)
    + [Konfigurieren eines Validierungs-Workflows](/help/automating-with-workflows/validation-flow-configuration.md)
    + [Konfigurieren von Anreicherungsaktivitäten](/help/automating-with-workflows/enrichment-activity.md)
    + [Datensegmentierung](/help/data-management/data-segmentation.md)
 + Gestalten von Inhalten{#designing-content}
    + [Konfigurieren von Landingpages](/help/designing-content/configure-landingpages.md)
-+ Monitoring     {#monitoring}
++ Monitoring      {#monitoring}
    + [Workflow-Heatmap](/help/monitoring-campaign-classic/workflow-heatmap.md)
    + [Audit-Protokoll](/help/monitoring-campaign-classic/audit-trail.md)
 + Integration {#integrating}
    + [Integration von Dynamics 365 mit Adobe Campaign Classic](/help/integrations/dynamics365-integration.md)
 + Verwalten{#administrating}
-   + [Control Panel](https://docs.adobe.com/content/help/en/campaign-classic-learn/control-panel/control-panel-overview.html)
+   + [Control Panel](https://docs.adobe.com/content/help/de-DE/campaign-classic-learn/control-panel/control-panel-overview.html)
    + Zugriff auf externe Datenbanken (FDA) {#fda}
       + [Verwaltung von Big Data [!DNL Snowflake]](/help/administrating/snowflake/big-data-segmentation-on-snowflake.md)
