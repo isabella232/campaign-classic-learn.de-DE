@@ -7,9 +7,9 @@ kt: 4115
 doc-type: feature video
 activity: use
 team: PM
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 422e29d281d23c6d0da70fc85d625c3137c3081a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '122'
 ht-degree: 100%
 
@@ -30,6 +30,7 @@ Um auf die Subdomain-Verwaltung im [!UICONTROL Control Panel] zuzugreifen, navig
 
 * [Startseite von Experience Cloud](https://experience.adobe.com/#/home) > Lösungsauswahl: **[!DNL Campaign]** > **[!UICONTROL Control Panel]**-Karte > **Subdomains und Zertifikate**-Karte
 
+
 oder
 * Direkt über die URL: [https://experience.adobe.com/#/controlpanel/domain](https://experience.adobe.com/#/controlpanel/domain)
 
@@ -37,7 +38,7 @@ oder
 
 Das folgende Video zeigt, wie Sie Subdomains zuweisen können.
 
->[!VIDEO](https://video.tv.adobe.com/v/31390?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/31390?quality=12&captions=ger)
 
 *Zuweisung von Subdomains (05:07 Min.)*
 
