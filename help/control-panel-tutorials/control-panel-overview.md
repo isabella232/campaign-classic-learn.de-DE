@@ -1,5 +1,5 @@
 ---
-title: Control Panel  - Übersicht
+title: Control Panel   - Übersicht
 description: Mit dem Control Panel von Adobe Campaign können Adobe Campaign-Administratoren wichtige Assets überwachen sowie administrative Aufgaben erledigen, z. B. Verwalten des SFTP-Speichers nach Instanz oder Verwalten von GPG-Schlüsseln bzw. Subdomains und Zertifikaten.
 feature: Control Panel
 topics: Control Panel
@@ -7,11 +7,11 @@ kt: 3262
 doc-type: feature video
 activity: use
 team: PM
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 422e29d281d23c6d0da70fc85d625c3137c3081a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '197'
-ht-degree: 90%
+ht-degree: 100%
 
 ---
 
@@ -21,9 +21,9 @@ Mit dem Control Panel von Adobe Campaign können Adobe Campaign-Administratoren 
 
 ## Neue Funktionen
 
-* **[Subdomänen mithilfe von CNAME übertragen](/help/control-panel-tutorials/subdomains-and-certificates/delegating-subdomains-using-cname.md)**
+* **[Zuweisen von Subdomains mit CNAME](/help/control-panel-tutorials/subdomains-and-certificates/delegating-subdomains-using-cname.md)**
 
-   *Erfahren Sie, wie Sie eine Subdomäne mithilfe von CNAMEs in der Systemsteuerung einrichten und senden.*
+   *Erfahren Sie, wie Sie eine Subdomain mit CNAME im Control Panel einrichten und senden.*
 
 ## Mitarbeiterauswahl
 
