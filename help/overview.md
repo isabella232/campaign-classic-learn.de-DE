@@ -3,11 +3,11 @@ title: Adobe Campaign Classic-Tutorials – Übersicht
 description: Adobe Campaign bietet eine Plattform zur Konzeption kanalübergreifender Kundenerlebnisse und stellt dazu eine Umgebung für die Entwicklung visueller Kampagnen, die Verwaltung von Echtzeit-Interaktionen und die kanalübergreifende Umsetzung bereit. Dieses Benutzerhandbuch enthält Videos und Tutorials zu den verschiedenen Funktionen und Leistungsmerkmalen von Adobe Campaign Standard.
 product: Campaign
 sub-product: Campaign Classic
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 422e29d281d23c6d0da70fc85d625c3137c3081a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '194'
-ht-degree: 89%
+ht-degree: 100%
 
 ---
 
@@ -18,9 +18,9 @@ Adobe Campaign bietet eine Plattform zur Konzeption kanalübergreifender Kundene
 
 ## Neue Funktionen
 
-* **[Subdomänen mithilfe von CNAME (Beta) übertragen](/help/control-panel-tutorials/subdomains-and-certificates/delegating-subdomains-using-cname.md)**
+* **[Zuweisen von Subdomains mit CNAME (Beta)](/help/control-panel-tutorials/subdomains-and-certificates/delegating-subdomains-using-cname.md)**
 
-   *Erfahren Sie, wie Sie eine Subdomäne mithilfe von CNAMEs in der Systemsteuerung einrichten und senden.*
+   *Erfahren Sie, wie Sie eine Subdomain mit CNAME im Control Panel einrichten und senden.*
 
 ## Mitarbeiterauswahl
 
