@@ -1,6 +1,6 @@
 ---
 title: Generieren eines SSH-Schlüssels
-description: Erfahren Sie, wie Sie einen SSH-Schlüssel mit einem Terminal generieren und wie Sie die öffentliche Version des Schlüssels in der Systemsteuerung speichern.
+description: Erfahren Sie, wie Sie einen SSH-Schlüssel mit einem Terminal generieren und wie Sie die öffentliche Version des Schlüssels im Control Panel speichern.
 feature: SSH Key
 topics: Control Panel
 kt: 6348
@@ -8,11 +8,11 @@ thumbnail: 27259.jpg
 doc-type: feature video
 activity: use
 team: PM
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 51bfeb7f53cc68b78080ae7106ab8188cb78adb6
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '132'
-ht-degree: 63%
+ht-degree: 100%
 
 ---
 
@@ -32,8 +32,8 @@ Um auf die SFTP-Verwaltung im Control Panel zuzugreifen, navigieren Sie zu:
 
 ## So generieren Sie einen SSH-Schlüssel
 
-Erfahren Sie, wie Sie einen SSH-Schlüssel mit einem Terminal generieren und wie Sie die öffentliche Version des Schlüssels in der Systemsteuerung speichern.
+Erfahren Sie, wie Sie einen SSH-Schlüssel mit einem Terminal generieren und wie Sie die öffentliche Version des Schlüssels im Control Panel speichern.
 
->[!VIDEO](https://video.tv.adobe.com/v/27259?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/27259?quality=12&captions=ger)
 
 *So generieren Sie einen SSH-Schlüssel (2:16 Min.)*
