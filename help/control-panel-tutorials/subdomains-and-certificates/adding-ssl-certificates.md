@@ -8,11 +8,11 @@ thumbnail: 31317.jpg
 doc-type: feature video
 activity: use
 team: PM
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 60a9359f42f05ac21f4130c16bd5de1353d679f9
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '222'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -40,7 +40,7 @@ Für den Erwerb eines SSL-Zertifikats ist ein Certificate Signing Request (CSR) 
 
 Im folgenden Video erfahren Sie, wie Sie ein Certificate Signing Request im Control Panel generieren.
 
->[!VIDEO](https://video.tv.adobe.com/v/31317?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/31317?quality=12&captions=ger)
 
 *Certificate Signing Requests generieren (02:36 Min.)*
 
@@ -54,11 +54,11 @@ Nachdem Sie das SSL-Zertifikat erhalten haben, muss es für die Subdomains, die 
 
 Im folgenden Video erfahren Sie, wie SSL-Zertifikate im [!UICONTROL Control Panel]installiert werden.
 
->[!VIDEO](https://video.tv.adobe.com/v/31166?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/31166?quality=12&captions=ger)
 
 *SSL-Zertifikate installieren (01:25 Min.)*
 
 ## Zusätzliche Ressourcen
 
-* [Vollständige Subdomänenübertragung (Video)](./subdomain-delegation.md)
-* [Subdomänen und Zertifikate (Dokumentation)](https://docs.adobe.com/content/help/de-DE/control-panel/using/subdomains-and-certificates/renewing-subdomain-certificate.html)
+* [Vollständige Subdomain-Zuweisung (Video)](./subdomain-delegation.md)
+* [Subdomains und Zertifikate (Dokumentation)](https://docs.adobe.com/content/help/de-DE/control-panel/using/subdomains-and-certificates/renewing-subdomain-certificate.html)
