@@ -4,14 +4,14 @@ description: In dieser Lektion lernen Sie die Hauptbenutzeroberfläche von Adobe
 feature: User Interface
 topics: Getting started
 kt: 5009
-thumbnail: 35310.jpg
+thumbnail: 35130.jpg
 doc-type: feature video
 activity: understand
 team: WWFRE
 role: user
-translation-type: ht
-source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
-workflow-type: ht
+translation-type: tm+mt
+source-git-commit: 480b5f51961060c34e5d36a4eae2e18cf2f8e05a
+workflow-type: tm+mt
 source-wordcount: '67'
 ht-degree: 100%
 
@@ -22,7 +22,7 @@ ht-degree: 100%
 
 In dieser Lektion lernen Sie die Hauptbenutzeroberfläche von Adobe Campaign Classic kennen und erhalten Informationen über das Navigieren der Hauptfunktionen.
 
->[!VIDEO](https://video.tv.adobe.com/v/35130?quality=12&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/35130?quality=12)
 
 ## Zusätzliche Ressourcen
 
