@@ -1,5 +1,5 @@
 ---
-product: adobe campaign standard
+product: Adobe Cmpaign Classic
 user-guide-title: Adobe Campaign Control Panel – Tutorials
 user-guide-description: Mit dem Control Panel können Adobe Campaign-Administratoren wichtige Kreativelemente überwachen und administrative Aufgaben ausführen, z. B. die Verwaltung von SFTP-Speicher durch die Instanz oder auf die Zulassungsliste gesetzte IP-Adressen.
 breadcrumb-title: Control Panel – Tutorials
@@ -12,10 +12,10 @@ getting-started-title: Dokumentation
 getting-started-url: https://docs.adobe.com/content/help/de-DE/campaign-classic/using/getting-started/starting-with-adobe-campaign/about-adobe-campaign-classic.html
 index: true
 translation-type: tm+mt
-source-git-commit: 8459863bbd76085dd4b1bd0e77f38d928d43eb2c
+source-git-commit: 217b0ec1b6f5c5e17009f1103d69726aa57dcaa4
 workflow-type: tm+mt
 source-wordcount: '167'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -43,5 +43,5 @@ ht-degree: 98%
       + [Verschlüsseln von Daten mit einem GPG-Schlüssel](/help/control-panel-tutorials/instance-settings/gpg-key-management/using-a-gpg-key-to-encrypt-data.md)
       + [Entschlüsseln von Daten](/help/control-panel-tutorials/instance-settings/gpg-key-management/decrypting-data.md)
 + Leistungsüberwachung {#performance-monitoring}
-   + [Datenbanken überwachen](/help/control-panel-tutorials/performance-monitoring/monitoring-databases.md)
+   + [Überwachen von Datenbanken](/help/control-panel-tutorials/performance-monitoring/monitoring-databases.md)
 + [Fehlerbehebung im Control Panel](/help/control-panel-tutorials/trouble-shooting.md)
