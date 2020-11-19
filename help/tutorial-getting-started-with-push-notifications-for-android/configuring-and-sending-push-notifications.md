@@ -9,24 +9,27 @@ doc-type: feature video
 activity: setup
 team: TM
 translation-type: tm+mt
-source-git-commit: 412fe93f45be1e98343b4e63cbd7dd9285444e46
+source-git-commit: 7da1cb8a2899272bf1203146e80bd21847377e8a
 workflow-type: tm+mt
-source-wordcount: '99'
-ht-degree: 2%
+source-wordcount: '116'
+ht-degree: 1%
 
 ---
 
 
 # Konfigurieren und Senden von Push-Benachrichtigungen
 
-Erfahren Sie, wie Sie eine Push-Benachrichtigung konfigurieren und an Android-App-Benutzer senden.
+Erfahren Sie, wie Sie eine [!DNL push] Benachrichtigung konfigurieren und an Benutzer einer [!DNL Android] Anwendung senden.
 
 >[!VIDEO](https://video.tv.adobe.com/v/328154?quality=12)
+
+**Vorheriger Schritt**
+
+Schritt 2: [Konfigurieren eines Android-Dienstes und Erstellen einer Android-Mobilanwendung in Kampagne](/help/tutorial-getting-started-with-push-notifications-for-android/configuring-an-android-service-in-campaign.md)
 
 ## Zusätzliche Ressourcen
 
 * [Erste Schritte mit App-Kanal für Mobilgeräte (Produktdokumentation)](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/sending-push-notifications/about-mobile-app-channel.html#about-mobile-app-channel)
 * [Push-Benachrichtigungen erstellen (Produktdokumentation)](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/sending-push-notifications/creating-notifications.html#sending-messages)
-* [Erstellen eines Android-Versands in der Kampagne (Produktdokumentation)](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/sending-push-notifications/configure-the-mobile-app/configuring-the-mobile-application-android.html#creating-android-delivery
-* Android-Quarantänen verwalten: https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/monitoring-deliveries/understanding-quarantine-management.html#android-quarantine)
-
+* [Android-Versand in Kampagne erstellen (Produktdokumentation)](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/sending-push-notifications/configure-the-mobile-app/configuring-the-mobile-application-android.html#creating-android-delivery)
+* [Verwalten von Android-Quarantänen (Produktdokumentation)](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/monitoring-deliveries/understanding-quarantine-management.html#android-quarantine)
