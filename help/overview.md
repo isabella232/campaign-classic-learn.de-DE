@@ -4,10 +4,10 @@ description: Adobe Campaign bietet eine Plattform zur Konzeption kanalübergreif
 product: Campaign
 sub-product: Campaign Classic
 translation-type: tm+mt
-source-git-commit: f0273b5936cbca6e56ab4f4d235c85bbd31aa00e
+source-git-commit: 016f47e131df9c3a25b9131da372efaedf6cd5ad
 workflow-type: tm+mt
-source-wordcount: '206'
-ht-degree: 94%
+source-wordcount: '233'
+ht-degree: 88%
 
 ---
 
@@ -18,11 +18,16 @@ Adobe Campaign bietet eine Plattform zur Konzeption kanalübergreifender Kundene
 
 ## Neue Funktionen
 
+* **[Erste Schritte mit Push-Benachrichtigungen für Android](/help/tutorial-getting-started-with-push-notifications-for-android/introduction.md)**
+
+   *Dieses Lernprogramm führt Sie durch die Schritte, die beim Senden von Push-Benachrichtigungen von Adobe Campaign an eine Android-App erforderlich sind.*
+
+
 * **[Zuweisen von Subdomains mit CNAME (Beta)](/help/control-panel-tutorials/subdomains-and-certificates/delegating-subdomains-using-cname.md)**
 
    *Erfahren Sie, wie Sie eine Subdomain mit CNAME im Control Panel einrichten und senden.*
 
-* **[Datenbanken überwachen](/help/control-panel-tutorials/performance-monitoring/monitoring-databases.md)**
+* **[Überwachen von Datenbanken](/help/control-panel-tutorials/performance-monitoring/monitoring-databases.md)**
 
    *Erfahren Sie, wie Sie die Datenbanknutzung Ihrer Instanzen überwachen.*
 
