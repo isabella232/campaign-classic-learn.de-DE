@@ -5,7 +5,7 @@ user-guide-description: Mit dem Control Panel können Adobe Campaign-Administrat
 breadcrumb-title: Control Panel – Tutorials
 breadcrumb-url: /docs/campaign-classic-learn/control-panel/control-panel-overview.html
 solution-title: Experience League
-solution-hub-url: https://experienceleague.adobe.com/?tag=Campaign+Classic#recommended/solutions/campaign
+solution-hub-url: https://experienceleague.adobe.com/?lang=de&tag=Campaign+Classic#recommended/solutions/campaign
 tutorials-title: Tutorials
 tutorials-url: https://docs.adobe.com/content/help/de-DE/campaign-classic-learn/tutorials/overview.html
 getting-started-title: Dokumentation
