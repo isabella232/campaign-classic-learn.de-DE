@@ -4,12 +4,13 @@ description: Sie können allen Subdomains, die zum Senden von E-Mails an GMAIL-A
 feature: Google TXT record management
 topics: Control Panel
 kt: 4744
+thumbnail: 32369.jpg
 doc-type: feature video
 activity: use
 team: PM
-translation-type: ht
-source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
-workflow-type: ht
+translation-type: tm+mt
+source-git-commit: afd21759c453aebf23216fcb25d9eeee92ebc515
+workflow-type: tm+mt
 source-wordcount: '127'
 ht-degree: 100%
 
@@ -22,7 +23,7 @@ Um hohe Posteingangsraten und niedrige Spam-Raten zu gewährleisten, erfordern b
 
 Im folgenden Video erfahren Sie, wie Sie [!UICONTROL Google TXT]-Website-Überprüfungseinträge zu allen Subdomains hinzufügen können, die zum Senden von E-Mails an [!DNL GMAIL]-Adressen über das [!UICONTROL Campaign Control Panel]verwendet werden.
 
->[!VIDEO](https://video.tv.adobe.com/v/32369?quality=12&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/32369?quality=12)
 
 ## Zusätzliche Ressourcen
 
