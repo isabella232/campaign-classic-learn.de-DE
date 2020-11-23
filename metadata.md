@@ -6,9 +6,9 @@ solution: Campaign, Campaign Classic
 mini-toc-levels: 3
 git-repo: https://git.corp.adobe.com/AdobeDocs/campaign-classic-learn.de-DE
 index: true
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 5ff5fd9b021e787feefb2aae3b46421c1234b6cf
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '130'
 ht-degree: 100%
 
@@ -19,7 +19,7 @@ ht-degree: 100%
 
 Die Datei „metadata.md“ enthält Metadaten auf der Repository-Ebene, die über die „TOC.md“-Dateien des Benutzerhandbuchs im Repository übergeben werden. Wenn Sie den „metadata.md“-Inhalt für ein Benutzerhandbuch ändern möchten, tun Sie dies in einer beliebigen „TOC.md“-Datei.
 
-| metadata | Was sie tun |
+| Metadaten | Funktion |
 |--- |--- |
 | solution-title | Wird in der Artikelüberschrift als Link verwendet |
 | solution-hub-url | Öffnet die Helpx-Hub-Seite |
@@ -31,7 +31,7 @@ Die Datei „metadata.md“ enthält Metadaten auf der Repository-Ebene, die üb
 
 In Datei „TOC.md“
 
-| metadata | Was sie tun |
+| Metadaten | Funktion |
 |--- |--- |
 | user-guide-title | Wird in der Artikelüberschrift als Link verwendet |
 | user-guide-url | Öffnet die Helpx-Hub-Seite |
