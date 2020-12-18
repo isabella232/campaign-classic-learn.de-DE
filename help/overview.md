@@ -3,11 +3,11 @@ title: Adobe Campaign Classic-Tutorials – Übersicht
 description: Adobe Campaign bietet eine Plattform zur Konzeption kanalübergreifender Kundenerlebnisse und stellt dazu eine Umgebung für die Entwicklung visueller Kampagnen, die Verwaltung von Echtzeit-Interaktionen und die kanalübergreifende Umsetzung bereit. Dieses Benutzerhandbuch enthält Videos und Tutorials zu den verschiedenen Funktionen und Leistungsmerkmalen von Adobe Campaign Standard.
 product: Campaign
 sub-product: Campaign Classic
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 016f47e131df9c3a25b9131da372efaedf6cd5ad
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '233'
-ht-degree: 88%
+ht-degree: 100%
 
 ---
 
@@ -20,7 +20,7 @@ Adobe Campaign bietet eine Plattform zur Konzeption kanalübergreifender Kundene
 
 * **[Erste Schritte mit Push-Benachrichtigungen für Android](/help/tutorial-getting-started-with-push-notifications-for-android/introduction.md)**
 
-   *Dieses Lernprogramm führt Sie durch die Schritte, die beim Senden von Push-Benachrichtigungen von Adobe Campaign an eine Android-App erforderlich sind.*
+   *Dieses Tutorial führt Sie durch die Schritte, die zum Senden von Push-Benachrichtigungen von Adobe Campaign an eine Android-App erforderlich sind.*
 
 
 * **[Zuweisen von Subdomains mit CNAME (Beta)](/help/control-panel-tutorials/subdomains-and-certificates/delegating-subdomains-using-cname.md)**
