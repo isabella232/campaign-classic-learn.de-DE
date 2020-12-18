@@ -8,14 +8,14 @@ breadcrumb-url: /docs/campaign-classic-learn/tutorials/overview.html
 solution-title: Experience League
 solution-hub-url: https://experienceleague.adobe.com/?lang=de&tag=Campaign+Classic#recommended/solutions/campaign
 tutorials-title: Tutorials
-tutorials-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html
+tutorials-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html?lang=de
 getting-started-title: Dokumentation
 getting-started-url: https://docs.adobe.com/content/help/de-DE/campaign-classic/using/getting-started/starting-with-adobe-campaign/about-adobe-campaign-classic.html
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: b4b9d7c578d4511605154e014189ae467330ec31
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '343'
-ht-degree: 90%
+ht-degree: 100%
 
 ---
 
@@ -29,7 +29,7 @@ ht-degree: 90%
    + [Funktionsweise der Benutzeroberfläche von Adobe Campaign Classic](/help/getting-started/exploring-the-adobe-campaign-classic-user-interface.md)
    + [Verwalten von Marketing-Kampagnen](/help/getting-started/managing-marketing-campaigns.md)
    + [Erstellen von Marketing-Plänen, -Programmen und -Kampagnen](/help/getting-started/creating-a-marketing-plan-programs-and-campaigns.md)
-   + [Erstellen einer Kampagne und einer E-Mail](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/sending-messages/email-channel/creating-a-campaign-and-an-email.html)
+   + [Erstellen einer Kampagne und einer E-Mail](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/sending-messages/email-channel/creating-a-campaign-and-an-email.html?lang=de)
    + [Zielgruppenbestimmung von Profilen in einem Workflow](/help/getting-started/targeting-profiles-in-a-workflow.md)
 + Profil-Management {#profile-management}
    + [Erstellen und Verwalten von Profilen](/help/profile-management/create-and-manage-profiles.md)
@@ -46,9 +46,9 @@ ht-degree: 90%
       + [Konfigurieren wiederkehrender und kontinuierlicher E-Mail-Kampagnen](/help/sending-messages/recurring-deliveries.md)
       + [Definieren interaktiver E-Mail-Inhalte mit AMP](/help/sending-messages/email-channel/defining-interactive-email-content-with-amp.md)
    + Push-Kanal {#push-channel}
-      + [Installieren des Mobile App Kanal](/help/sending-messages/mobile-channel/installing-the-mobile-app-channel.md)
+      + [Installieren des Mobile-App-Kanals](/help/sending-messages/mobile-channel/installing-the-mobile-app-channel.md)
       + [Konfigurieren des Push-Kanals mit dem Experience Platform Mobile SDK](/help/sending-messages/mobile-channel/configure-push-using-aep-mobile-sdk.md)
-      + [Erste Schritte mit Push-Benachrichtigungen für Android (Tutorial)](https://experienceleague.adobe.com/docs/campaign-classic-learn/getting-started-with-push-notifications-for-android/introduction.html)
+      + [Erste Schritte mit Push-Benachrichtigungen für Android (Tutorial)](https://experienceleague.adobe.com/docs/campaign-classic-learn/getting-started-with-push-notifications-for-android/introduction.html?lang=de)
    + Verwenden von Versandvorlagen{#using-delivery-templates}
       + [Konfigurieren einer Versandvorlage](/help/sending-messages/using-delivery-templates/configuring-a-delivery-template.md)
       + [Festlegen der Eigenschaften einer Versandvorlage](/help/sending-messages/using-delivery-templates/setting-delivery-template-properties.md)
