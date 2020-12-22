@@ -12,9 +12,9 @@ tutorials-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tu
 getting-started-title: Dokumentation
 getting-started-url: https://docs.adobe.com/content/help/de-DE/campaign-classic/using/getting-started/starting-with-adobe-campaign/about-adobe-campaign-classic.html
 translation-type: tm+mt
-source-git-commit: e2425ddf8c06c20691276674d41f63239f6905f2
+source-git-commit: 4c2ad15599c4cadb1074f227d1f10be0a2315106
 workflow-type: tm+mt
-source-wordcount: '352'
+source-wordcount: '355'
 ht-degree: 97%
 
 ---
@@ -63,6 +63,7 @@ ht-degree: 97%
    + [Ausführen einer Kampagne](/help/orchestrating-campaigns/executing-a-campaign.md)
    + [Erstellen von kanalübergreifenden Kampagnen](/help/orchestrating-campaigns/multi-channel-campaigns.md)
 + Reporting {#reporting}
+   + [Zugriff auf native Berichte](/help/reporting/accessing-built-in-reports.md)
    + [Erstellen eines deskriptiven Analyseberichts](/help/reporting/generating-a-descriptive-analysis-report.md)
 + Automatisieren mit Workflows{#automating-with-workflows}
    + [Erstellen eines Workflows](/help/automating-with-workflows/creating-a-workflow.md)
