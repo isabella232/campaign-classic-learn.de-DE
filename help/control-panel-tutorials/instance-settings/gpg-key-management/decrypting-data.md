@@ -8,9 +8,10 @@ thumbnail: 36482.jpg
 doc-type: feature video
 activity: use
 team: PM
-translation-type: ht
-source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
-workflow-type: ht
+original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/administrating/control-panel-acc/gpg-key-management/decrypting-data.html
+translation-type: tm+mt
+source-git-commit: 2b8bb977bf8919ae9354cf24aa3bb1122be1cfb0
+workflow-type: tm+mt
 source-wordcount: '88'
 ht-degree: 100%
 
@@ -22,7 +23,7 @@ ht-degree: 100%
 Mit Control Panel können Sie externe Daten, die in Ihre Adobe Campaign-Instanzen übermittelt werden, mit einem Schlüsselpaar aus öffentlichem und privatem Schlüssel entschlüsseln.
 Erfahren Sie, wie Sie zur Entschlüsselung eingehender Daten einen öffentlichen Schlüssel erstellen, importieren und in einer [!DNL Campaign]-Instanz installieren.
 
->[!VIDEO](https://video.tv.adobe.com/v/36482?quality=12&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/36482?quality=12)
 
 ## Zusätzliche Ressourcen
 
