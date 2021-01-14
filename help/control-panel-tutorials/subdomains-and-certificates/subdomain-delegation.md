@@ -8,9 +8,10 @@ thumbnail: 31390.jpg
 doc-type: feature video
 activity: use
 team: PM
-translation-type: ht
-source-git-commit: afd21759c453aebf23216fcb25d9eeee92ebc515
-workflow-type: ht
+original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/administrating/control-panel-acc/subdomain-delegation.html
+translation-type: tm+mt
+source-git-commit: 2b8bb977bf8919ae9354cf24aa3bb1122be1cfb0
+workflow-type: tm+mt
 source-wordcount: '122'
 ht-degree: 100%
 
@@ -39,7 +40,7 @@ oder
 
 Das folgende Video zeigt, wie Sie Subdomains zuweisen können.
 
->[!VIDEO](https://video.tv.adobe.com/v/31390?quality=12&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/31390?quality=12)
 
 *Zuweisung von Subdomains (05:07 Min.)*
 
