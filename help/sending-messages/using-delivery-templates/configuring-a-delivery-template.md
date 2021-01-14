@@ -8,11 +8,12 @@ thumbnail: 24066.jpg
 doc-type: feature video
 activity: use
 team: TM
+original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/sending-messages/delivery-template-configuration.html
 translation-type: tm+mt
-source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
+source-git-commit: 2b8bb977bf8919ae9354cf24aa3bb1122be1cfb0
 workflow-type: tm+mt
 source-wordcount: '221'
-ht-degree: 26%
+ht-degree: 52%
 
 ---
 
@@ -43,7 +44,7 @@ Videos
 
 Dokumentation:
 
-* [Vorlagen](https://docs.campaign.adobe.com/doc/AC/en/DLV_Using_delivery_templates_About_templates.html)
-* [Erstellen einer Versandvorlage](https://docs.campaign.adobe.com/doc/AC/en/DLV_Using_delivery_templates_Creating_a_delivery_template.html)
-* [Zielgruppen-Mapping wählen](https://docs.campaign.adobe.com/doc/AC/en/DLV_Using_delivery_templates_Selecting_a_target_mapping.html)
-* [Versand aus einer Vorlage erstellen](https://docs.campaign.adobe.com/doc/AC/en/DLV_Using_delivery_templates_Creating_a_delivery_from_a_template.html)
+* [Über Vorlagen](https://docs.adobe.com/content/help/de-DE/campaign-classic/using/sending-messages/using-delivery-templates/about-templates.html)
+* [Versandvorlage erstellen](https://docs.adobe.com/content/help/de-DE/campaign-classic/using/sending-messages/using-delivery-templates/creating-a-delivery-template.html)
+* [Zielgruppen-Mapping wählen](https://docs.adobe.com/content/help/de-DE/campaign-classic/using/sending-messages/using-delivery-templates/selecting-a-target-mapping.html)
+* [Versand aus einer Vorlage erstellen](https://docs.adobe.com/content/help/de-DE/campaign-classic/using/sending-messages/using-delivery-templates/creating-a-delivery-from-a-template.html)
