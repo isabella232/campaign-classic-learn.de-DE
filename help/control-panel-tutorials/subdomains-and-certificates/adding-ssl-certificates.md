@@ -8,9 +8,10 @@ thumbnail: 31317.jpg
 doc-type: feature video
 activity: use
 team: PM
-translation-type: ht
-source-git-commit: 60a9359f42f05ac21f4130c16bd5de1353d679f9
-workflow-type: ht
+original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/administrating/control-panel-acc/adding-ssl-certificates.html
+translation-type: tm+mt
+source-git-commit: 2b8bb977bf8919ae9354cf24aa3bb1122be1cfb0
+workflow-type: tm+mt
 source-wordcount: '222'
 ht-degree: 100%
 
@@ -40,7 +41,7 @@ Für den Erwerb eines SSL-Zertifikats ist ein Certificate Signing Request (CSR) 
 
 Im folgenden Video erfahren Sie, wie Sie ein Certificate Signing Request im Control Panel generieren.
 
->[!VIDEO](https://video.tv.adobe.com/v/31317?quality=12&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/31317?quality=12)
 
 *Certificate Signing Requests generieren (02:36 Min.)*
 
@@ -54,7 +55,7 @@ Nachdem Sie das SSL-Zertifikat erhalten haben, muss es für die Subdomains, die 
 
 Im folgenden Video erfahren Sie, wie SSL-Zertifikate im [!UICONTROL Control Panel]installiert werden.
 
->[!VIDEO](https://video.tv.adobe.com/v/31166?quality=12&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/31166?quality=12)
 
 *SSL-Zertifikate installieren (01:25 Min.)*
 
