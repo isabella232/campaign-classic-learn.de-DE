@@ -12,10 +12,10 @@ tutorials-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tu
 getting-started-title: Dokumentation
 getting-started-url: https://docs.adobe.com/content/help/de-DE/campaign-classic/using/getting-started/starting-with-adobe-campaign/about-adobe-campaign-classic.html
 translation-type: tm+mt
-source-git-commit: 262807b2185cf98a154479e97540c561f273ca18
+source-git-commit: 89eb3365c5e72b6285df7b8ed2a0d8bc61884b49
 workflow-type: tm+mt
-source-wordcount: '363'
-ht-degree: 95%
+source-wordcount: '367'
+ht-degree: 88%
 
 ---
 
@@ -26,11 +26,12 @@ ht-degree: 95%
 + Erste Schritte {#getting-started}
    + [Einleitung zu Adobe Campaign Classic](/help/getting-started/introduction-to-adobe-campaign-classic.md)
    + [Installieren und Einrichten des Adobe Campaign-Clients](/help/getting-started/install-and-setup-the-adobe-campaign-client.md)
-   + [Funktionsweise der Benutzeroberfläche von Adobe Campaign Classic](/help/getting-started/exploring-the-adobe-campaign-classic-user-interface.md)
-   + [Verwalten von Marketing-Kampagnen](/help/getting-started/managing-marketing-campaigns.md)
-   + [Erstellen von Marketing-Plänen, -Programmen und -Kampagnen](/help/getting-started/creating-a-marketing-plan-programs-and-campaigns.md)
-   + [Erstellen einer Kampagne und einer E-Mail](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/sending-messages/email-channel/creating-a-campaign-and-an-email.html?lang=de)
-   + [Zielgruppenbestimmung von Profilen in einem Workflow](/help/getting-started/targeting-profiles-in-a-workflow.md)
+   + [Erkunden der Benutzeroberfläche von Adobe Campaign Classic](/help/getting-started/exploring-the-adobe-campaign-classic-user-interface.md)
+   + [Marketing-Kampagnen verwalten](/help/getting-started/managing-marketing-campaigns.md)
+   + [Marketingplan, Programme und Kampagnen erstellen](/help/getting-started/creating-a-marketing-plan-programs-and-campaigns.md)
+   + [Kampagne und E-Mail erstellen](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/sending-messages/email-channel/creating-a-campaign-and-an-email.html?lang=de)
+   + [Zielgruppe von Profilen in einem Workflow](/help/getting-started/targeting-profiles-in-a-workflow.md)
+   + [Vom Ereignis ausgelöste Kampagnen erstellen](/help/getting-started/create-event-triggered-campaigns.md)
 + Profil-Management {#profile-management}
    + [Erstellen und Verwalten von Profilen](/help/profile-management/create-and-manage-profiles.md)
    + [Profilimport](/help/data-management/importing-profiles.md)   
