@@ -1,5 +1,5 @@
 ---
-title: Zielgruppenbestimmung von Profilen in einem Workflow
+title: Zielgruppe von Profilen in einem Workflow
 description: Machen Sie sich mit der Verwendung von Kampagnen-Workflows vertraut und erfahren Sie, wie Sie mit Filterbedingungen Workflow- und Zielprofile in einem Workflow erstellen.
 feature: Workflows
 topics: Targeting Activities
@@ -8,25 +8,25 @@ thumbnail: 35614.jpg
 doc-type: feature video
 activity: use
 team: WWFRE
-translation-type: ht
-source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
-workflow-type: ht
-source-wordcount: '129'
-ht-degree: 100%
+translation-type: tm+mt
+source-git-commit: 89eb3365c5e72b6285df7b8ed2a0d8bc61884b49
+workflow-type: tm+mt
+source-wordcount: '131'
+ht-degree: 90%
 
 ---
 
 
-# Zielgruppenbestimmung von Profilen in einem Workflow
+# Targeting von Profilen in einem Workflow
 
 Machen Sie sich mit der Verwendung von Kampagnen-Workflows vertraut und erfahren Sie, wie Sie mit Filterbedingungen Workflow- und Zielprofile in einem Workflow erstellen.
 
->[!VIDEO](https://video.tv.adobe.com/v/35614?quality=12&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/35614?quality=12)
 
 ## Nächste verfügbare Tutorials
 
 * [Verfeinern von Zielen durch Kombinieren von Abfrageergebnissen](/help/automating-with-workflows/refining-targets-by-combining-query-results.md)
-* [Verfeinern von Zielen durch Ausschließen von Abfrageergebnissen](/help/automating-with-workflows/refining-targets-by-excluding-query-results.md)
+* [Verfeinern von Zielgruppen durch Ausschließen von Abfrageergebnissen](/help/automating-with-workflows/refining-targets-by-excluding-query-results.md)
 * [Verwenden der Aktivität „Liste aktualisieren“, um eine Liste mit einem Workflow zu erstellen](/help/automating-with-workflows/using-the-update-list-activity.md)
 
 ## Zusätzliche Ressourcen
