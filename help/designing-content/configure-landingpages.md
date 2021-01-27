@@ -25,4 +25,4 @@ In diesem Video wird gezeigt, wie Sie durch das Erstellen eines Voreinstellungsz
 
 >[!VIDEO](https://video.tv.adobe.com/v/25041?quality=12)
 
-Weitere Informationen finden Sie in der ausführlichen Dokumentation zum [Erstellen einer Landingpage](https://docs.adobe.com/content/help/en/campaign-classic/using/designing-content/editing-html-content/creating-a-landing-page.html).
+Weitere Informationen finden Sie in der ausführlichen Dokumentation zu [Erstellen einer Landingpage](https://docs.adobe.com/content/help/en/campaign-classic/using/designing-content/editing-html-content/creating-a-landing-page.html).
