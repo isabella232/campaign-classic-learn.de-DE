@@ -28,11 +28,11 @@ Mit dem integrierten Kundendaten-Profil von Adobe Campaign können Marketingexpe
 
 >[!VIDEO](https://video.tv.adobe.com/v/23629?quality=12)
 
-## Erstellung und Aktualisierung von Profilen für Kunden {#customer-profile-creation-and-update}
+## Kundenerstellung und -aktualisierung von Profilen {#customer-profile-creation-and-update}
 
 >[!VIDEO](https://video.tv.adobe.com/v/23632?quality=12)
 
-## Kundensegmentierung  {#customer-segmentation}
+## Kundensegmentierung {#customer-segmentation}
 
 Sobald Sie die Profil verstanden haben, sind Sie bereit, eine erweiterte Segmentierung durch tiefe Abfragen der allgemeinen Kundenattribute und anderer Datenquellen durchzuführen. Ermöglicht die Erstellung wiederverwendbarer Listen, die dynamische Aktualisierung von Listen auf der Grundlage von Datenänderungen in Echtzeit und sogar komplexere Aktivitäten wie Tests mit mehreren Varianten an einem dieser Datenpunkte.
 
