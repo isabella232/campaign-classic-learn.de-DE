@@ -8,9 +8,9 @@ thumbnail: kt-6385.jpg
 doc-type: feature video
 activity: setup
 team: TM
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 93e2482e42a1fdddb77007cab3bbd7149e2545a9
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '243'
 ht-degree: 100%
 
@@ -48,7 +48,7 @@ Bevor Sie beginnen, müssen Sie folgende Voraussetzungen erfüllen:
 
 Sie müssen Ihre [!DNL IMS org ID] kennen. Im folgenden Video wird beschrieben, wo Sie die [!DNL IMS org ID] Ihrer Instanz finden können.
 
->[!VIDEO](https://video.tv.adobe.com/v/27183?quality=12&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/27183?quality=12)
 
 *Prüfen [!DNL IMS Org ID] (00:26 Min.)*
 
@@ -57,7 +57,7 @@ Sie müssen Ihre [!DNL IMS org ID] kennen. Im folgenden Video wird beschrieben, 
 Für den Zugriff auf das [!UICONTROL Control Panel] sind Administratorrechte erforderlich.
 Im folgenden Video erfahren Sie, wie Sie einer Campaign-Instanz einen Administrator hinzufügen.
 
->[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12)
 
 ## Zusätzliche Ressourcen
 
