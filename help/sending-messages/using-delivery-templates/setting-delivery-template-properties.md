@@ -12,7 +12,7 @@ translation-type: tm+mt
 source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
 workflow-type: tm+mt
 source-wordcount: '133'
-ht-degree: 34%
+ht-degree: 78%
 
 ---
 
@@ -32,7 +32,7 @@ Videos
 
 Dokumentation:
 
-* [Vorlagen](https://docs.campaign.adobe.com/doc/AC/en/DLV_Using_delivery_templates_About_templates.html)
-* [Erstellen einer Versandvorlage](https://docs.campaign.adobe.com/doc/AC/en/DLV_Using_delivery_templates_Creating_a_delivery_template.html)
-* [Zielgruppen-Mapping wählen](https://docs.campaign.adobe.com/doc/AC/en/DLV_Using_delivery_templates_Selecting_a_target_mapping.html)
-* [Versand aus einer Vorlage erstellen](https://docs.campaign.adobe.com/doc/AC/en/DLV_Using_delivery_templates_Creating_a_delivery_from_a_template.html)
+* [Über Vorlagen](https://docs.adobe.com/content/help/de-DE/campaign-classic/using/sending-messages/using-delivery-templates/about-templates.html)
+* [Versandvorlage erstellen](https://docs.adobe.com/content/help/de-DE/campaign-classic/using/sending-messages/using-delivery-templates/creating-a-delivery-template.html)
+* [Zielgruppen-Mapping wählen](https://docs.adobe.com/content/help/de-DE/campaign-classic/using/sending-messages/using-delivery-templates/selecting-a-target-mapping.html)
+* [Versand aus einer Vorlage erstellen](https://docs.adobe.com/content/help/de-DE/campaign-classic/using/sending-messages/using-delivery-templates/creating-a-delivery-from-a-template.html)
