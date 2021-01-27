@@ -22,7 +22,7 @@ Das Ermüdungsmanagement steuert die Häufigkeit und Quantität von Nachrichten,
 
 Typologieregeln ermöglichen es Marketingexperten, Geschäftspraktiken über alle Versand hinweg effizienter zu standardisieren, um Kampagnen-Messaging an Kunden zu steuern. Sie tun dies, indem sie vermeiden, dass Ausschlüsse oder häufig verwendete Regeln auf jede einzelne Kampagne angewendet werden müssen. Empfänger, die Kriterien innerhalb einer *Typologieregel* erfüllen, werden während der Analyse vom Versand ausgeschlossen.
 
-In der Regel werden eine Reihe von *Typologieregeln* in einer *Typologie* gruppiert, um auf einen Versand einfach mehrere Filterregeln gleichzeitig anzuwenden.
+Normalerweise werden eine Gruppe von *Typologieregeln* in einer *Typologie* gruppiert, um mühelos mehrere Filterregeln auf einen Versand gleichzeitig anzuwenden.
 
 Dadurch entfallen zusätzliche Schritte beim Erstellen verschiedener Kampagnen und Workflows, während gleichzeitig sichergestellt wird, dass Sie stets die richtige Zielgruppe zum richtigen Zeitpunkt ansprechen.
 
@@ -33,5 +33,5 @@ In diesem Video wird erläutert, wie man die Ermüdungsverwaltung in Adobe Campa
 ## Zusätzliche Ressourcen
 
 * [Über Kampagnentypologien](https://docs.adobe.com/content/help/en/campaign-classic/using/orchestrating-campaigns/campaign-optimization/about-campaign-typologies.html)
-* [Verwalten der Marketingermüdung anhand von Druckregeln](https://docs.adobe.com/content/help/de-DE/campaign-classic/using/orchestrating-campaigns/campaign-optimization/pressure-rules.html)
+* [Verwalten der Marketingermüdung anhand von Druckregeln](https://docs.adobe.com/content/help/en/campaign-classic/using/orchestrating-campaigns/campaign-optimization/pressure-rules.html)
 
