@@ -9,9 +9,9 @@ doc-type: feature video
 audience: administrator
 activity: use
 team: TM
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 4f24a2b09209e4641186d3b4f2d9bbdc9e450a1b
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '86'
 ht-degree: 100%
 
@@ -24,7 +24,7 @@ Alle Assets, Workflows und Daten Ihrer Campaign-Instanz werden in der Datenbank 
 
 Erfahren Sie, wie Sie die Datenbanknutzung Ihrer Instanzen mit dem [!DNL Control Panel] überwachen.
 
->[!VIDEO](https://video.tv.adobe.com/v/327175?quality=12&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/327175?quality=12)
 
 ## Zusätzliche Ressourcen
 
