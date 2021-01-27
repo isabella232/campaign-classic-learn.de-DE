@@ -1,5 +1,5 @@
 ---
-title: Erstellen von Versänden für Direktwerbung
+title: Erstellen von Briefpostsendungen
 description: null
 feature: Direct mail
 topics: null
@@ -12,13 +12,13 @@ translation-type: tm+mt
 source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
 workflow-type: tm+mt
 source-wordcount: '28'
-ht-degree: 0%
+ht-degree: 28%
 
 ---
 
 
-# Erstellen von Versänden für Direktwerbung
+# Erstellen von Briefpostsendungen
 
-Verstehen Sie, wie [!UICONTROL Direktwerbung] in [!UICONTROL Adobe Campaign] funktioniert, und lernen Sie, wie Sie einen [!UICONTROL Direktversand- ]Versand erstellen, formatieren und ausführen.
+Verstehen Sie, wie [!UICONTROL direct mail] in [!UICONTROL Adobe Campaign] funktioniert, und lernen Sie, wie Sie einen [!UICONTROL Direct Mail ]Versand erstellen, formatieren und ausführen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/21377?quality=12)
