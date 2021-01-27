@@ -8,9 +8,9 @@ thumbnail: 35124.jpg
 doc-type: feature video
 activity: setup
 team: DOC
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '107'
 ht-degree: 100%
 
@@ -21,7 +21,7 @@ ht-degree: 100%
 
 In folgenden Video erfahren Sie, wie Sie die Adobe Campaign-Client-Konsole herunterladen und installieren, Verbindungen zu mehreren Umgebungen herstellen und verwalten und den Zugriff auf die Adobe Campaign-Client-Konsole überprüfen können.
 
->[!VIDEO](https://video.tv.adobe.com/v/35124?quality=12&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/35124?quality=12)
 
 ## Zusätzliche Ressourcen
 
