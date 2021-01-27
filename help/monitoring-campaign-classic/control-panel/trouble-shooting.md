@@ -7,9 +7,9 @@ kt: 2938
 doc-type: article
 activity: use
 team: PM
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: fe3d8945922aa1a2b78772cf0a033976b67b85a5
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '351'
 ht-degree: 100%
 
@@ -43,11 +43,11 @@ Der Administrator muss den Benutzer für jede Instanz, die er verwalten möchte,
 
 ### Nützliche Videos
 
->[!VIDEO](https://video.tv.adobe.com/v/27183?quality=12&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/27183?quality=12)
 
 *IMS-Organisations-ID prüfen (00:26 Min.)*
 
->[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12)
 
 *Hinzufügen eines Administrators zum Produktprofil „Administratoren“ für die Verwendung des [!UICONTROL Control Panel] (01:03 Min.)*
 
