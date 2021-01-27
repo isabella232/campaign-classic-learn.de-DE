@@ -1,5 +1,5 @@
 ---
-title: Verwenden der Aktivität "Liste aktualisieren", um eine Liste mit einem Workflow zu erstellen
+title: Verwenden der Aktivität „Liste aktualisieren“, um eine Liste mit einem Workflow zu erstellen
 description: Erfahren Sie, wie Sie Ihre Zielgruppe verfeinern können, indem Sie einen Standardausschluss auf einen Workflow anwenden. Außerdem erfahren Sie, wie Sie Vordefinierte Filter erstellen und wie Sie Probleme mit dem Erstellen Ihres Workflows haben.
 feature: Workflows
 topics: Targeting Activities
@@ -12,12 +12,12 @@ translation-type: tm+mt
 source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
 workflow-type: tm+mt
 source-wordcount: '123'
-ht-degree: 3%
+ht-degree: 44%
 
 ---
 
 
-# Verwenden der Aktivität &quot;Liste aktualisieren&quot;, um eine Liste mit einem Workflow zu erstellen
+# Verwenden der Aktivität „Liste aktualisieren“, um eine Liste mit einem Workflow zu erstellen
 
 Machen Sie sich mit dem Konzept der Listen in Adobe Campaign Classic vertraut und lernen Sie, wie eine Liste mithilfe der Aktivität &quot;Liste aktualisieren&quot;in einem Workflow erstellt wird.
 
@@ -27,11 +27,11 @@ Machen Sie sich mit dem Konzept der Listen in Adobe Campaign Classic vertraut un
 
 Dokumentation:
 
-* [Info zu Workflows](https://docs.adobe.com/content/help/en/campaign-classic/using/automating-with-workflows/introduction/about-workflows.html)
+* [Info zu Workflows](https://docs.adobe.com/content/help/de-DE/campaign-classic/using/automating-with-workflows/introduction/about-workflows.html)
 * [Aktualisierung der Liste](https://docs.adobe.com/content/help/en/campaign-classic/using/automating-with-workflows/targeting-activities/list-update.html)
 
 Tutorials:
 
-* [Targeting von Profilen in einem Workflow](/help/getting-started/targeting-profiles-in-a-workflow.md)
-* [Zielgruppen durch Kombinieren von Abfragen verfeinern](/help/automating-with-workflows/refining-targets-by-combining-query-results.md)
-* [Zielgruppen durch Ausschließen der Abfrage verfeinern](/help/automating-with-workflows/refining-targets-by-excluding-query-results.md)
+* [Zielgruppenbestimmung von Profilen in einem Workflow](/help/getting-started/targeting-profiles-in-a-workflow.md)
+* [Verfeinern von Zielgruppen durch Kombinieren von Abfrageergebnissen](/help/automating-with-workflows/refining-targets-by-combining-query-results.md)
+* [Verfeinern von Zielgruppen durch Ausschließen von Abfrageergebnissen](/help/automating-with-workflows/refining-targets-by-excluding-query-results.md)
