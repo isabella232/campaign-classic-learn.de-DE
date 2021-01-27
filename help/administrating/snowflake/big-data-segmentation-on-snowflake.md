@@ -7,9 +7,9 @@ kt: 4405
 doc-type: feature video
 activity: use
 team: PM
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '107'
 ht-degree: 100%
 
@@ -30,7 +30,7 @@ Sie werden folgende Aufgaben erlernen:
 * Daten suchen und Berichte erstellen
 * Daten in Listen exportieren und echtzeitbasierte Zielgruppenbestimmungsfilter erstellen
 
->[!VIDEO](https://video.tv.adobe.com/v/31588?quality=12&learn=on&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/31588?quality=12&learn=on)
 
 ## Zusätzliche Ressourcen
 
