@@ -4,7 +4,7 @@ description: Adobe Campaign bietet eine Plattform zur Konzeption kanalübergreif
 product: Campaign
 sub-product: Campaign Classic
 translation-type: tm+mt
-source-git-commit: a43f2d309b02b59c72261bf44dfb90a9024e1718
+source-git-commit: fd1532b1205653c1ad988ea09e0d8e7c65b6bfeb
 workflow-type: tm+mt
 source-wordcount: '246'
 ht-degree: 81%
@@ -20,7 +20,7 @@ Adobe Campaign bietet eine Plattform zur Konzeption kanalübergreifender Kundene
 
 * **[Testversand senden und validieren](/help/sending-messages/email-channel/send-and-validate-proofs.md)**
 
-*Erfahren Sie, wie Sie einen Testversand senden und validieren.*
+   *Erfahren Sie, wie Sie einen Testversand senden und validieren.*
 
 * **[Entwerfen von E-Mails für die Zustellbarkeit](/help/sending-messages/email-channel/design-emails-for-deliverability.md)**
 
