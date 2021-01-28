@@ -4,7 +4,7 @@ description: Adobe Campaign bietet eine Plattform zur Konzeption kanalübergreif
 product: Campaign
 sub-product: Campaign Classic
 translation-type: tm+mt
-source-git-commit: be36a04bf4105c70a1e76dd17b082421682b1cc2
+source-git-commit: b6b92148aa3993bc3cee7883ce6a16bc8a4941ea
 workflow-type: tm+mt
 source-wordcount: '254'
 ht-degree: 87%
@@ -18,7 +18,7 @@ Adobe Campaign bietet eine Plattform zur Konzeption kanalübergreifender Kundene
 
 ## Neue Funktionen
 
-* **+ E-Mails  [für die Zustellbarkeit](/help/sending-messages/email-channel/design-emails-for-deliverability.md)**
+* ** [Design-E-Mails für die Zustellbarkeit](/help/sending-messages/email-channel/design-emails-for-deliverability.md)**
 
    *Erfahren Sie, wie Sie Best Practices zur Bereitstellung anwenden.*
 
