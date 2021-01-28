@@ -4,10 +4,10 @@ description: Adobe Campaign bietet eine Plattform zur Konzeption kanalübergreif
 product: Campaign
 sub-product: Campaign Classic
 translation-type: tm+mt
-source-git-commit: b6b92148aa3993bc3cee7883ce6a16bc8a4941ea
+source-git-commit: 588f8607ac9ad11316e77333b8bd6fcf7cc78590
 workflow-type: tm+mt
-source-wordcount: '254'
-ht-degree: 87%
+source-wordcount: '246'
+ht-degree: 81%
 
 ---
 
@@ -18,7 +18,11 @@ Adobe Campaign bietet eine Plattform zur Konzeption kanalübergreifender Kundene
 
 ## Neue Funktionen
 
-* ** [Design-E-Mails für die Zustellbarkeit](/help/sending-messages/email-channel/design-emails-for-deliverability.md)**
+* **[Testversand senden und validieren](/help/sending-messages/email-channel/send-and-validate-proofs)**
+
+*Erfahren Sie, wie Sie einen Testversand senden und validieren.*
+
+* **[Entwerfen von E-Mails für die Zustellbarkeit](/help/sending-messages/email-channel/design-emails-for-deliverability.md)**
 
    *Erfahren Sie, wie Sie Best Practices zur Bereitstellung anwenden.*
 
@@ -29,10 +33,6 @@ Adobe Campaign bietet eine Plattform zur Konzeption kanalübergreifender Kundene
 * **[Erste Schritte mit Push-Benachrichtigungen für Android](/help/tutorial-getting-started-with-push-notifications-for-android/introduction.md)**
 
    *Dieses Tutorial führt Sie durch die Schritte, die zum Senden von Push-Benachrichtigungen von Adobe Campaign an eine Android-App erforderlich sind.*
-
-* **[Zuweisen von Subdomains mit CNAME (Beta)](/help/control-panel-tutorials/subdomains-and-certificates/delegating-subdomains-using-cname.md)**
-
-   *Erfahren Sie, wie Sie eine Subdomain mit CNAME im Control Panel einrichten und senden.*
 
 ## Mitarbeiterauswahl
 
