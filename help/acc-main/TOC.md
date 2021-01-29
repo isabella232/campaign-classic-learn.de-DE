@@ -12,10 +12,10 @@ tutorials-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tu
 getting-started-title: Dokumentation
 getting-started-url: https://docs.adobe.com/content/help/de-DE/campaign-classic/using/getting-started/starting-with-adobe-campaign/about-adobe-campaign-classic.html
 translation-type: tm+mt
-source-git-commit: a43f2d309b02b59c72261bf44dfb90a9024e1718
+source-git-commit: 349f7bca3aff01dca86d004ed3b61792538ec331
 workflow-type: tm+mt
-source-wordcount: '366'
-ht-degree: 86%
+source-wordcount: '369'
+ht-degree: 85%
 
 ---
 
@@ -42,6 +42,7 @@ ht-degree: 86%
       + [E-Mail-Versand erstellen und entwerfen](/help/sending-messages/email-channel/create-and-design-email-deliveries.md)
       + [Verwalten von Testadressen und Testsendungen in einer E-Mail](/help/sending-messages/email-channel/managing-seed-and-proofs.md)
       + [Testversand senden und validieren](/help/sending-messages/email-channel/send-and-validate-proofs.md)
+      + [Kontrollgruppen verwenden](/help/sending-messages/email-channel/use-control-groups.md)
       + [Dynamische Inhalte konfigurieren](/help/sending-messages/email-channel/configuring-dynamic-content.md)
       + [Personalisieren von E-Mails mit dynamischen Inhaltsbausteinen](/help/sending-messages/email-channel/personalization-with-dynamic-content-blocks.md)
       + [Personalisieren von E-Mails mit Personalisierungsfeldern](/help/sending-messages/email-channel/personalizing-emails-using-personalization-fields.md)
