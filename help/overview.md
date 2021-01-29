@@ -4,10 +4,10 @@ description: Adobe Campaign bietet eine Plattform zur Konzeption kanalübergreif
 product: Campaign
 sub-product: Campaign Classic
 translation-type: tm+mt
-source-git-commit: fd1532b1205653c1ad988ea09e0d8e7c65b6bfeb
+source-git-commit: 349f7bca3aff01dca86d004ed3b61792538ec331
 workflow-type: tm+mt
-source-wordcount: '246'
-ht-degree: 81%
+source-wordcount: '239'
+ht-degree: 72%
 
 ---
 
@@ -17,6 +17,10 @@ ht-degree: 81%
 Adobe Campaign bietet eine Plattform zur Konzeption kanalübergreifender Kundenerlebnisse und stellt dazu eine Umgebung für die Entwicklung visueller Kampagnen, die Verwaltung von Echtzeit-Interaktionen und die kanalübergreifende Umsetzung bereit. Dieses Benutzerhandbuch enthält Videos und Tutorials zu den verschiedenen Funktionen und Leistungsmerkmalen von Adobe Campaign Classic.
 
 ## Neue Funktionen
+
+* **[Kontrollgruppen verwenden](/help/sending-messages/email-channel/use-control-groups.md)**
+
+   *Machen Sie sich mit dem Konzept der Kontrollgruppen vertraut und lernen Sie, wie Sie eine Kontrollgruppe für Ihren Versand verwenden.*
 
 * **[Testversand senden und validieren](/help/sending-messages/email-channel/send-and-validate-proofs.md)**
 
@@ -30,9 +34,6 @@ Adobe Campaign bietet eine Plattform zur Konzeption kanalübergreifender Kundene
 
    *Machen Sie sich mit dem Erstellen eines E-Mail-Versands vertraut und lernen Sie, wie E-Mail-Inhalte entworfen und personalisiert werden.*
 
-* **[Erste Schritte mit Push-Benachrichtigungen für Android](/help/tutorial-getting-started-with-push-notifications-for-android/introduction.md)**
-
-   *Dieses Tutorial führt Sie durch die Schritte, die zum Senden von Push-Benachrichtigungen von Adobe Campaign an eine Android-App erforderlich sind.*
 
 ## Mitarbeiterauswahl
 
