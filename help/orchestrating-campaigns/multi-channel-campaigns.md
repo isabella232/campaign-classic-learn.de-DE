@@ -1,5 +1,5 @@
 ---
-title: Erstellen von Kampagnen mit mehreren Kanälen in Adobe Campaign Classic (ACC)
+title: Kampagnen mit mehreren Kanälen erstellen
 description: Erfahren Sie, wie Sie eine Kampagne mit mehreren Kanälen erstellen, indem Sie E-Mail-, SMS- und Briefpost-Versand verwenden.
 feature: Workflows
 topics: null
@@ -9,15 +9,15 @@ doc-type: feature video
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
+source-git-commit: b46156de129b40e92dd0b3fb8777d6dda51ddaf2
 workflow-type: tm+mt
-source-wordcount: '91'
-ht-degree: 38%
+source-wordcount: '86'
+ht-degree: 37%
 
 ---
 
 
-# Erstellen von kanalübergreifenden Kampagnen
+# Kampagnen mit mehreren Kanälen erstellen
 
 In einer Multi-Kanal-Kampagne nutzt eine Marketingkommunikation mehrere Kanal, um eine umfassendere Audience der Zielgruppe auf der Grundlage des bevorzugten Empfänger-Kanals zu erreichen.
 
