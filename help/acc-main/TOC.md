@@ -12,10 +12,10 @@ tutorials-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tu
 getting-started-title: Dokumentation
 getting-started-url: https://docs.adobe.com/content/help/de-DE/campaign-classic/using/getting-started/starting-with-adobe-campaign/about-adobe-campaign-classic.html
 translation-type: tm+mt
-source-git-commit: e9b8c3ff48367d78d264a98d6032f8b557b4cc60
+source-git-commit: 2eef4b85e39f80c5b5f012e17cf73b0e188b9253
 workflow-type: tm+mt
-source-wordcount: '400'
-ht-degree: 80%
+source-wordcount: '394'
+ht-degree: 81%
 
 ---
 
@@ -23,7 +23,6 @@ ht-degree: 80%
 # Adobe Campaign Classic – Tutorials {#tutorials}
 
 + [Übersicht](/help/overview.md)
-+ [Vorbereitung auf den Einstieg in Adobe Campaign - Best Practices zur Lieferbarkeit](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html)
 + Erste Schritte {#getting-started}
    + [Einleitung zu Adobe Campaign Classic](/help/getting-started/introduction-to-adobe-campaign-classic.md)
    + [Installieren und Einrichten des Adobe Campaign-Clients](/help/getting-started/install-and-setup-the-adobe-campaign-client.md)
@@ -52,6 +51,7 @@ ht-degree: 80%
       + [Definieren interaktiver E-Mail-Inhalte mit AMP](/help/sending-messages/email-channel/defining-interactive-email-content-with-amp.md)
       + [Fehlerbehebung bei Problemen mit dem E-Mail-Versand](/help/sending-messages/email-channel/troubleshooting-email-delivery-issues.md)
       + [Entwerfen von E-Mails für die Zustellbarkeit](/help/sending-messages/email-channel/design-emails-for-deliverability.md)
+      + [Best Practice-Handbuch zur Lieferbarkeit](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html)
    + SMS-Kanal {#sms-channel}
       + [Erstellen eines SMS-Versands](/help/sending-messages/mobile-channel/create-a-sms-delivery.md)
    + Push-Kanal {#push-channel}
