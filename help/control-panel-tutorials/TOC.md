@@ -1,7 +1,7 @@
 ---
-product: Adobe Cmpaign Classic
+product: Adobe Campaign Classic
 user-guide-title: Adobe Campaign Control Panel – Tutorials
-user-guide-description: Mit dem Control Panel können Adobe Campaign-Administratoren wichtige Kreativelemente überwachen und administrative Aufgaben ausführen, z. B. die Verwaltung von SFTP-Speicher durch die Instanz oder auf die Zulassungsliste gesetzte IP-Adressen.
+user-guide-description: Erfahren Sie, wie Sie die Schlüsselelemente Ihrer Adobe Campaign-Instanzen überwachen und in der Systemsteuerung administrative Aufgaben durchführen.
 breadcrumb-title: Control Panel – Tutorials
 breadcrumb-url: /docs/campaign-classic-learn/control-panel/control-panel-overview.html
 solution-title: Experience League
@@ -12,10 +12,10 @@ getting-started-title: Dokumentation
 getting-started-url: https://docs.adobe.com/content/help/de-DE/campaign-classic/using/getting-started/starting-with-adobe-campaign/about-adobe-campaign-classic.html
 index: true
 translation-type: tm+mt
-source-git-commit: 217b0ec1b6f5c5e17009f1103d69726aa57dcaa4
+source-git-commit: f4be1f91a69c14fe6a61b4e286c656dcf46a5a67
 workflow-type: tm+mt
-source-wordcount: '167'
-ht-degree: 100%
+source-wordcount: '157'
+ht-degree: 89%
 
 ---
 
