@@ -1,18 +1,20 @@
 ---
 title: Konfigurieren eines Android-Dienstes und Erstellen einer Android Mobile App in Campaign
 description: Erfahren Sie, wie Sie Android-Dienste konfigurieren und eine Android Mobile App in Campaign erstellen. Dies ist erforderlich, damit wir die Neotrip-App als Ziel für die Push-Benachrichtigung definieren können.
-feature: push
+feature: Push-Benachrichtigung
 topics: mobile channels
 kt: 6554
 thumbnail: 327788.jpg
 doc-type: feature video
 activity: setup
 team: TM
+role: Administrator, Entwickler
+level: Erfahren
 translation-type: tm+mt
-source-git-commit: 7da1cb8a2899272bf1203146e80bd21847377e8a
+source-git-commit: 8f06f533afc34b4bcf7fcc690c1b9ab5cafcef4a
 workflow-type: tm+mt
-source-wordcount: '139'
-ht-degree: 100%
+source-wordcount: '143'
+ht-degree: 97%
 
 ---
 
