@@ -1,17 +1,19 @@
 ---
 title: Ausführen einer Kampagne
 description: Erfahren Sie, wie Sie eine Kampagne ausführen, einen E-Mail-Versand und die Eigenschaften des Versands überprüfen.
-feature: Campaigns
+feature: Kampagnen, E-Mail
 topics: null
 kt: 5092
 thumbnail: 329647.jpg
 doc-type: feature video
 activity: use
 team: WWFRE
+role: Geschäftspraktiker
+level: Anfänger
 translation-type: tm+mt
-source-git-commit: d71af28e73ac587394d255494a5f8a7fc177afb6
+source-git-commit: 8f06f533afc34b4bcf7fcc690c1b9ab5cafcef4a
 workflow-type: tm+mt
-source-wordcount: '53'
+source-wordcount: '58'
 ht-degree: 3%
 
 ---
