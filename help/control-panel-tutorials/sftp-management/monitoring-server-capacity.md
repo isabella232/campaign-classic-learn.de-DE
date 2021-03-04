@@ -1,7 +1,7 @@
 ---
 title: Überwachen der Server-Kapazität
-description: Mit dem Control Panel können Sie Ihre SFTP-Datenspeicherung nach Instanz überwachen und verwalten und IP-Adressen auf die Zulassungslisten setzen.
-feature: SFTP Management
+description: Erfahren Sie, wie Sie Ihre SFTP-Datenspeicherung nach Instanz überwachen und verwalten und IP-Adressen zu Zulassungslisten hinzufügen.
+feature: 'Control Panel   '
 topics: Control Panel
 audience: administrator
 kt: 3266
@@ -9,12 +9,14 @@ thumbnail: 27270.jpg
 doc-type: feature video
 activity: use
 team: TM
+role: Administrator
+level: Erfahren
 original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/administrating/control-panel-acc/monitoring-server-capacity-whitelisting-adding-ssh-key.html,https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/administrating/control-panel-acc/monitoring-server-capacity-allow-listing-adding-ssh-key.html
 translation-type: tm+mt
-source-git-commit: 2b8bb977bf8919ae9354cf24aa3bb1122be1cfb0
+source-git-commit: 8847c322c63adb23ea33679714336d0aaac20100
 workflow-type: tm+mt
-source-wordcount: '106'
-ht-degree: 100%
+source-wordcount: '107'
+ht-degree: 82%
 
 ---
 
