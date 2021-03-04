@@ -1,18 +1,20 @@
 ---
 title: Fehlerbehebung im Control Panel
 description: Mit dem Control Panel können Sie Ihren SFTP-Speicher anhand von Instanz und IP-Adressen auf der Zulassungsliste überwachen und verwalten.
-feature: Control Panel
+feature: 'Control Panel   '
 topics: Control Panel
 kt: 2938
 doc-type: article
 activity: use
 team: PM
+role: Administrator
+level: Erfahren
 original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/administrating/control-panel-acc/trouble-shooting.html
 translation-type: tm+mt
-source-git-commit: 2b8bb977bf8919ae9354cf24aa3bb1122be1cfb0
+source-git-commit: 8847c322c63adb23ea33679714336d0aaac20100
 workflow-type: tm+mt
-source-wordcount: '351'
-ht-degree: 100%
+source-wordcount: '355'
+ht-degree: 99%
 
 ---
 
