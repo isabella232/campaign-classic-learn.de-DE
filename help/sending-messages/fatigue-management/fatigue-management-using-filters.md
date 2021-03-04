@@ -1,16 +1,18 @@
 ---
 title: Verwalten der Marketingermüdung anhand von Druckregeln
-description: Die Ermüdungsverwaltung steuert die Häufigkeit und Anzahl von Nachrichten, um eine Überforderung von Empfängern zu vermeiden. Wenn das Kampagne-Optimierungsmodul nicht in Ihrer Kampagne vorhanden ist, können Sie einen vordefinierten Filter konfigurieren, der die Population der Zielgruppe nach der Anzahl der empfangenen Nachrichten filtert.   In diesem Video wird erläutert, wie Sie das Ermüdungsmanagement in Adobe Campaign Classic mithilfe von Filtern implementieren.
-feature: Fatigue Management
+description: Erfahren Sie, wie Sie mithilfe von Filtern Ermüdungsmanagement in Adobe Campaign Classic implementieren.
+feature: Ermüdungsverwaltung
 topics: null
 kt: 2148
 doc-type: feature video
 activity: use
 team: TM
+role: Geschäftspraktiker, Entwickler, Administrator
+level: Erweitert
 translation-type: tm+mt
-source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
+source-git-commit: 8f06f533afc34b4bcf7fcc690c1b9ab5cafcef4a
 workflow-type: tm+mt
-source-wordcount: '147'
+source-wordcount: '108'
 ht-degree: 25%
 
 ---
