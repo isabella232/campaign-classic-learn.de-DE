@@ -1,18 +1,20 @@
 ---
 title: Erstellen einer Empfängerliste mit einem Workflow
 description: Erfahren Sie mehr über das Erstellen einer Audience durch Konfigurieren einer Empfängerliste aus dem Explorer.
-feature: Audiences
+feature: 'Audiences  '
 topics: Getting started
 kt: 2173
 thumbnail: 25603.jpg
 doc-type: feature video
 activity: setup
 team: DOC
+role: Geschäftspraktiker
+level: Anfänger
 translation-type: tm+mt
-source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
+source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
 workflow-type: tm+mt
-source-wordcount: '84'
-ht-degree: 96%
+source-wordcount: '88'
+ht-degree: 93%
 
 ---
 
