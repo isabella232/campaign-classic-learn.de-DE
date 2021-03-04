@@ -1,19 +1,21 @@
 ---
 title: Konfigurieren einer Versandvorlage in Adobe Campaign Classic
-description: Eine Vorlage kann systematisch Typologien, Absender- und Antwortadressen sowie grundlegende Gestaltungsbausteine wie Mirrorseite- und Abmeldung-Links enthalten. Es kann auch Inhalte, ein Firma-Logo oder eine Unterschrift und andere Eigenschaften von Versänden wie Ressourcengültigkeit, Stapelmengen usw. enthalten. Das folgende Video zeigt, wie man eine Vorlage für einen Ad-hoc-Versand konfiguriert.
-feature: Delivery Templates
+description: Erfahren Sie, wie Sie eine Vorlage für einen Ad-hoc-Versand konfigurieren.
+feature: Versandvorlagen
 topics: Templates
 kt: 1980
 thumbnail: 24066.jpg
 doc-type: feature video
 activity: use
 team: TM
+role: Administrator
+level: Anfänger
 original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/sending-messages/delivery-template-configuration.html
 translation-type: tm+mt
-source-git-commit: 2b8bb977bf8919ae9354cf24aa3bb1122be1cfb0
+source-git-commit: 8847c322c63adb23ea33679714336d0aaac20100
 workflow-type: tm+mt
-source-wordcount: '221'
-ht-degree: 52%
+source-wordcount: '180'
+ht-degree: 57%
 
 ---
 
