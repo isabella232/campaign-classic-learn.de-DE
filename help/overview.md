@@ -3,11 +3,15 @@ title: Adobe Campaign Classic-Tutorials – Übersicht
 description: Adobe Campaign bietet eine Plattform zur Konzeption kanalübergreifender Kundenerlebnisse und stellt dazu eine Umgebung für die Entwicklung visueller Kampagnen, die Verwaltung von Echtzeit-Interaktionen und die kanalübergreifende Umsetzung bereit. Dieses Benutzerhandbuch enthält Videos und Tutorials zu den verschiedenen Funktionen und Leistungsmerkmalen von Adobe Campaign Standard.
 product: Campaign
 sub-product: Campaign Classic
+feature: Übersicht
+topic: null
+role: Geschäftspraktiker, Administrator, Entwickler
+level: Anfänger
 translation-type: tm+mt
-source-git-commit: b46156de129b40e92dd0b3fb8777d6dda51ddaf2
+source-git-commit: 8847c322c63adb23ea33679714336d0aaac20100
 workflow-type: tm+mt
-source-wordcount: '251'
-ht-degree: 69%
+source-wordcount: '257'
+ht-degree: 68%
 
 ---
 
