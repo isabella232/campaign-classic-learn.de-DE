@@ -1,17 +1,19 @@
 ---
 title: Verwaltung von Big Data in Snowflake
-description: In diesem Tutorial wird erläutert, wie der Snowflake-Connector in Adobe Campaign Classic genutzt werden kann.
-feature: Snowflake
+description: Erfahren Sie, wie Sie den Snowflake Connector in Adobe Campaign Classic nutzen können
+feature: Federated Data Access - FDA
 topics: FDA
 kt: 4405
 doc-type: feature video
 activity: use
 team: PM
+role: Administrator, Entwickler
+level: Erweitert
 translation-type: tm+mt
-source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
+source-git-commit: 8f06f533afc34b4bcf7fcc690c1b9ab5cafcef4a
 workflow-type: tm+mt
-source-wordcount: '107'
-ht-degree: 100%
+source-wordcount: '111'
+ht-degree: 88%
 
 ---
 
