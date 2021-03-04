@@ -1,18 +1,20 @@
 ---
 title: Verfeinern von Zielgruppen durch Ausschließen von Abfrageergebnissen
 description: Erfahren Sie, wie Sie Ihre Zielgruppe verfeinern können, indem Sie einen Standardausschluss auf einen Workflow anwenden. Außerdem erfahren Sie, wie Sie Vordefinierte Filter erstellen und wie Sie Probleme mit dem Erstellen Ihres Workflows haben.
-feature: Workflows
+feature: Workflows, Targeting-Aktivität, Abfrage-Editor
 topics: Targeting Activities
 kt: 5548
 thumbnail: 36826.jpg
 doc-type: feature video
 activity: use
 team: WWFRE
+role: Geschäftspraktiker
+level: Anfänger
 translation-type: tm+mt
-source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
+source-git-commit: 8f06f533afc34b4bcf7fcc690c1b9ab5cafcef4a
 workflow-type: tm+mt
-source-wordcount: '139'
-ht-degree: 41%
+source-wordcount: '147'
+ht-degree: 38%
 
 ---
 
