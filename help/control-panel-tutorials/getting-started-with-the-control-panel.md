@@ -1,18 +1,21 @@
 ---
 title: Erste Schritte mit dem Control Panel
-description: In diesem Artikel wird beschrieben, wie Sie auf das Control Panel zugreifen und welche Voraussetzungen erfüllt sein müssen, um mit dem Control Panel arbeiten zu können.
-feature: Control Panel
+description: Erfahren Sie, wie Sie auf die Systemsteuerung zugreifen können und welche Voraussetzungen für die Arbeit mit der Systemsteuerung erfüllt sind.
+feature: 'Control Panel   '
 topics: Control Panel
 kt: 6388
 thumbnail: kt-6385.jpg
 doc-type: feature video
 activity: setup
 team: TM
+topic: null
+role: Administrator
+level: Erfahren
 translation-type: tm+mt
-source-git-commit: 93e2482e42a1fdddb77007cab3bbd7149e2545a9
+source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
 workflow-type: tm+mt
-source-wordcount: '243'
-ht-degree: 100%
+source-wordcount: '245'
+ht-degree: 91%
 
 ---
 
