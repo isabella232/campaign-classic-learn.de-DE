@@ -1,17 +1,19 @@
 ---
 title: 'Workflow erstellen     '
-description: In diesem Video wird das Erstellen eines Workflows in Adobe Campaign Classic erläutert.
-feature: Workflow
+description: In diesem Video wird das Erstellen eines Workflows erläutert.
+feature: Workflows
 topics: null
 kt: 2175
 doc-type: feature video
 activity: use
 team: DOC
+role: Geschäftspraktiker
+level: Anfänger
 translation-type: tm+mt
-source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
+source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
 workflow-type: tm+mt
 source-wordcount: '189'
-ht-degree: 74%
+ht-degree: 75%
 
 ---
 
