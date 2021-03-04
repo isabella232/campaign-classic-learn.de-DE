@@ -1,20 +1,22 @@
 ---
 title: Konfigurieren von Workflows in Adobe Campaign Classic
 seo-title: Konfigurieren von Workflows in Adobe Campaign Classic
-description: Adobe Campaign bietet Marketingexperten mehrere Möglichkeiten zur Überprüfung und Bereitstellung von Versand-, Kampagne-, Extraktion- und Budgetgenehmigungen. In diesem Lernprogramm wird beschrieben, wie Sie verschiedene Workflows für die Genehmigungsüberprüfung konfigurieren.
+description: Erfahren Sie, wie Sie verschiedene Workflows für die Genehmigungsüberprüfung konfigurieren.
 seo-description: In diesem Video wird erläutert, wie Sie eine Versandvorlage in ACCAdobe Kampagne konfigurieren und verwenden können. Es werden verschiedene Optionen für Marketingexperten zur Überprüfung und Bereitstellung von Versand-Inhalten, Kampagne-Zielgruppe, Extraktion von Daten und Budgetgenehmigungen erläutert. In diesem Lernprogramm wird beschrieben, wie Sie verschiedene Workflows für die Genehmigungsüberprüfung konfigurieren.
 uuid: fdeb7aef-95aa-4bc1-9c51-2eb7ce802107
 discoiquuid: 29abc57d-c359-472d-817a-0671818894f0
-feature: Workflow
+feature: Workflows, Genehmigungen
 topics: Validation
 kt: KT-1566
 doc-type: feature video
 activity: setup
 team: TM
+role: Geschäftspraktiker
+level: Erweitert
 translation-type: tm+mt
-source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
+source-git-commit: 8f06f533afc34b4bcf7fcc690c1b9ab5cafcef4a
 workflow-type: tm+mt
-source-wordcount: '356'
+source-wordcount: '339'
 ht-degree: 0%
 
 ---
