@@ -1,17 +1,19 @@
 ---
 title: Einrichten laufender und kontinuierlicher E-Mail-Kampagnen
-description: In diesem Lernprogramm wird erläutert, wie ein wiederkehrender und kontinuierlicher Versand und die Unterschiede zwischen den beiden Ansätzen in Adobe Campaign Classic (ACC) eingerichtet werden.
-feature: workflows
+description: Erfahren Sie, wie Sie einen wiederkehrenden und kontinuierlichen Versand einrichten, und lernen Sie die Unterschiede zwischen den beiden Ansätzen kennen.
+feature: Workflows
 topics: channel activities
 kt: 1560
 doc-type: feature video
 activity: use
 team: TM
+role: Geschäftspraktiker
+level: Anfänger
 translation-type: tm+mt
-source-git-commit: 262807b2185cf98a154479e97540c561f273ca18
+source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
 workflow-type: tm+mt
-source-wordcount: '272'
-ht-degree: 66%
+source-wordcount: '270'
+ht-degree: 67%
 
 ---
 
