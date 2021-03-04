@@ -1,18 +1,20 @@
 ---
 title: Personalisieren von E-Mails – Erstellen eines mehrsprachigen Newsletters mit bedingtem Inhalt
 description: Erfahren Sie, wie Sie einem Versand bedingte Inhalte hinzufügen können, beispielsweise einen mehrsprachigen Newsletter.
-feature: Dynamic Content Blocks
+feature: Dynamische Inhaltsblöcke
 topics: Email Channel
 kt: 5922
 thumbnail: 24926.jpg
 doc-type: feature video
 activity: use
 team: TM
+role: Geschäftspraktiker
+level: Anfänger
 translation-type: tm+mt
-source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
+source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
 workflow-type: tm+mt
-source-wordcount: '116'
-ht-degree: 100%
+source-wordcount: '122'
+ht-degree: 95%
 
 ---
 
