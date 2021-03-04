@@ -1,19 +1,20 @@
 ---
 title: Einleitung zu Adobe Campaign Classic
 description: Erfahren Sie, wie Adobe Campaign Classic in das Portfolio von Adobe Digital Experience eingebunden ist, und erhalten Sie einen Überblick über die wichtigsten Leistungsmerkmale und Funktionen.
-feature: null
+feature: 'Übersicht  '
 topics: Getting started
 kt: 5457
 thumbnail: 35129.jpg
 doc-type: feature video
 activity: understand
 team: WWFRE
-role: Benutzer
+role: Geschäftspraktiker, Administrator, Entwickler
+level: Anfänger
 translation-type: tm+mt
-source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
+source-git-commit: 8f06f533afc34b4bcf7fcc690c1b9ab5cafcef4a
 workflow-type: tm+mt
-source-wordcount: '55'
-ht-degree: 100%
+source-wordcount: '60'
+ht-degree: 91%
 
 ---
 
