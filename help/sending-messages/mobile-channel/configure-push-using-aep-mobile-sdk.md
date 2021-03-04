@@ -1,17 +1,19 @@
 ---
 title: 'Konfigurieren des Push-Kanals mit dem Experience Platform Mobile SDK '
-description: 'In diesem Video wird beschrieben, wie Sie den Push-Kanal für Campaign Classic mit dem Experience Cloud Mobile SDK konfigurieren. '
-feature: Mobile SDK
+description: 'Erfahren Sie, wie Sie den Push-Kanal mit dem Experience Cloud Mobile SDK konfigurieren. '
+feature: Push-Benachrichtigung
 topics: Mobile Channels
 kt: 2683
 doc-type: feature video
 activity: setup
 team: PM
+role: Administrator
+level: Anfänger
 translation-type: tm+mt
-source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
+source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
 workflow-type: tm+mt
-source-wordcount: '91'
-ht-degree: 29%
+source-wordcount: '89'
+ht-degree: 32%
 
 ---
 
