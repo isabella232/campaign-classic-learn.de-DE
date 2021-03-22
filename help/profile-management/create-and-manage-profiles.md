@@ -1,6 +1,6 @@
 ---
 title: Erstellen und Verwalten von Profilen
-description: Erfahren Sie, wie Sie auf Profildaten zugreifen, Profile sortieren und filtern und Profile manuell erstellen und verwalten können. Kenntnis der Einhaltung der Allgemeinen Datenschutzverordnung (GDPR) und des California Consumer Privacy Act (CCPA).
+description: Erfahren Sie, wie Sie auf Profildaten zugreifen, Profile sortieren und filtern und Profile manuell erstellen und verwalten können. Machen Sie sich mit den Anforderungen zur Einhaltung der Datenschutz-Grundverordnung (DSGVO) und des California Consumer Privacy Act (CCPA) vertraut.
 landing-page-description: Erläuterung des Konzepts der Profile. Erfahren Sie, wie Sie auf Profildaten zugreifen, Profile sortieren und filtern und Profile manuell erstellen und verwalten können. Erfahren Sie mehr über die DSGVO und CCPA.
 feature: Profile
 topics: null
@@ -9,13 +9,13 @@ thumbnail: 35611.jpg
 doc-type: feature video
 activity: use
 team: WWFRE
-role: Geschäftspraktiker
+role: Business Practitioner
 level: Anfänger
 translation-type: tm+mt
 source-git-commit: 8f06f533afc34b4bcf7fcc690c1b9ab5cafcef4a
 workflow-type: tm+mt
 source-wordcount: '155'
-ht-degree: 76%
+ht-degree: 87%
 
 ---
 
