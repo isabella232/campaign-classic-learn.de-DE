@@ -2,17 +2,15 @@
 title: Erste Schritte mit dem Control Panel
 description: Erfahren Sie, wie Sie auf die Systemsteuerung zugreifen können und welche Voraussetzungen für die Arbeit mit der Systemsteuerung erfüllt sind.
 feature: Control Panel
-topics: Control Panel
 kt: 6388
 thumbnail: kt-6385.jpg
 doc-type: feature video
 activity: setup
 team: TM
-topic: null
 role: Administrator
 level: Erfahren
 translation-type: tm+mt
-source-git-commit: df1ae08c0664812c266512283c7298b3f293e91d
+source-git-commit: 3a9e7ed7c76931a59848c42f05deb6fda00a3fce
 workflow-type: tm+mt
 source-wordcount: '297'
 ht-degree: 59%
@@ -24,8 +22,9 @@ ht-degree: 59%
 
 >[!NOTE]
 >
->Die Systemsteuerung steht allen Administratoren zur Verfügung. Die Schritte zum Gewähren des Administratorzugriffs für einen Benutzer sind im Abschnitt (Produktdokumentation)[https://experienceleague.adobe.com/docs/control-panel/using/discover-control-panel/managing-permissions.html?lang=en#discover-control-panel] beschrieben.
-Beachten Sie, dass Ihre Instanz auf AWS gehostet und mit dem neuesten Build (Gold Standard)[https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/gs-release/gs-overview.html] aktualisiert werden muss. Erfahren Sie, wie Sie Ihre Version überprüfen können in (diesem Abschnitt)[https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/starting-with-adobe-campaign/launching-adobe-campaign.html?lang=en#getting-your-campaign-version]. Um zu überprüfen, ob Ihre Instanz auf AWS gehostet wird, führen Sie die Schritte unter (diese Seite)[https://experienceleague.adobe.com/docs/control-panel/using/faq.html] aus.
+>Die Systemsteuerung steht allen Administratoren zur Verfügung. Die Schritte zum Gewähren des Administratorzugriffs für einen Benutzer sind in der [Produktdokumentation](https://experienceleague.adobe.com/docs/control-panel/using/discover-control-panel/managing-permissions.html?lang=en#discover-control-panel) beschrieben.
+Beachten Sie, dass Ihre Instanz auf AWS gehostet und mit dem neuesten [Gold Standard](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/gs-release/gs-overview.html) Build aktualisiert werden muss. Erfahren Sie, wie Sie Ihre Version in [diesem Abschnitt](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/starting-with-adobe-campaign/launching-adobe-campaign.html?lang=en#getting-your-campaign-version) überprüfen. Um zu überprüfen, ob Ihre Instanz auf AWS gehostet wird, führen Sie die unter [Diese Seite](https://experienceleague.adobe.com/docs/control-panel/using/faq.html) beschriebenen Schritte aus.
+
 
 Mit dem [!UICONTROL Control Panel] können Adobe Campaign-Administratoren wichtige Assets überwachen sowie administrative Aufgaben erledigen, z. B. Verwalten des [!DNL SFTP]-Speichers nach Instanz, Verwalten von [!DNL GPG]-Schlüsseln bzw. [!UICONTROL Subdomains] und [!UICONTROL Zertifikaten].
 
