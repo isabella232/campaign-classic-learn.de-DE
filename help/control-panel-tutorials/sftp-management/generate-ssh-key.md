@@ -1,7 +1,7 @@
 ---
 title: Generieren eines SSH-Schlüssels
 description: Erfahren Sie, wie Sie einen SSH-Schlüssel mit einem Terminal generieren und wie Sie die öffentliche Version des Schlüssels im Control Panel speichern.
-feature: 'Control Panel   '
+feature: Control Panel
 topics: Control Panel
 kt: 6348
 thumbnail: 27259.jpg
@@ -11,11 +11,11 @@ team: PM
 role: Administrator
 level: Erfahren
 original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/administrating/control-panel-acc/generate-ssh-key.html
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 8847c322c63adb23ea33679714336d0aaac20100
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '136'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
