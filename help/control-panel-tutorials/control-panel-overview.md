@@ -1,8 +1,8 @@
 ---
 title: Control Panel – Übersicht
-description: Mit dem Control Panel von Adobe Campaign können Adobe Campaign-Administratoren wichtige Assets überwachen sowie administrative Aufgaben erledigen, z. B. Verwalten des SFTP-Speichers nach Instanz oder Verwalten von GPG-Schlüsseln bzw. Subdomains und Zertifikaten.
-landing-page-description: Die Systemsteuerung ermöglicht es Kampagnen-Administratoren, wichtige Elemente zu überwachen und administrative Aufgaben wie die Verwaltung von SFTP-Datenspeicherung, GPG-Schlüsseln oder Subdomänen und Zertifikaten durchzuführen.
-feature: 'Control Panel   '
+description: Mit dem Control Panel von Adobe Campaign können Adobe Campaign-Administratoren wichtige Assets überwachen sowie administrative Aufgaben erledigen, z. B. das Verwalten der SFTP-Datenspeicherung nach Instanz oder das Verwalten von GPG-Schlüsseln bzw. Subdomains und Zertifikaten.
+landing-page-description: Mit dem Control Panel können Campaign-Administratoren wichtige Assets überwachen sowie administrative Aufgaben erledigen, z. B. das Verwalten von SFTP-Datenspeicherung, GPG-Schlüsseln oder Subdomains und Zertifikaten.
+feature: Control Panel
 topics: Control Panel
 kt: 3262
 doc-type: feature video
@@ -11,17 +11,17 @@ team: PM
 role: Administrator
 level: Erfahren
 original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/administrating/control-panel-acc/control-panel-overview.html
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 8847c322c63adb23ea33679714336d0aaac20100
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '238'
-ht-degree: 86%
+ht-degree: 100%
 
 ---
 
 # Control Panel – Übersicht
 
-Mit dem Control Panel von Adobe Campaign können Adobe Campaign-Administratoren wichtige Assets überwachen sowie administrative Aufgaben erledigen, z. B. Verwalten des SFTP-Speichers nach Instanz oder Verwalten von GPG-Schlüsseln bzw. Subdomains und Zertifikaten.
+Mit dem Control Panel von Adobe Campaign können Adobe Campaign-Administratoren wichtige Assets überwachen sowie administrative Aufgaben erledigen, z. B. das Verwalten der SFTP-Datenspeicherung nach Instanz oder das Verwalten von GPG-Schlüsseln bzw. Subdomains und Zertifikaten.
 
 ## Neue Funktionen
 
