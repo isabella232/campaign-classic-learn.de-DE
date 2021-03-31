@@ -1,27 +1,27 @@
 ---
-title: Dynamische Inhalte konfigurieren
-description: Machen Sie sich mit den verschiedenen Arten dynamischer Inhalte vertraut und lernen Sie, wie Sie Gestaltungsbaustein und bedingte Anweisungen erstellen und auf einen Versand anwenden.
-feature: Dynamischer Inhalt, Personalisierung, E-Mail
+title: Dynamischen Content konfigurieren
+description: Machen Sie sich mit den verschiedenen Arten von dynamischem Content vertraut und lernen Sie, wie Sie Gestaltungsbausteine und bedingte Anweisungen erstellen und auf einen Versand anwenden.
+feature: Dynamischer Content, Personalisierung, E-Mail
 topics: null
 kt: 6824
 thumbnail: 329936.jpg
 doc-type: feature video
 activity: use
 team: WWFRE
-role: Geschäftspraktiker
+role: Business Practitioner
 level: Anfänger
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '84'
-ht-degree: 32%
+ht-degree: 100%
 
 ---
 
 
-# Dynamische Inhalte konfigurieren
+# Dynamischen Content konfigurieren
 
-Machen Sie sich mit den verschiedenen Arten dynamischer Inhalte vertraut und lernen Sie, wie Sie Gestaltungsbaustein und bedingte Anweisungen erstellen und auf einen Versand anwenden.
+Machen Sie sich mit den verschiedenen Arten von dynamischem Content vertraut und lernen Sie, wie Sie Gestaltungsbausteine und bedingte Anweisungen erstellen und auf einen Versand anwenden.
 
 >[!VIDEO](https://video.tv.adobe.com/v/329936?quality=12)
 
@@ -29,9 +29,9 @@ Machen Sie sich mit den verschiedenen Arten dynamischer Inhalte vertraut und ler
 
 Produktdokumentation:
 
-* [Bedingter Inhalt](https://docs.adobe.com/content/help/de-DE/campaign-classic/using/sending-messages/personalizing-deliveries/conditional-content.html)
+* [Bedingte Inhalte](https://docs.adobe.com/content/help/de-DE/campaign-classic/using/sending-messages/personalizing-deliveries/conditional-content.html)
 
-Videolehrgänge:
+Video-Tutorials:
 
 * [Personalisieren von E-Mails mit dynamischen Inhaltsbausteinen](/help/sending-messages/email-channel/personalization-with-dynamic-content-blocks.md)
 * [Personalisieren von E-Mails mit Personalisierungsfeldern](/help/sending-messages/email-channel/personalizing-emails-using-personalization-fields.md)
