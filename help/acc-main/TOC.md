@@ -2,7 +2,7 @@
 product: adobe campaign
 sub-product: Campaign Classic
 user-guide-title: Adobe Campaign Classic – Tutorials
-user-guide-description: Adobe Campaign Classic ermöglicht es Marketing-Experten, kanalübergreifende Kundenerlebnisse aufzubauen und liefert eine Umgebung für visuelle Kampagnen, Interaktions-Management in Echtzeit und die kanalübergreifende Ausführungen.
+user-guide-description: Adobe Campaign Classic bietet Marketing-Experten eine visuell-gestützte Umgebung für die Konzeption kanalübergreifender Kundenerlebnisse, über die sie Kampagnen orchestrieren, Interaktionen in Echtzeit verwalten und Kampagnen kanalübergreifend ausführen können.
 breadcrumb-title: Tutorials
 breadcrumb-url: /docs/campaign-classic-learn/tutorials/overview.html
 solution-title: Experience League
@@ -11,11 +11,11 @@ tutorials-title: Tutorials
 tutorials-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html?lang=de
 getting-started-title: Dokumentation
 getting-started-url: https://docs.adobe.com/content/help/de-DE/campaign-classic/using/getting-started/starting-with-adobe-campaign/about-adobe-campaign-classic.html
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 2eef4b85e39f80c5b5f012e17cf73b0e188b9253
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '394'
-ht-degree: 81%
+ht-degree: 100%
 
 ---
 
@@ -26,12 +26,12 @@ ht-degree: 81%
 + Erste Schritte {#getting-started}
    + [Einleitung zu Adobe Campaign Classic](/help/getting-started/introduction-to-adobe-campaign-classic.md)
    + [Installieren und Einrichten des Adobe Campaign-Clients](/help/getting-started/install-and-setup-the-adobe-campaign-client.md)
-   + [Erkunden der Benutzeroberfläche von Adobe Campaign Classic](/help/getting-started/exploring-the-adobe-campaign-classic-user-interface.md)
-   + [Marketing-Kampagnen verwalten](/help/getting-started/managing-marketing-campaigns.md)
-   + [Marketingplan, Programme und Kampagnen erstellen](/help/getting-started/creating-a-marketing-plan-programs-and-campaigns.md)
+   + [Navigation in der Benutzeroberfläche von Adobe Campaign Classic](/help/getting-started/exploring-the-adobe-campaign-classic-user-interface.md)
+   + [Verwalten von Marketing-Kampagnen](/help/getting-started/managing-marketing-campaigns.md)
+   + [Erstellen von Marketing-Plänen, -Programmen und -Kampagnen](/help/getting-started/creating-a-marketing-plan-programs-and-campaigns.md)
    + [Erstellen einer Kampagne und einer E-Mail](/help/getting-started/creating-a-campaign-and-an-email.md)
-   + [Zielgruppe von Profilen in einem Workflow](/help/getting-started/targeting-profiles-in-a-workflow.md)
-   + [Vom Ereignis ausgelöste Kampagnen erstellen](/help/getting-started/create-event-triggered-campaigns.md)
+   + [Bestimmung der Zielgruppenprofile in einem Workflow](/help/getting-started/targeting-profiles-in-a-workflow.md)
+   + [Durch ein Ereignis ausgelöste Kampagnen erstellen](/help/getting-started/create-event-triggered-campaigns.md)
 + Profil-Management {#profile-management}
    + [Erstellen und Verwalten von Profilen](/help/profile-management/create-and-manage-profiles.md)
    + [Profilimport](/help/data-management/importing-profiles.md)   
@@ -39,19 +39,19 @@ ht-degree: 81%
    + [Erstellen einer Liste von Empfängern mit einem Workflow](/help/profile-management/creating-a-list-of-recipients-with-a-workflow.md)
 + Senden von Nachrichten{#sending-messages}
    + E-Mail-Kanal{#email-channel}
-      + [E-Mail-Versand erstellen und entwerfen](/help/sending-messages/email-channel/create-and-design-email-deliveries.md)
+      + [Erstellen und Entwerfen von E-Mail-Sendungen](/help/sending-messages/email-channel/create-and-design-email-deliveries.md)
       + [Verwalten von Testadressen und Testsendungen in einer E-Mail](/help/sending-messages/email-channel/managing-seed-and-proofs.md)
-      + [Testversand senden und validieren](/help/sending-messages/email-channel/send-and-validate-proofs.md)
+      + [Testsendungen absenden und validieren](/help/sending-messages/email-channel/send-and-validate-proofs.md)
       + [Kontrollgruppen verwenden](/help/sending-messages/email-channel/use-control-groups.md)
-      + [Dynamische Inhalte konfigurieren](/help/sending-messages/email-channel/configuring-dynamic-content.md)
+      + [Konfigurieren von dynamischem Content](/help/sending-messages/email-channel/configuring-dynamic-content.md)
       + [Personalisieren von E-Mails mit dynamischen Inhaltsbausteinen](/help/sending-messages/email-channel/personalization-with-dynamic-content-blocks.md)
       + [Personalisieren von E-Mails mit Personalisierungsfeldern](/help/sending-messages/email-channel/personalizing-emails-using-personalization-fields.md)
       + [Personalisieren von E-Mails – Erstellen eines mehrsprachigen Newsletters mit bedingtem Inhalt](/help/sending-messages/email-channel/personalizing-emails-create-a-multi-lingual-newsletter-using-conditional-content.md)
       + [Konfigurieren wiederkehrender und kontinuierlicher E-Mail-Kampagnen](/help/sending-messages/recurring-deliveries.md)
       + [Definieren interaktiver E-Mail-Inhalte mit AMP](/help/sending-messages/email-channel/defining-interactive-email-content-with-amp.md)
-      + [Fehlerbehebung bei Problemen mit dem E-Mail-Versand](/help/sending-messages/email-channel/troubleshooting-email-delivery-issues.md)
-      + [Entwerfen von E-Mails für die Zustellbarkeit](/help/sending-messages/email-channel/design-emails-for-deliverability.md)
-      + [Best Practice-Handbuch zur Lieferbarkeit](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html)
+      + [Problembehebung beim E-Mail-Versand](/help/sending-messages/email-channel/troubleshooting-email-delivery-issues.md)
+      + [Erstellung von E-Mails im Sinne optimaler Zustellbarkeit](/help/sending-messages/email-channel/design-emails-for-deliverability.md)
+      + [Best Practices für die Optimierung der Zustellbarkeit](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=de)
    + SMS-Kanal {#sms-channel}
       + [Erstellen eines SMS-Versands](/help/sending-messages/mobile-channel/create-a-sms-delivery.md)
    + Push-Kanal {#push-channel}
@@ -67,25 +67,25 @@ ht-degree: 81%
    + Ermüdungsverwaltung{#fatigue-management}
       + [Verwenden von Typologieregeln](/help/sending-messages/fatigue-management/typology-rules-for-fatigue-management.md)
       + [Verwenden von vordefinierten Filtern](/help/sending-messages/fatigue-management/fatigue-management-using-filters.md)
-   + [Anmeldedienst konfigurieren und verwalten](/help/sending-messages/configuring-and-managing-subscription-services.md)
-+ Orchestrierung von Kampagnen {#orchestration}
+   + [Konfigurieren und verwalten von Anmeldediensten](/help/sending-messages/configuring-and-managing-subscription-services.md)
++ Orchestrieren von Kampagnen {#orchestration}
    + [Ausführen einer Kampagne](/help/orchestrating-campaigns/executing-a-campaign.md)
-   + [Einführung in Kampagnen mit mehreren Kanälen und Kanälen](/help/orchestrating-campaigns/introduction-to-cross-and-multi-channel-campaigns.md)
-   + [Kampagnen mit mehreren Kanälen erstellen](/help/orchestrating-campaigns/multi-channel-campaigns.md)
-   + [Erstellen von Kampagnen mit mehreren Kanälen](/help/orchestrating-campaigns/cross-channel-campaigns.md)
+   + [Einführung in Multi-Channel- und Cross-Channel-Kampagnen](/help/orchestrating-campaigns/introduction-to-cross-and-multi-channel-campaigns.md)
+   + [Erstellen von Multi-Channel-Kampagnen](/help/orchestrating-campaigns/multi-channel-campaigns.md)
+   + [Erstellen von Cross-Channel-Kampagnen](/help/orchestrating-campaigns/cross-channel-campaigns.md)
 + Reporting {#reporting}
-   + [Zugriff auf native Berichte](/help/reporting/accessing-built-in-reports.md)
+   + [Auf native Berichte zugreifen](/help/reporting/accessing-built-in-reports.md)
    + [Erstellen eines deskriptiven Analyseberichts](/help/reporting/generating-a-descriptive-analysis-report.md)
 + Automatisieren mit Workflows{#automating-with-workflows}
    + [Erstellen eines Workflows](/help/automating-with-workflows/creating-a-workflow.md)
-   + [Erstellen eines Zielgruppen-Workflows](/help/automating-with-workflows/creating-a-targeting-workflow.md)
+   + [Erstellen eines Workflows für die Zielgruppenbestimmung](/help/automating-with-workflows/creating-a-targeting-workflow.md)
    + [Verfeinern von Zielgruppen durch Kombinieren von Abfrageergebnissen](/help/automating-with-workflows/refining-targets-by-combining-query-results.md)
    + [Verfeinern von Zielgruppen durch Ausschließen von Abfrageergebnissen](/help/automating-with-workflows/refining-targets-by-excluding-query-results.md)
    + [Verwenden der Aktivität „Liste aktualisieren“, um eine Liste mit einem Workflow zu erstellen](/help/automating-with-workflows/using-the-update-list-activity.md)
    + [Konfigurieren eines Validierungs-Workflows](/help/automating-with-workflows/validation-flow-configuration.md)
    + [Konfigurieren von Anreicherungsaktivitäten](/help/automating-with-workflows/enrichment-activity.md)
    + [Datensegmentierung](/help/data-management/data-segmentation.md)
-   + [Verwalten von Genehmigungen](/help/automating-with-workflows/managing-approvals.md)
+   + [Verwalten von Validierungen](/help/automating-with-workflows/managing-approvals.md)
 + Gestalten von Inhalten{#designing-content}
    + [Konfigurieren von Landingpages](/help/designing-content/configure-landingpages.md)
 + Monitoring       {#monitoring}
