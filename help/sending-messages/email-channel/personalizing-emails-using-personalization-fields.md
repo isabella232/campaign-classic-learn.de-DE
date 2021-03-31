@@ -1,20 +1,20 @@
 ---
 title: Personalisieren von E-Mails mit Personalisierungsfeldern
 description: Erfahren Sie, wie Sie der Betreffzeile und dem Inhalt eines E-Mail-Versands ein Personalisierungsfeld hinzufügen.
-feature: Dynamische Inhaltsblöcke
+feature: Bausteine mit dynamischem Content
 topics: Email Channel
 kt: 5921
 thumbnail: 24925.jpg
 doc-type: feature video
 activity: use
 team: TM
-role: Geschäftspraktiker
+role: Business Practitioner
 level: Anfänger
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '130'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
