@@ -9,11 +9,11 @@ activity: understand
 team: PM
 role: Administrator
 level: Anfänger
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '171'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -34,7 +34,7 @@ Das [!UICONTROL Audit-Protokoll] protokolliert und listet Operatoraktionen wie E
 
 * Starten
 * Aussetzen
-* Anhalten
+* Stoppen
 * Neu starten
 * Bereinigen
 * Simulieren
