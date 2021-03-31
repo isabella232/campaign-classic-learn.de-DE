@@ -8,13 +8,13 @@ thumbnail: 328154.jpg
 doc-type: feature video
 activity: setup
 team: TM
-role: Administrator, Entwickler, Geschäftspraktiker
-level: Anfänger, Fortgeschrittene, Erfahrene
-translation-type: tm+mt
+role: Administrator, Entwickler, Business Practitioner
+level: Anfänger, Fortgeschritten, Erfahren
+translation-type: ht
 source-git-commit: 8f06f533afc34b4bcf7fcc690c1b9ab5cafcef4a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '124'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
