@@ -1,7 +1,7 @@
 ---
 title: Entschlüsseln von Daten
 description: Im folgenden Video erfahren Sie, wie Sie zur Entschlüsselung von Daten einen öffentlichen Schlüssel generieren, importieren und in einer Campaign-Instanz installieren.
-feature: 'Control Panel   '
+feature: Control Panel
 topics: null
 kt: 5543
 thumbnail: 36482.jpg
@@ -11,11 +11,11 @@ team: PM
 role: Administrator
 level: Erfahren
 original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/administrating/control-panel-acc/gpg-key-management/decrypting-data.html
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 8847c322c63adb23ea33679714336d0aaac20100
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '92'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
