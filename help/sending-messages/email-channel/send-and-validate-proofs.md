@@ -7,13 +7,13 @@ thumbnail: 330945.jpg
 doc-type: feature video
 activity: use
 team: WWFRE
-role: Geschäftspraktiker
+role: Business Practitioner
 level: Anfänger
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '32'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
