@@ -1,7 +1,7 @@
 ---
 title: Erweitern des App-Abonnementschemas zum Personalisieren von Push-Benachrichtigungen
 description: Erfahren Sie, wie Sie das App-Abonnementschema erweitern, um Personalisierungswerte speichern zu können, die Campaign von einer Mobile App erhält.
-feature: Push, Schema Extension
+feature: Push, Schema-Erweiterung
 topics: mobile channels
 kt: 6451
 thumbnail: 327306.jpg
@@ -10,11 +10,11 @@ activity: setup
 team: TM
 role: Administrator, Entwickler
 level: Erfahren
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 8f06f533afc34b4bcf7fcc690c1b9ab5cafcef4a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '99'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
