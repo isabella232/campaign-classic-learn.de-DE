@@ -1,6 +1,6 @@
 ---
-title: Zielgruppe von Profilen in einem Workflow
-description: Machen Sie sich mit der Verwendung von Kampagnen-Workflows vertraut und erfahren Sie, wie Sie mit Filterbedingungen Workflow- und Zielprofile in einem Workflow erstellen.
+title: Bestimmung von Zielgruppenprofilen in einem Workflow
+description: Machen Sie sich mit der Verwendung von Kampagnen-Workflows vertraut und erfahren Sie, wie Sie einen Workflow erstellen und darin anhand von Filterbedingungen Zielgruppenprofile bestimmen.
 feature: Workflows
 topics: Targeting Activities
 kt: 5080
@@ -8,20 +8,20 @@ thumbnail: 35614.jpg
 doc-type: feature video
 activity: use
 team: WWFRE
-role: Geschäftspraktiker
+role: Business Practitioner
 level: Anfänger
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '135'
-ht-degree: 88%
+ht-degree: 100%
 
 ---
 
 
-# Targeting von Profilen in einem Workflow
+# Bestimmung von Zielgruppenprofilen in einem Workflow
 
-Machen Sie sich mit der Verwendung von Kampagnen-Workflows vertraut und erfahren Sie, wie Sie mit Filterbedingungen Workflow- und Zielprofile in einem Workflow erstellen.
+Machen Sie sich mit der Verwendung von Kampagnen-Workflows vertraut und erfahren Sie, wie Sie einen Workflow erstellen und darin anhand von Filterbedingungen Zielgruppenprofile bestimmen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/35614?quality=12)
 
