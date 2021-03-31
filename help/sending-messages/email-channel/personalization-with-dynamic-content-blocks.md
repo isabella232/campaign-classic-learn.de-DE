@@ -1,7 +1,7 @@
 ---
 title: Personalisieren von E-Mails mit dynamischen Inhaltsbausteinen
 description: Erfahren Sie, wie Sie dynamische Inhaltsbausteine erstellen und diese zur Personalisierung des Inhalts Ihres E-Mail-Versands verwenden.
-feature: Dynamische Inhaltsblöcke
+feature: Bausteine mit dynamischem Content
 topics: Email Channel
 kt: 1559
 thumbnail: 24924
@@ -10,11 +10,11 @@ activity: use
 team: TM
 role: Administrator, Entwickler
 level: Anfänger
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 8f06f533afc34b4bcf7fcc690c1b9ab5cafcef4a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '153'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
