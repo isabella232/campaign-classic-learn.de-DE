@@ -7,10 +7,10 @@ kt: 2938
 doc-type: article
 activity: use
 team: PM
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: fe3d8945922aa1a2b78772cf0a033976b67b85a5
-workflow-type: tm+mt
-source-wordcount: '351'
+workflow-type: ht
+source-wordcount: '353'
 ht-degree: 100%
 
 ---
@@ -58,11 +58,11 @@ Der Administrator muss den Benutzer für jede Instanz, die er verwalten möchte,
 
 ## Herstellen einer Verbindung zum SFTP-Server (Client oder API)
 
-Für Verbindungen zu SFTP-Servern ist Folgendes erforderlich:
+Für Verbindungen mit SFTP-Servern ist Folgendes erforderlich:
 
 * [!UICONTROL Setzen auf die Zulassungsliste] der IP-Adresse, von der Sie eine Verbindung zum SFTP-Server herstellen
-* Schlüsselpaar aus privatem/öffentlichen Schlüssel, das bei Adobe Campaign registriert werden muss
-* Wenn Sie eine direkte Verbindung zum SFTP-Server herstellen möchten, benötigen Sie auch SFTP-Clientsoftware.
+* Schlüsselpaar aus privatem/öffentlichem Schlüssel, das bei Adobe Campaign registriert werden muss
+* Wenn Sie eine direkte Verbindung zum SFTP-Server herstellen möchten, benötigen Sie auch SFTP-Client-Software
 
 ### Nützliche Dokumentation  {#helpful-docs}
 
