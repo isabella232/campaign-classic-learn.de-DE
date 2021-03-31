@@ -1,7 +1,7 @@
 ---
 product: Adobe Campaign Classic
 user-guide-title: Adobe Campaign Control Panel – Tutorials
-user-guide-description: Erfahren Sie, wie Sie die Schlüsselelemente Ihrer Adobe Campaign-Instanzen überwachen und in der Systemsteuerung administrative Aufgaben durchführen.
+user-guide-description: Hier erfahren Sie, wie Sie die Schlüssel-Assets Ihrer Adobe Campaign-Instanzen überwachen und im Control Panel administrative Aufgaben durchführen.
 breadcrumb-title: Control Panel – Tutorials
 breadcrumb-url: /docs/campaign-classic-learn/control-panel/control-panel-overview.html
 solution-title: Experience League
@@ -11,14 +11,14 @@ tutorials-url: https://docs.adobe.com/content/help/de-DE/campaign-classic-learn/
 getting-started-title: Dokumentation
 getting-started-url: https://docs.adobe.com/content/help/de-DE/campaign-classic/using/getting-started/starting-with-adobe-campaign/about-adobe-campaign-classic.html
 index: true
-feature: 'Control Panel   '
+feature: Control Panel
 role: Administrator
 level: Erfahren
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 8847c322c63adb23ea33679714336d0aaac20100
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '161'
-ht-degree: 88%
+ht-degree: 100%
 
 ---
 
