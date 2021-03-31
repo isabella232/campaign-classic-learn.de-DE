@@ -1,7 +1,7 @@
 ---
 title: Fehlerbehebung im Control Panel
 description: Mit dem Control Panel können Sie Ihren SFTP-Speicher anhand von Instanz und IP-Adressen auf der Zulassungsliste überwachen und verwalten.
-feature: 'Control Panel   '
+feature: Control Panel
 topics: Control Panel
 kt: 2938
 doc-type: article
@@ -10,11 +10,11 @@ team: PM
 role: Administrator
 level: Erfahren
 original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/administrating/control-panel-acc/trouble-shooting.html
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 8847c322c63adb23ea33679714336d0aaac20100
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '355'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -61,11 +61,11 @@ Der Administrator muss den Benutzer für jede Instanz, die er verwalten möchte,
 
 ## Herstellen einer Verbindung zum SFTP-Server (Client oder API)
 
-Für Verbindungen zu SFTP-Servern ist Folgendes erforderlich:
+Für Verbindungen mit SFTP-Servern ist Folgendes erforderlich:
 
 * [!UICONTROL Setzen auf die Zulassungsliste] der IP-Adresse, von der Sie eine Verbindung zum SFTP-Server herstellen
-* Schlüsselpaar aus privatem/öffentlichen Schlüssel, das bei Adobe Campaign registriert werden muss
-* Wenn Sie eine direkte Verbindung zum SFTP-Server herstellen möchten, benötigen Sie auch SFTP-Clientsoftware.
+* Schlüsselpaar aus privatem/öffentlichem Schlüssel, das bei Adobe Campaign registriert werden muss
+* Wenn Sie eine direkte Verbindung zum SFTP-Server herstellen möchten, benötigen Sie auch SFTP-Client-Software
 
 ### Nützliche Dokumentation  {#helpful-docs}
 
