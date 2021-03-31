@@ -1,46 +1,46 @@
 ---
 title: Adobe Campaign Classic-Tutorials – Übersicht
-description: Adobe Campaign bietet eine Plattform zur Konzeption kanalübergreifender Kundenerlebnisse und stellt dazu eine Umgebung für die Entwicklung visueller Kampagnen, die Verwaltung von Echtzeit-Interaktionen und die kanalübergreifende Umsetzung bereit. Dieses Benutzerhandbuch enthält Videos und Tutorials zu den verschiedenen Funktionen und Leistungsmerkmalen von Adobe Campaign Standard.
+description: Adobe Campaign bietet eine Plattform für die Konzeption kanalübergreifender Kundenerlebnisse, auf der über eine visuell-gestützte Umgebung Kampagnen orchestriert, Interaktionen in Echtzeit verwaltet und Kampagnen kanalübergreifend ausgeführt werden können. Dieses Benutzerhandbuch enthält Videos und Tutorials zu den verschiedenen Funktionen und Leistungsmerkmalen von Adobe Campaign Standard.
 product: Campaign
 sub-product: Campaign Classic
 feature: Übersicht
 topic: null
-role: Geschäftspraktiker, Administrator, Entwickler
+role: Business Practitioner, Administrator, Entwickler
 level: Anfänger
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 8847c322c63adb23ea33679714336d0aaac20100
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '257'
-ht-degree: 68%
+ht-degree: 100%
 
 ---
 
 
 # Adobe Campaign Classic-Tutorials – Übersicht
 
-Adobe Campaign bietet eine Plattform zur Konzeption kanalübergreifender Kundenerlebnisse und stellt dazu eine Umgebung für die Entwicklung visueller Kampagnen, die Verwaltung von Echtzeit-Interaktionen und die kanalübergreifende Umsetzung bereit. Dieses Benutzerhandbuch enthält Videos und Tutorials zu den verschiedenen Funktionen und Leistungsmerkmalen von Adobe Campaign Classic.
+Adobe Campaign bietet eine Plattform für die Konzeption kanalübergreifender Kundenerlebnisse, auf der über eine visuell-gestützte Umgebung Kampagnen orchestriert, Interaktionen in Echtzeit verwaltet und Kampagnen kanalübergreifend ausgeführt werden können. Dieses Benutzerhandbuch enthält Videos und Tutorials zu den verschiedenen Funktionen und Leistungsmerkmalen von Adobe Campaign Classic.
 
 ## Neue Funktionen
 
-* **[Erstellen von Kampagnen mit mehreren Kanälen](/help/orchestrating-campaigns/cross-channel-campaigns.md)**
+* **[Erstellen von Cross-Channel-Kampagnen](/help/orchestrating-campaigns/cross-channel-campaigns.md)**
 
-   *Erfahren Sie, wie Sie eine Cross-Kanal-Kampagne erstellen und ausführen.*
+   *Erfahren Sie, wie Sie eine Cross-Channel-Kampagne erstellen und ausführen.*
 
 * **[Kontrollgruppen verwenden](/help/sending-messages/email-channel/use-control-groups.md)**
 
-   *Machen Sie sich mit dem Konzept der Kontrollgruppen vertraut und lernen Sie, wie Sie eine Kontrollgruppe für Ihren Versand verwenden.*
+   *Machen Sie sich mit dem Konzept der Kontrollgruppen vertraut und erfahren Sie, wie Sie für Ihren Versand eine Kontrollgruppe verwenden.*
 
-* **[Testversand senden und validieren](/help/sending-messages/email-channel/send-and-validate-proofs.md)**
+* **[Testsendungen absenden und validieren](/help/sending-messages/email-channel/send-and-validate-proofs.md)**
 
-   *Erfahren Sie, wie Sie einen Testversand senden und validieren.*
+   *Erfahren Sie, wie Sie einen Testversand absenden und validieren.*
 
-* **[Entwerfen von E-Mails für die Zustellbarkeit](/help/sending-messages/email-channel/design-emails-for-deliverability.md)**
+* **[Erstellen von E-Mails im Sinne optimaler Zustellbarkeit](/help/sending-messages/email-channel/design-emails-for-deliverability.md)**
 
-   *Erfahren Sie, wie Sie Best Practices zur Bereitstellung anwenden.*
+   *Erfahren Sie, wie Sie Best Practices für die Optimierung der Zustellbarkeit anwenden.*
 
-* **[E-Mail-Versand erstellen und entwerfen](/help/sending-messages/email-channel/create-and-design-email-deliveries.md)**
+* **[Erstellen und Entwerfen von E-Mail-Sendungen](/help/sending-messages/email-channel/create-and-design-email-deliveries.md)**
 
-   *Machen Sie sich mit dem Erstellen eines E-Mail-Versands vertraut und lernen Sie, wie E-Mail-Inhalte entworfen und personalisiert werden.*
+   *Machen Sie sich mit dem Erstellen eines E-Mail-Versands vertraut und erfahren Sie, wie Sie E-Mail-Inhalte gestalten und personalisieren können.*
 
 
 ## Mitarbeiterauswahl
