@@ -3,7 +3,7 @@ title: Hinzufügen von IP-Adressen zu Zulassungslisten
 seo-title: Hinzufügen von IP-Adressen zu Zulassungslisten
 description: Erfahren Sie, wie Sie den Zulassungslisten von Campaign Classic-Instanzen einen IP-Bereich hinzufügen und Bereiche mithilfe des Control Panel aus der Zulassungsliste entfernen.
 seo-description: Im folgenden Video erfahren Sie, wie Sie neue Verbindungen zu Ihren Instanzen einrichten, indem Sie IP-Adressbereiche auf die Zulassungsliste setzen.
-feature: 'Control Panel   '
+feature: Control Panel
 topics: null
 kt: 3479
 thumbnail: 28726.jpg
@@ -13,11 +13,11 @@ team: PM
 role: Administrator
 level: Erfahren
 original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/administrating/control-panel-acc/ip-whitelisting.html,https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/administrating/control-panel-acc/ip-allow-listing.html
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 8847c322c63adb23ea33679714336d0aaac20100
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '223'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
