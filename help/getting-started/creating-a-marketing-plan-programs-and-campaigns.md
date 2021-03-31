@@ -1,6 +1,6 @@
 ---
-title: Erstellen von Marketingplänen, Programmen und Kampagnen
-description: Machen Sie sich mit den Schlüsselkonzepten von Adobe Campaign vertraut, die eine effektive Planung, Ausführung und Messung von kanalübergreifenden Marketing-Kampagnen ermöglichen.
+title: Erstellen von Marketing-Plänen, -Programmen und -Kampagnen
+description: Machen Sie sich mit den wichtigsten Konzepten von Adobe Campaign und damit vertraut, wie diese Sie bei der effektiven Planung, Ausführung und Messung von kanalübergreifenden Marketing-Kampagnen unterstützen.
 feature: Kampagnen
 topics: Getting started
 kt: 5347
@@ -8,18 +8,18 @@ thumbnail: 35132.jpg
 doc-type: feature video
 activity: understand
 team: WWFRE
-role: Geschäftspraktiker
+role: Business Practitioner
 level: Anfänger
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '71'
-ht-degree: 73%
+ht-degree: 100%
 
 ---
 
 
-# Marketingplan, Programme und Kampagnen erstellen
+# Erstellen von Marketing-Plänen, -Programmen und -Kampagnen
 
 Erfahren Sie, wie Sie einen Marketing-Plan, ein Programm und eine Kampagne erstellen, Eigenschaften für eine Kampagne festlegen und die Planung verwenden können.
 Das Video leitet Sie durch eine einfache Übung.
