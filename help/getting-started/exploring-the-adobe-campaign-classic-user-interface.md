@@ -1,20 +1,20 @@
 ---
 title: Erkunden der Benutzeroberfläche von Adobe Campaign Classic
-description: Machen Sie sich mit der Hauptbenutzeroberfläche von Adobe Campaign Classic vertraut und zeigen Sie, wie Sie in der Hauptfunktion navigieren.
-feature: 'Übersicht  '
+description: Lernen Sie die wichtigsten Elemente der Benutzeroberfläche von Adobe Campaign Classic kennen und erfahren Sie, wie Sie zu den wichtigsten Funktionen navigieren.
+feature: Übersicht
 topics: Getting started
 kt: 5009
 thumbnail: 35130.jpg
 doc-type: feature video
 activity: understand
 team: WWFRE
-role: Geschäftspraktiker
+role: Business Practitioner
 level: Anfänger
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '69'
-ht-degree: 71%
+ht-degree: 100%
 
 ---
 
