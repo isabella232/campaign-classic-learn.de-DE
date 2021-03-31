@@ -1,20 +1,20 @@
 ---
 title: Definieren interaktiver E-Mail-Inhalte mit AMP
-description: Erfahren Sie, wie Sie den E-Mail-Inhalt im AMP-Format konfigurieren.
-feature: E-Mail, E-Mail-Design
+description: Erfahren Sie, wie Sie E-Mail-Inhalte im AMP-Format konfigurieren.
+feature: E-Mail, Entwurf von E-Mails
 topics: Create and Send Email Deliveries
 kt: 3475
 thumbnail: 29940.jpg
 doc-type: feature video
 activity: set-up
 team: TM
-role: Geschäftspraktiker, Entwickler
-level: Erweitert
-translation-type: tm+mt
+role: Business Practitioner, Entwickler
+level: Fortgeschritten
+translation-type: ht
 source-git-commit: 8f06f533afc34b4bcf7fcc690c1b9ab5cafcef4a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '143'
-ht-degree: 88%
+ht-degree: 100%
 
 ---
 
