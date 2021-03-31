@@ -1,7 +1,7 @@
 ---
 title: Überwachen von Datenbanken
 description: Erfahren Sie, wie Sie die Datenbanknutzung Ihrer Instanzen überwachen.
-feature: 'Control Panel   '
+feature: Control Panel
 topics: Control Panel
 kt: 6434
 thumbnail: 327175.jpg
@@ -11,11 +11,11 @@ activity: use
 team: TM
 role: Administrator
 level: Erfahren
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '90'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
