@@ -1,26 +1,26 @@
 ---
-title: Kampagnen mit mehreren Kanälen erstellen
-description: Erfahren Sie, wie Sie eine Kanal-Kanal-Kampagne erstellen.
+title: Erstellen von Multi-Channel-Kampagnen
+description: Erfahren Sie, wie Sie eine Multi-Channel-Kampagne erstellen.
 feature: Workflows
 kt: 7018
 thumbnail: 330990.jpg
 doc-type: feature video
 activity: use
 team: TM
-translation-type: tm+mt
-source-git-commit: b394c336a99427962618a9242109e51b7d30aeaa
-workflow-type: tm+mt
-source-wordcount: '69'
-ht-degree: 24%
+exl-id: adf5eec1-9705-48f0-84a9-57a44bf79d0d
+translation-type: ht
+source-git-commit: 298d3745a32d4509a82295be851f6e390f33749a
+workflow-type: ht
+source-wordcount: '70'
+ht-degree: 100%
 
 ---
 
+# Erstellen von Multi-Channel-Kampagnen
 
-# Kampagnen mit mehreren Kanälen erstellen
+Bei einer Cross-Channel-Kampagne nutzt eine einzelne Marketing-Nachricht mehrere Kanäle, um eine breitere Zielgruppe auf Basis des bevorzugten Empfängerkanals zu erreichen.
 
-In einer Kanal-übergreifenden Kampagne nutzt eine Marketingkommunikation mehrere Kanal, um eine umfassendere Audience der Zielgruppe auf der Grundlage des bevorzugten Empfänger-Kanals zu erreichen.
-
-Multi-Kanal-Versand werden in einem einzigen Arbeitsablauf entwickelt und ausgeführt.
+Multi-Channel-Sendungen werden in einem einzigen Workflow erstellt und ausgeführt.
 
 Erfahren Sie, wie Sie eine Kampagne mit mehreren Kanälen erstellen, indem Sie E-Mail-, SMS- und Briefpost-Versand verwenden.
 
@@ -28,5 +28,4 @@ Erfahren Sie, wie Sie eine Kampagne mit mehreren Kanälen erstellen, indem Sie E
 
 ## Zusätzliche Ressourcen
 
-* [Einführung in Kampagnen mit mehreren Kanälen und Kanälen](/help/orchestrating-campaigns/introduction-to-cross-and-multi-channel-campaigns.md)
-
+* [Einführung in Multi-Channel- und Cross-Channel-Kampagnen](/help/orchestrating-campaigns/introduction-to-cross-and-multi-channel-campaigns.md)
