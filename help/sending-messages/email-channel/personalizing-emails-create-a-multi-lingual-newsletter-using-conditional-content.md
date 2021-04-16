@@ -9,15 +9,15 @@ doc-type: feature video
 activity: use
 team: TM
 role: Business Practitioner
-level: Anfänger
+level: Beginner
+exl-id: 080f5229-9eae-45b6-b0e0-13b4721ad79c
 translation-type: ht
-source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
+source-git-commit: 298d3745a32d4509a82295be851f6e390f33749a
 workflow-type: ht
-source-wordcount: '122'
+source-wordcount: '119'
 ht-degree: 100%
 
 ---
-
 
 # Personalisieren von E-Mails – Erstellen eines mehrsprachigen Newsletters mit bedingtem Inhalt
 
