@@ -10,15 +10,15 @@ audience: administrator
 activity: use
 team: PM
 role: Administrator
-level: Erfahren
+level: Experienced
+exl-id: 16e4f5ed-fd1f-400d-8010-2c1612399596
 translation-type: ht
-source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
+source-git-commit: 298d3745a32d4509a82295be851f6e390f33749a
 workflow-type: ht
-source-wordcount: '96'
+source-wordcount: '94'
 ht-degree: 100%
 
 ---
-
 
 # Hinzufügen eines IP-Bereichs zur Zulassungsliste
 
