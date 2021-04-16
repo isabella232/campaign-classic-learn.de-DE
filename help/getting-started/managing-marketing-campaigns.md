@@ -9,15 +9,15 @@ doc-type: presentation
 activity: understand
 team: WWFRE
 role: Business Practitioner
-level: Anfänger
+level: Beginner
+exl-id: 0a8f07b1-e663-4c64-9d6e-34dfc5b05517
 translation-type: ht
-source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
+source-git-commit: 298d3745a32d4509a82295be851f6e390f33749a
 workflow-type: ht
-source-wordcount: '46'
+source-wordcount: '43'
 ht-degree: 100%
 
 ---
-
 
 # Verwalten von Marketing-Kampagnen
 
