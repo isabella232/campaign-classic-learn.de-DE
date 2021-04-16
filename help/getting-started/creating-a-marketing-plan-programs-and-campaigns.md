@@ -9,15 +9,15 @@ doc-type: feature video
 activity: understand
 team: WWFRE
 role: Business Practitioner
-level: Anfänger
+level: Beginner
+exl-id: b63431c6-d09a-49d1-9281-e1f260842b86
 translation-type: ht
-source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
+source-git-commit: 298d3745a32d4509a82295be851f6e390f33749a
 workflow-type: ht
-source-wordcount: '71'
+source-wordcount: '68'
 ht-degree: 100%
 
 ---
-
 
 # Erstellen von Marketing-Plänen, -Programmen und -Kampagnen
 
