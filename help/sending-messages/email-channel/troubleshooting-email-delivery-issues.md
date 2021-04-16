@@ -9,15 +9,15 @@ doc-type: feature video
 activity: understand
 team: WWFRE
 role: Business Practitioner
-level: Anfänger
+level: Beginner
+exl-id: a362a627-9812-4753-a5de-8eb97ea1b606
 translation-type: ht
-source-git-commit: 8f06f533afc34b4bcf7fcc690c1b9ab5cafcef4a
+source-git-commit: 298d3745a32d4509a82295be851f6e390f33749a
 workflow-type: ht
-source-wordcount: '31'
+source-wordcount: '28'
 ht-degree: 100%
 
 ---
-
 
 # Problembehebung beim E-Mail-Versand
 
