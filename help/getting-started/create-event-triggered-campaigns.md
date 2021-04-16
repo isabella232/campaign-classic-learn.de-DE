@@ -8,15 +8,15 @@ doc-type: feature video
 activity: use
 team: WWFRE
 role: Business Practitioner
-level: Fortgeschritten
+level: Intermediate
+exl-id: da1f498c-b60a-4835-ace0-b99911221bd2
 translation-type: ht
-source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
+source-git-commit: 298d3745a32d4509a82295be851f6e390f33749a
 workflow-type: ht
-source-wordcount: '38'
+source-wordcount: '35'
 ht-degree: 100%
 
 ---
-
 
 # Durch ein Ereignis ausgelöste Kampagnen erstellen
 
