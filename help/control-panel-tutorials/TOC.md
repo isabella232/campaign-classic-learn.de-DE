@@ -13,11 +13,11 @@ getting-started-url: https://docs.adobe.com/content/help/de-DE/campaign-classic/
 index: true
 feature: Control Panel
 role: Administrator
-level: Erfahren
+level: Experienced
 translation-type: ht
 source-git-commit: 8847c322c63adb23ea33679714336d0aaac20100
 workflow-type: ht
-source-wordcount: '161'
+source-wordcount: '159'
 ht-degree: 100%
 
 ---
