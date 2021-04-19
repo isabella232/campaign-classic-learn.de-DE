@@ -1,17 +1,17 @@
 ---
 title: Personalisieren von E-Mails mit dynamischen Inhaltsbausteinen
 description: In diesem Tutorial erfahren Sie, wie Sie Versandinhalte personalisieren, JavaScript-Code in Versandvorlagen verwenden sowie Inhaltsbausteine in verschiedenen Versandvorlagen standardisieren und freigeben können.
-feature: Dynamic Content Blocks
+feature: Dynamischer Inhalt
 topics: Email Channel
 kt: 1559
 doc-type: feature video
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
+source-git-commit: 15811ffa49770a8cc5ff59c8f477029c96425074
 workflow-type: tm+mt
-source-wordcount: '251'
-ht-degree: 100%
+source-wordcount: '253'
+ht-degree: 99%
 
 ---
 
