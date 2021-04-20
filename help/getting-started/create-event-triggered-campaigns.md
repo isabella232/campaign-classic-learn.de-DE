@@ -1,7 +1,7 @@
 ---
 title: Durch ein Ereignis ausgelöste Kampagnen erstellen
 description: Erfahren Sie, wie Sie eine durch ein Ereignis ausgelöste Kampagne erstellen und wie Sie diese Funktion für sich nutzen können.
-feature: Workflows, Zielgruppenbestimmungs-Aktivität
+feature: Workflows, Targeting Activity
 kt: 5087
 thumbnail: 330920.jpg
 doc-type: feature video

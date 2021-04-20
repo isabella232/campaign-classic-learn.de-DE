@@ -1,7 +1,7 @@
 ---
 title: Konfigurieren und verwalten von Anmeldediensten
 description: Erfahren Sie, wie Sie Anmeldungen und Abonnements einrichten und verwalten und ihre Zielgruppen adressieren.
-feature: 'Abonnements         '
+feature: Subscriptions     
 topics: null
 kt: 5088
 thumbnail: 329941.jpg

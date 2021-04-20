@@ -1,7 +1,7 @@
 ---
 title: Verwenden des Audit-Protokolls
 description: 'Das Audit-Protokoll erfasst in Echtzeit eine umfassende Liste von Aktionen und Ereignissen, die in Adobe Campaign auftreten. '
-feature: Audit-Protokoll
+feature: Audit Trail
 topics: Monitoring and Guardrails
 kt: 2835
 doc-type: feature video

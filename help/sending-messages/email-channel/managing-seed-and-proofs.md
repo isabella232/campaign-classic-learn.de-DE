@@ -1,7 +1,7 @@
 ---
 title: Verwalten von Testadressen und Testsendungen in einer E-Mail
 description: Erfahren Sie, wie Sie Testadressen und Testsendungen zu einer bestehenden E-Mail hinzufügen und wie Sie sie versenden.
-feature: E-Mail
+feature: Email
 topics: null
 kt: 2178
 thumbnail: 25606.jpg

@@ -2,7 +2,7 @@
 title: Erstellen und Verwalten von Profilen
 description: Erfahren Sie, wie Sie auf Profildaten zugreifen, Profile sortieren und filtern und Profile manuell erstellen und verwalten können. Machen Sie sich mit den Anforderungen zur Einhaltung der Datenschutz-Grundverordnung (DSGVO) und des California Consumer Privacy Act (CCPA) vertraut.
 landing-page-description: Erläuterung des Konzepts der Profile. Erfahren Sie, wie Sie auf Profildaten zugreifen, Profile sortieren und filtern und Profile manuell erstellen und verwalten können. Erfahren Sie mehr über die DSGVO und CCPA.
-feature: Profile
+feature: Profiles
 topics: null
 kt: 5081
 thumbnail: 35611.jpg

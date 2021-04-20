@@ -1,14 +1,14 @@
 ---
 title: Einrichten des Ermüdungsmanagements mithilfe von Typologieregeln in Adobe Campaign Classic
 description: Erfahren Sie, wie Sie mithilfe von Typologieregeln Ermüdungsmanagement implementieren.
-feature: Ermüdungsverwaltung
+feature: Fatigue Management
 topics: null
 kt: 1564
 doc-type: feature video
 activity: use
 team: TM
-role: Geschäftspraktiker
-level: Anfänger
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
 workflow-type: tm+mt

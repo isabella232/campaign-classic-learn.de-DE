@@ -1,7 +1,7 @@
 ---
 title: Installieren und Einrichten des Adobe Campaign-Clients
 description: In diesem Video erfahren Sie, wie Sie die Adobe Campaign-Client-Konsole herunterladen und installieren, Verbindungen zu mehreren Umgebungen erstellen und verwalten und den Zugriff auf die Adobe Campaign-Client-Konsole überprüfen können.
-feature: Client-Konsole
+feature: Client Console
 topics: Getting started
 kt: 5003
 thumbnail: 35124.jpg

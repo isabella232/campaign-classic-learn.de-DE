@@ -1,7 +1,7 @@
 ---
 title: Wie gewährleiste ich die Zustellbarkeit von E-Mails?
 description: Lernen Sie Best Practices für die Optimierung der Zustellbarkeit kennen.
-feature: E-Mail, Zustellbarkeit
+feature: Email, Deliverability
 topics: null
 kt: 5095
 thumbnail: 330943.jpg

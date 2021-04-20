@@ -5,7 +5,7 @@ description: Erfahren Sie, wie Sie verschiedene Workflows für die Genehmigungs�
 seo-description: In diesem Video wird erläutert, wie Sie eine Versandvorlage in ACCAdobe Kampagne konfigurieren und verwenden können. Es werden verschiedene Optionen für Marketingexperten zur Überprüfung und Bereitstellung von Versand-Inhalten, Kampagne-Zielgruppe, Extraktion von Daten und Budgetgenehmigungen erläutert. In diesem Lernprogramm wird beschrieben, wie Sie verschiedene Workflows für die Genehmigungsüberprüfung konfigurieren.
 uuid: fdeb7aef-95aa-4bc1-9c51-2eb7ce802107
 discoiquuid: 29abc57d-c359-472d-817a-0671818894f0
-feature: Workflows, Genehmigungen
+feature: Workflows, Approvals
 topics: Validation
 kt: KT-1566
 doc-type: feature video

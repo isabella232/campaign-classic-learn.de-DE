@@ -1,7 +1,7 @@
 ---
 title: Verwalten von Marketing-Kampagnen
 description: Machen Sie sich mit den wichtigsten Konzepten von Adobe Campaign und damit vertraut, wie diese Sie bei der effektiven Planung, Ausführung und Messung von kanalübergreifenden Marketing-Kampagnen unterstützen.
-feature: Kampagnen
+feature: Campaigns
 topics: Getting started
 kt: 5077
 thumbnail: 35131.jpg

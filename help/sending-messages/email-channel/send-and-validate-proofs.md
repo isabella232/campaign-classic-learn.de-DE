@@ -1,7 +1,7 @@
 ---
 title: So senden und validieren Sie einen Testversand
 description: Erfahren Sie, wie Sie einen Testversand senden und validieren.
-feature: E-Mail, Testversand
+feature: Email, Proofs
 kt: 5094
 thumbnail: 330945.jpg
 doc-type: feature video

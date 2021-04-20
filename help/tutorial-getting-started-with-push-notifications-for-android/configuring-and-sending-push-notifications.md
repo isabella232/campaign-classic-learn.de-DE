@@ -1,15 +1,15 @@
 ---
 title: 'Konfigurieren und Senden von Push-Benachrichtigungen '
 description: Erfahren Sie, wie Sie eine Push-Benachrichtigung konfigurieren und an Android-App-Benutzer senden.
-feature: Push-Benachrichtigung
+feature: Push
 topics: mobile channels
 kt: 6579
 thumbnail: 328154.jpg
 doc-type: feature video
 activity: setup
 team: TM
-role: Administrator, Entwickler, Business Practitioner
-level: Anfänger, Fortgeschritten, Erfahren
+role: Administrator, Developer, Business Practitioner
+level: Beginner, Intermediate, Experienced
 translation-type: ht
 source-git-commit: 8f06f533afc34b4bcf7fcc690c1b9ab5cafcef4a
 workflow-type: ht

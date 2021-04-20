@@ -1,7 +1,7 @@
 ---
 title: Dynamischen Content konfigurieren
 description: Machen Sie sich mit den verschiedenen Arten von dynamischem Content vertraut und lernen Sie, wie Sie Gestaltungsbausteine und bedingte Anweisungen erstellen und auf einen Versand anwenden.
-feature: Dynamischer Content, Personalisierung, E-Mail
+feature: Dynamic Content, Personalization, Email
 topics: null
 kt: 6824
 thumbnail: 329936.jpg

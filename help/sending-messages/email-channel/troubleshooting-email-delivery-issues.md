@@ -1,7 +1,7 @@
 ---
 title: Problembehebung beim E-Mail-Versand
 description: Erfahren Sie, wie Sie Probleme im Zusammenhang mit dem E-Mail-Versand in Campaign beheben können.
-feature: E-Mail, Zustellbarkeit
+feature: Email, Deliverability
 topics: deliverability
 kt: 5091
 thumbnail: 329920.jpg

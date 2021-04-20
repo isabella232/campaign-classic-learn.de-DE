@@ -1,7 +1,7 @@
 ---
 title: Personalisieren von E-Mails mit dynamischen Inhaltsbausteinen
 description: Erfahren Sie, wie Sie dynamische Inhaltsbausteine erstellen und diese zur Personalisierung des Inhalts Ihres E-Mail-Versands verwenden.
-feature: Dynamischer Inhalt
+feature: Dynamic Content
 topics: Email Channel
 kt: 1559
 thumbnail: 24924

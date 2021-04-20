@@ -1,7 +1,7 @@
 ---
 title: Verwalten der Marketingermüdung anhand von Druckregeln
 description: Erfahren Sie, wie Sie mithilfe von Filtern Ermüdungsmanagement in Adobe Campaign Classic implementieren.
-feature: Ermüdungsverwaltung
+feature: Fatigue Management
 topics: null
 kt: 2148
 doc-type: feature video

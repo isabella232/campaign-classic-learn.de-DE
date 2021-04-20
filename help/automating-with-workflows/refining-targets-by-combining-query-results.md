@@ -1,15 +1,15 @@
 ---
 title: Verfeinern von Zielgruppen durch Kombinieren von Abfrageergebnissen
 description: Erfahren Sie, wie Sie Ihre Zielgruppe verfeinern können, indem Sie Abfragen in einem Workflow kombinieren, der die Schnittmenge oder die Aktivitäten der Vereinigung verwendet.
-feature: Workflows, Targeting-Aktivität, Abfrage-Editor
+feature: Workflows, Targeting Activity, Query Editor
 topics: Targeting Activities
 kt: 5547
 thumbnail: 36832.jpg
 doc-type: feature video
 activity: use
 team: WWFRE
-role: Geschäftspraktiker
-level: Anfänger
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: 8f06f533afc34b4bcf7fcc690c1b9ab5cafcef4a
 workflow-type: tm+mt

@@ -1,7 +1,7 @@
 ---
 title: Erkunden der Benutzeroberfläche von Adobe Campaign Classic
 description: Lernen Sie die wichtigsten Elemente der Benutzeroberfläche von Adobe Campaign Classic kennen und erfahren Sie, wie Sie zu den wichtigsten Funktionen navigieren.
-feature: Übersicht
+feature: Overview
 topics: Getting started
 kt: 5009
 thumbnail: 35130.jpg

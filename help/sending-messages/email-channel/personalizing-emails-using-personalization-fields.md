@@ -1,7 +1,7 @@
 ---
 title: Personalisieren von E-Mails mit Personalisierungsfeldern
 description: Erfahren Sie, wie Sie der Betreffzeile und dem Inhalt eines E-Mail-Versands ein Personalisierungsfeld hinzufügen.
-feature: Dynamischer Inhalt
+feature: Dynamic Content
 topics: Email Channel
 kt: 5921
 thumbnail: 24925.jpg

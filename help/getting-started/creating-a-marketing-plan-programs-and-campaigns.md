@@ -1,7 +1,7 @@
 ---
 title: Erstellen von Marketing-Plänen, -Programmen und -Kampagnen
 description: Machen Sie sich mit den wichtigsten Konzepten von Adobe Campaign und damit vertraut, wie diese Sie bei der effektiven Planung, Ausführung und Messung von kanalübergreifenden Marketing-Kampagnen unterstützen.
-feature: Kampagnen
+feature: Campaigns
 topics: Getting started
 kt: 5347
 thumbnail: 35132.jpg

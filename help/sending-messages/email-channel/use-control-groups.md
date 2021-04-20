@@ -1,7 +1,7 @@
 ---
 title: Verwendung von Kontrollgruppen
 description: Machen Sie sich mit dem Konzept der Kontrollgruppen vertraut und erfahren Sie, wie Sie für Ihren Versand eine Kontrollgruppe verwenden.
-feature: Kontrollgruppen
+feature: Control Groups
 kt: 5085
 thumbnail: 330955.jpg
 doc-type: feature video

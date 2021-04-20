@@ -1,14 +1,14 @@
 ---
 title: 'Konfigurieren des Push-Kanals mit dem Experience Platform Mobile SDK '
 description: 'Erfahren Sie, wie Sie den Push-Kanal mit dem Experience Cloud Mobile SDK konfigurieren. '
-feature: Push-Benachrichtigung
+feature: Push
 topics: Mobile Channels
 kt: 2683
 doc-type: feature video
 activity: setup
 team: PM
 role: Administrator
-level: Anfänger
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
 workflow-type: tm+mt

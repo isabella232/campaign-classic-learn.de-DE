@@ -1,15 +1,15 @@
 ---
 title: Konfigurieren von Landingpages in Adobe Campaign Classic
 description: Erfahren Sie, wie Sie im Web-Anwendungs-Editor navigieren, indem Sie ein Voreinstellungscenter erstellen.
-feature: Landingpages
+feature: Landing Pages
 topics: Configure
 kt: 1562
 thumbnail: 25041.jpg
 doc-type: feature video
 activity: setup
 team: DOC
-role: Entwickler, Administrator
-level: Anfänger
+role: Developer, Administrator
+level: Beginner
 translation-type: tm+mt
 source-git-commit: 8f06f533afc34b4bcf7fcc690c1b9ab5cafcef4a
 workflow-type: tm+mt

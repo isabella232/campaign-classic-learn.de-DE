@@ -1,7 +1,7 @@
 ---
 title: Erstellen und Entwerfen von E-Mail-Sendungen
 description: Machen Sie sich mit dem Erstellen eines E-Mail-Versands vertraut und erfahren Sie, wie Sie E-Mail-Inhalte gestalten und personalisieren können.
-feature: E-Mail, Entwerfen von E-Mails, Personalisierung
+feature: Email, Email Design, Personalization
 topics: null
 kt: 6824
 thumbnail: 330941.jpg

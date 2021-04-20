@@ -1,7 +1,7 @@
 ---
 title: Erstellen einer E-Mail aus einer Kampagne
 description: Erfahren Sie, wie Sie einen E-Mail-Versand direkt aus einer Kampagne erstellen.
-feature: E-Mail
+feature: Email
 topics: null
 kt: 2172
 thumbnail: 25604.jpg

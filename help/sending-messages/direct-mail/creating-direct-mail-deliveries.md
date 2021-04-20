@@ -1,7 +1,7 @@
 ---
 title: Erstellen von Briefpostsendungen
 description: Erfahren Sie, wie Sie einen Direct Mail-Versand erstellen, formatieren und ausführen.
-feature: Briefpost
+feature: Direct Mail
 topics: null
 kt: 3859
 thumbnail: 21377.jpg
