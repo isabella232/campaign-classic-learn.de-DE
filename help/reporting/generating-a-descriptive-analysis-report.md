@@ -1,8 +1,7 @@
 ---
 title: Erstellen eines deskriptiven Analyseberichts
 description: Erfahren Sie, wie Sie einen beschreibenden Bericht zur Analyse aus einem Workflow in Adobe Campaign Classic erstellen.
-feature: Reporting
-topics: null
+feature: Berichte
 kt: 5079
 thumbnail: 35616.jpg
 doc-type: feature video
@@ -10,14 +9,14 @@ activity: use
 team: WWFRE
 role: Business Practitioner
 level: Beginner
+exl-id: cc9e256f-67bb-4bb3-aa24-da5de70fc776
 translation-type: tm+mt
-source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
+source-git-commit: 137d1e0c36d038f3fb8a4742bafef6fbac96f41d
 workflow-type: tm+mt
-source-wordcount: '70'
-ht-degree: 65%
+source-wordcount: '67'
+ht-degree: 68%
 
 ---
-
 
 # Erstellen eines deskriptiven Analyseberichts
 
