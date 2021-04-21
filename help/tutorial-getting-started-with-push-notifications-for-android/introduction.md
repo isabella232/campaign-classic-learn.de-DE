@@ -1,8 +1,7 @@
 ---
 title: Erste Schritte mit Push-Benachrichtigungen für Android – Einleitung
 description: Dieses Tutorial führt Sie durch die Schritte, die für das Senden von Push-Benachrichtigungen von Adobe Campaign und den Empfang dieser Benachrichtigungen in Ihrer Android-App erforderlich sind.
-feature: Push
-topics: mobile channels
+feature: Push-Benachrichtigung
 kt: 6438
 doc-type: article
 activity: setup
@@ -10,9 +9,9 @@ team: TM
 role: Administrator, Developer
 level: Experienced
 exl-id: 291c2e3a-c126-439d-9753-06a4091bbda0
-translation-type: ht
-source-git-commit: 298d3745a32d4509a82295be851f6e390f33749a
-workflow-type: ht
+translation-type: tm+mt
+source-git-commit: 137d1e0c36d038f3fb8a4742bafef6fbac96f41d
+workflow-type: tm+mt
 source-wordcount: '366'
 ht-degree: 100%
 
