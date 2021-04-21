@@ -1,8 +1,7 @@
 ---
 title: Problembehebung beim E-Mail-Versand
 description: Erfahren Sie, wie Sie Probleme im Zusammenhang mit dem E-Mail-Versand in Campaign beheben können.
-feature: Email, Deliverability
-topics: deliverability
+feature: E-Mail, Zustellbarkeit
 kt: 5091
 thumbnail: 329920.jpg
 doc-type: feature video
@@ -11,9 +10,9 @@ team: WWFRE
 role: Business Practitioner
 level: Beginner
 exl-id: a362a627-9812-4753-a5de-8eb97ea1b606
-translation-type: ht
-source-git-commit: 298d3745a32d4509a82295be851f6e390f33749a
-workflow-type: ht
+translation-type: tm+mt
+source-git-commit: 137d1e0c36d038f3fb8a4742bafef6fbac96f41d
+workflow-type: tm+mt
 source-wordcount: '28'
 ht-degree: 100%
 
