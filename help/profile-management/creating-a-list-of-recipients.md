@@ -2,7 +2,6 @@
 title: Erstellen einer Empfängerliste
 description: Erfahren Sie mehr über das Erstellen einer Audience durch Konfigurieren einer Empfängerliste aus dem Explorer.
 feature: Audiences
-topics: Getting started
 kt: 2171
 thumbnail: 25602.jpg
 doc-type: feature video
@@ -10,14 +9,14 @@ activity: setup
 team: DOC
 role: Business Practitioner
 level: Beginner
+exl-id: 91e3c9ea-9e5f-43bc-8ed4-ab57e6226d2b
 translation-type: tm+mt
-source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
+source-git-commit: 137d1e0c36d038f3fb8a4742bafef6fbac96f41d
 workflow-type: tm+mt
-source-wordcount: '110'
-ht-degree: 97%
+source-wordcount: '107'
+ht-degree: 100%
 
 ---
-
 
 # Erstellen einer Empfängerliste
 
