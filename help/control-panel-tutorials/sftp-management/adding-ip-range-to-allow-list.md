@@ -2,7 +2,6 @@
 title: 'Hinzufügen eines IP-Bereichs zur Zulassungsliste '
 description: Erfahren Sie, wie Sie der Zulassungsliste einen IP-Adressbereich hinzufügen können.
 feature: Control Panel
-topics: Control Panel
 kt: 6430
 thumbnail: 41775.jpg
 doc-type: feature video
@@ -12,9 +11,9 @@ team: PM
 role: Administrator
 level: Experienced
 exl-id: 16e4f5ed-fd1f-400d-8010-2c1612399596
-translation-type: ht
-source-git-commit: 298d3745a32d4509a82295be851f6e390f33749a
-workflow-type: ht
+translation-type: tm+mt
+source-git-commit: 137d1e0c36d038f3fb8a4742bafef6fbac96f41d
+workflow-type: tm+mt
 source-wordcount: '94'
 ht-degree: 100%
 
