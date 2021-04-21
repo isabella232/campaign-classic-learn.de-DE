@@ -1,8 +1,7 @@
 ---
 title: Erweitern des App-Abonnementschemas zum Personalisieren von Push-Benachrichtigungen
 description: Erfahren Sie, wie Sie das App-Abonnementschema erweitern, um Personalisierungswerte speichern zu können, die Campaign von einer Mobile App erhält.
-feature: Push, Schema Extension
-topics: mobile channels
+feature: Push, Schema-Erweiterung
 kt: 6451
 thumbnail: 327306.jpg
 doc-type: feature video
@@ -10,14 +9,14 @@ activity: setup
 team: TM
 role: Administrator, Developer
 level: Experienced
-translation-type: ht
-source-git-commit: 8f06f533afc34b4bcf7fcc690c1b9ab5cafcef4a
-workflow-type: ht
-source-wordcount: '99'
+exl-id: 6cc1d83c-58a1-4c83-bb4c-8a6be4a12841
+translation-type: tm+mt
+source-git-commit: 137d1e0c36d038f3fb8a4742bafef6fbac96f41d
+workflow-type: tm+mt
+source-wordcount: '96'
 ht-degree: 100%
 
 ---
-
 
 # Erweitern des [!UICONTROL App-Abonnementschemas] zum Personalisieren von Push-Benachrichtigungen
 
