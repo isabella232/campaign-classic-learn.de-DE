@@ -1,24 +1,23 @@
 ---
-title: Erstellen eines Zielgruppen-Workflows
+title: Zielgruppen-Workflow erstellen
 description: Erfahren Sie, wie Sie mehrere Versand-Zielgruppen mithilfe eines Targeting-Workflows definieren.
-feature: Workflows, Targeting Activity, Query Editor
-topics: Targeting Activities
+feature: Workflows, Targeting-Aktivität, Abfrage-Editor
 kt: 2174
 doc-type: feature video
 activity: use
 team: DOC
 role: Business Practitioner
 level: Beginner
+exl-id: d54f5cdf-e026-41cb-b5a6-83344bb95125
 translation-type: tm+mt
-source-git-commit: 8f06f533afc34b4bcf7fcc690c1b9ab5cafcef4a
+source-git-commit: 137d1e0c36d038f3fb8a4742bafef6fbac96f41d
 workflow-type: tm+mt
-source-wordcount: '94'
-ht-degree: 29%
+source-wordcount: '91'
+ht-degree: 30%
 
 ---
 
-
-# Erstellen eines Zielgruppen-Workflows
+# Zielgruppen-Workflow erstellen
 
 Adobe Campaign verwendet Workflows, um Targeting-Kampagnen durchzuführen, Kampagnen zu erstellen oder Adobe Campaign-technische Prozesse auszuführen. In diesem Video konzentrieren wir uns auf Workflows. Mit Targeting Workflows können Sie mehrere Versand-Zielgruppen erstellen.
 
