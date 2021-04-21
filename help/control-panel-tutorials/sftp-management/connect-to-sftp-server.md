@@ -2,7 +2,6 @@
 title: Herstellen einer Verbindung zu einem SFTP-Server
 description: Erfahren Sie, wie Sie mithilfe des SFTP-Clients eine Verbindung zu Ihrem SFTP-Server herstellen und dabei die im Control Panel gespeicherten Schlüssel verwenden.
 feature: Control Panel
-topics: Control Panel
 kt: 2924
 thumbnail: 27263.jpg
 doc-type: feature video
@@ -12,9 +11,9 @@ role: Administrator
 level: Experienced
 original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/administrating/control-panel-acc/connect-to-sftp-server.html
 exl-id: 6b615904-283b-4197-9fd4-d91e20a14657
-translation-type: ht
-source-git-commit: 298d3745a32d4509a82295be851f6e390f33749a
-workflow-type: ht
+translation-type: tm+mt
+source-git-commit: 137d1e0c36d038f3fb8a4742bafef6fbac96f41d
+workflow-type: tm+mt
 source-wordcount: '153'
 ht-degree: 100%
 
