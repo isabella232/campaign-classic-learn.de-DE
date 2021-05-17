@@ -10,11 +10,10 @@ team: WWFRE
 role: Business Practitioner
 level: Beginner
 exl-id: 078bd5d2-e441-4af5-b81c-89a1892601e3
-translation-type: tm+mt
-source-git-commit: 137d1e0c36d038f3fb8a4742bafef6fbac96f41d
+source-git-commit: 3757eaf573dab5139bad084b664475c6a7de4b02
 workflow-type: tm+mt
-source-wordcount: '128'
-ht-degree: 42%
+source-wordcount: '124'
+ht-degree: 36%
 
 ---
 
@@ -28,8 +27,8 @@ Machen Sie sich mit dem Konzept der Listen in Adobe Campaign Classic vertraut un
 
 Dokumentation:
 
-* [Info zu Workflows](https://docs.adobe.com/content/help/de-DE/campaign-classic/using/automating-with-workflows/introduction/about-workflows.html)
-* [Aktualisierung der Liste](https://docs.adobe.com/content/help/en/campaign-classic/using/automating-with-workflows/targeting-activities/list-update.html)
+* [Info zu Workflows](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/introduction/about-workflows.html)
+* [Aktualisierung der Liste](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/list-update.html)
 
 Tutorials:
 
