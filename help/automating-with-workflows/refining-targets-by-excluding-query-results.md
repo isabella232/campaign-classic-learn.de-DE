@@ -10,11 +10,10 @@ team: WWFRE
 role: Business Practitioner
 level: Beginner
 exl-id: 4322a36c-9550-4b94-a742-b02f52c523c2
-translation-type: tm+mt
-source-git-commit: 137d1e0c36d038f3fb8a4742bafef6fbac96f41d
+source-git-commit: 3757eaf573dab5139bad084b664475c6a7de4b02
 workflow-type: tm+mt
-source-wordcount: '144'
-ht-degree: 39%
+source-wordcount: '136'
+ht-degree: 33%
 
 ---
 
@@ -28,13 +27,13 @@ Erfahren Sie, wie Sie Ihre Zielgruppe verfeinern können, indem Sie einen **[!UI
 
 Dokumentation:
 
-* [Info zu Workflows](https://docs.adobe.com/content/help/de-DE/campaign-classic/using/automating-with-workflows/introduction/about-workflows.html)
-* [Ausschluss](https://docs.adobe.com/content/help/en/campaign-classic/using/automating-with-workflows/targeting-activities/exclusion.html)
-* [Ausführung des Workflows überwachen](https://docs.adobe.com/content/help/en/campaign-classic/using/automating-with-workflows/monitoring-workflows/monitoring-workflow-execution.html)
+* [Info zu Workflows](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/introduction/about-workflows.html)
+* [Schnittmenge](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/intersection.html)
+* [Vereinigung](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/union.html)
 
 Tutorials:
 
 * [Zielgruppenbestimmung von Profilen in einem Workflow](/help/getting-started/targeting-profiles-in-a-workflow.md)
-* [Erstellen eines Workflows für die Zielgruppenbestimmung](/help/automating-with-workflows/creating-a-targeting-workflow.md)
+* [Zielgruppen-Workflow erstellen](/help/automating-with-workflows/creating-a-targeting-workflow.md)
 * [Verfeinern von Zielgruppen durch Kombinieren von Abfrageergebnissen](/help/automating-with-workflows/refining-targets-by-combining-query-results.md)
 * [Verwenden der Aktivität „Liste aktualisieren“, um eine Liste mit einem Workflow zu erstellen](/help/automating-with-workflows/using-the-update-list-activity.md)
