@@ -13,11 +13,10 @@ role: Administrator
 level: Experienced
 original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/administrating/control-panel-acc/ip-whitelisting.html,https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/administrating/control-panel-acc/ip-allow-listing.html
 exl-id: 9c68543d-af10-4836-951f-7eef5a3515a8
-translation-type: tm+mt
-source-git-commit: 137d1e0c36d038f3fb8a4742bafef6fbac96f41d
+source-git-commit: 3757eaf573dab5139bad084b664475c6a7de4b02
 workflow-type: tm+mt
-source-wordcount: '221'
-ht-degree: 100%
+source-wordcount: '223'
+ht-degree: 96%
 
 ---
 
@@ -43,4 +42,4 @@ Erfahren Sie, wie Sie den Zulassungslisten von Campaign Classic-Instanzen einen 
 
 >[!VIDEO](https://video.tv.adobe.com/v/28726?quality=12)
 
-Weiterführende Informationen zum Setzen von IP-Adressen auf die Zulassungsliste finden Sie in der [ausführlichen Produktdokumentation](https://helpx.adobe.com/de/campaign/kb/control-panel-instance-settings.html).
+Weiterführende Informationen zum Setzen von IP-Adressen auf die Zulassungsliste finden Sie in der [ausführlichen Produktdokumentation](https://experienceleague.adobe.com/docs/control-panel/using/sftp-management/ip-range-allow-listing.html).
