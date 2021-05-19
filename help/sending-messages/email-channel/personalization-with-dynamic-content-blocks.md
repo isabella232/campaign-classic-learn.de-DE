@@ -10,7 +10,7 @@ team: TM
 role: Administrator, Developer
 level: Beginner
 exl-id: 0f49c286-ebb7-419d-98ab-89a8c0772636
-source-git-commit: 24d2e2e760200d7311a638506f394b78edd118a5
+source-git-commit: 3687dd91016602f595c606d21a4905ff28b91b1a
 workflow-type: tm+mt
 source-wordcount: '146'
 ht-degree: 45%
@@ -34,7 +34,7 @@ Erfahren Sie, wie dynamische Inhaltsblöcke erstellt wurden und wie Sie sie verw
 Dokumentation:
 
 * [Über Personalisierung](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/about-personalization.html)
-* ([Gestaltungsbausteine](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/personalization-blocks.html)
+* [Gestaltungsbausteine](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/personalization-blocks.html)
 
 Video-Tutorials:
 
