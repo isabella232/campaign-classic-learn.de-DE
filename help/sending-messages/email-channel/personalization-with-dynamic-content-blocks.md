@@ -1,7 +1,7 @@
 ---
 title: Personalisieren von E-Mails mit dynamischen Inhaltsbausteinen
-description: Erfahren Sie, wie Sie dynamische Inhaltsbausteine erstellen und diese zur Personalisierung des Inhalts Ihres E-Mail-Versands verwenden.
-feature: Dynamischer Inhalt
+description: Erfahren Sie, wie dynamische Inhaltsblöcke erstellt wurden und wie Sie sie verwenden, um den Inhalt Ihres E-Mail-Versands zu personalisieren.
+feature: Dynamische Inhalte
 kt: 1559
 thumbnail: 24924
 doc-type: feature video
@@ -10,21 +10,18 @@ team: TM
 role: Administrator, Developer
 level: Beginner
 exl-id: 0f49c286-ebb7-419d-98ab-89a8c0772636
-translation-type: tm+mt
-source-git-commit: 137d1e0c36d038f3fb8a4742bafef6fbac96f41d
+source-git-commit: 748455765298c639357c8b463f5da8e23bdb7800
 workflow-type: tm+mt
-source-wordcount: '149'
-ht-degree: 98%
+source-wordcount: '124'
+ht-degree: 71%
 
 ---
 
-# Personalisieren von E-Mails mit dynamischen Inhaltsbausteinen
+# Personalisieren von E-Mails mit Personalisierungsfeldern
 
-In Adobe Campaign können Sie Inhalte oder das Erscheinungsbild von Nachrichten personalisieren und mit Kriterien aus Empfängerprofilen kombinieren.
+Personalisierungsfelder dienen zur Personalisierung des Inhalts gesendeter Nachrichten auf erster Ebene. Die Felder, die Sie in einen Hauptinhalt einfügen, zeigen die Position an, an der die Daten aus einer ausgewählten Datenquelle eingefügt werden sollen.
 
-Ein Gestaltungsbaustein ist dynamisch und personalisiert und enthält spezifischen Rendering-Code, der Sendungen hinzugefügt werden kann. Sie können beispielsweise Bilder, E-Mail-Header, E-Mail-Footer, Links zu einer Mirrorseite, Abmelde-Links und vieles mehr hinzufügen.
-
-Erfahren Sie, wie Sie dynamische Inhaltsbausteine erstellen und diese zur Personalisierung des Inhalts Ihres E-Mail-Versands verwenden.
+Erfahren Sie, wie Sie der Betreffzeile und dem Inhalt eines E-Mail-Versands ein Personalisierungsfeld hinzufügen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/24924?quality=12)
 
@@ -32,8 +29,8 @@ Erfahren Sie, wie Sie dynamische Inhaltsbausteine erstellen und diese zur Person
 
 Dokumentation:
 
-* [Über Personalisierung](https://docs.adobe.com/content/help/de-DE/campaign-classic/using/sending-messages/personalizing-deliveries/about-personalization.html)
-* ([Gestaltungsbausteine](https://docs.adobe.com/content/help/de-DE/campaign-classic/using/sending-messages/personalizing-deliveries/personalization-blocks.html)
+* [Über Personalisierung](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/about-personalization.html)
+* ([Gestaltungsbausteine](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/personalization-blocks.html)
 
 Video-Tutorials:
 
