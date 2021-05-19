@@ -10,10 +10,10 @@ team: WWFRE
 role: Business Practitioner
 level: Beginner
 exl-id: 018e36bc-1afc-42c0-a459-4d51775ff6f8
-source-git-commit: 824d5a7dbfb422408fb031b50bf4cc12fa065a7d
+source-git-commit: 7030ab5bb0571579459410688f4ee3174696d5a1
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '65'
+ht-degree: 80%
 
 ---
 
@@ -25,4 +25,4 @@ Machen Sie sich mit dem Erstellen eines E-Mail-Versands vertraut und erfahren Si
 
 ## Zusätzliche Ressourcen
 
-* [Anwendungsfall: E-Mail-Versand erstellen](https://experienceleague.adobe.com/docs/campaign-classic/using/designing-content/editing-html-content/use-case--creating-an-email-delivery.html?lang=de#designing-content)
+* [Definieren des E-Mail-Inhalts (Dokumentation)](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/sending-emails/defining-the-email-content.html)
