@@ -8,18 +8,18 @@ doc-type: feature video
 activity: use
 team: TM
 exl-id: adf5eec1-9705-48f0-84a9-57a44bf79d0d
-source-git-commit: f67d802678bbfccd6419390bbc175f62c27121e3
+source-git-commit: cfe6c54e84e4c48e6c281c820d2ea09149f781bd
 workflow-type: tm+mt
 source-wordcount: '60'
-ht-degree: 100%
+ht-degree: 75%
 
 ---
 
-# Erstellen von Multi-Channel-Kampagnen
+# Erstellen von Cross-Channel-Kampagnen
 
 Bei einer Cross-Channel-Kampagne nutzt eine einzelne Marketing-Nachricht mehrere Kanäle, um eine breitere Zielgruppe auf Basis des bevorzugten Empfängerkanals zu erreichen.
 
-Erfahren Sie, wie Sie eine Kampagne mit mehreren Kanälen erstellen, indem Sie E-Mail-, SMS- und Briefpost-Versand verwenden.
+Erfahren Sie, wie Sie eine Kanal-Kampagne mit E-Mail-, SMS- und Direktmail-Versänden erstellen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/330990?quality=12)
 
