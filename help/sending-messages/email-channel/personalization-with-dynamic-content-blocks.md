@@ -10,18 +10,22 @@ team: TM
 role: Administrator, Developer
 level: Beginner
 exl-id: 0f49c286-ebb7-419d-98ab-89a8c0772636
-source-git-commit: 748455765298c639357c8b463f5da8e23bdb7800
+source-git-commit: b668dc4f6568be3d239c93fef50132acb26cb40c
 workflow-type: tm+mt
-source-wordcount: '124'
-ht-degree: 71%
+source-wordcount: '147'
+ht-degree: 51%
 
 ---
 
-# Personalisieren von E-Mails mit Personalisierungsfeldern
 
-Personalisierungsfelder dienen zur Personalisierung des Inhalts gesendeter Nachrichten auf erster Ebene. Die Felder, die Sie in einen Hauptinhalt einfügen, zeigen die Position an, an der die Daten aus einer ausgewählten Datenquelle eingefügt werden sollen.
+# Personalisieren von E-Mails mit dynamischen Inhaltsbausteinen
 
-Erfahren Sie, wie Sie der Betreffzeile und dem Inhalt eines E-Mail-Versands ein Personalisierungsfeld hinzufügen.
+In Adobe Campaign können Sie Inhalte oder das Erscheinungsbild von Nachrichten personalisieren und mit Kriterien aus Empfängerprofilen kombinieren.
+
+Ein Personalisierungsblock ist dynamisch, personalisiert und enthält spezifischen Rendercode, der Versänden hinzugefügt werden kann. Sie können beispielsweise Bilder, E-Mail-Header, E-Mail-Footer, Links zu einer Mirrorseite, Abmelde-Links und vieles mehr hinzufügen.
+
+Erfahren Sie, wie dynamische Inhaltsblöcke erstellt wurden und wie Sie sie verwenden, um den Inhalt Ihres E-Mail-Versands zu personalisieren.
+
 
 >[!VIDEO](https://video.tv.adobe.com/v/24924?quality=12)
 
