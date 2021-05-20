@@ -10,9 +10,8 @@ team: WWFRE
 role: Business Practitioner
 level: Beginner
 exl-id: c078146c-f59c-4de6-90de-4f5c6e31c096
-translation-type: tm+mt
 source-git-commit: 137d1e0c36d038f3fb8a4742bafef6fbac96f41d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '132'
 ht-degree: 100%
 
@@ -26,7 +25,7 @@ Machen Sie sich mit der Verwendung von Kampagnen-Workflows vertraut und erfahren
 
 ## Nächste verfügbare Tutorials
 
-* [Verfeinern von Zielen durch Kombinieren von Abfrageergebnissen](/help/automating-with-workflows/refining-targets-by-combining-query-results.md)
+* [Verfeinern von Zielgruppen durch Kombinieren von Abfrageergebnissen](/help/automating-with-workflows/refining-targets-by-combining-query-results.md)
 * [Verfeinern von Zielgruppen durch Ausschließen von Abfrageergebnissen](/help/automating-with-workflows/refining-targets-by-excluding-query-results.md)
 * [Verwenden der Aktivität „Liste aktualisieren“, um eine Liste mit einem Workflow zu erstellen](/help/automating-with-workflows/using-the-update-list-activity.md)
 
@@ -41,4 +40,4 @@ Dokumentation:
 Tutorials:
 
 * [Erstellen und Verwalten von Profilen](/help/profile-management/create-and-manage-profiles.md)
-* [Profilimport](/help/data-management/importing-profiles.md)   
+* [Profilimport](/help/data-management/importing-profiles.md)
