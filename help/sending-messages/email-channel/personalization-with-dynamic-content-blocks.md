@@ -1,6 +1,6 @@
 ---
 title: Personalisieren von E-Mails mit dynamischen Inhaltsbausteinen
-description: Erfahren Sie, wie dynamische Inhaltsblöcke erstellt wurden und wie Sie sie verwenden, um den Inhalt Ihres E-Mail-Versands zu personalisieren.
+description: Erfahren Sie, wie Sie dynamische Inhaltsbausteine erstellen und diese zur Personalisierung von Content für Ihren E-Mail-Versand verwenden.
 feature: Dynamische Inhalte
 kt: 1559
 thumbnail: 24924
@@ -11,9 +11,9 @@ role: Administrator, Developer
 level: Beginner
 exl-id: 0f49c286-ebb7-419d-98ab-89a8c0772636
 source-git-commit: 3687dd91016602f595c606d21a4905ff28b91b1a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '146'
-ht-degree: 45%
+ht-degree: 100%
 
 ---
 
@@ -22,9 +22,9 @@ ht-degree: 45%
 
 In Adobe Campaign können Sie Inhalte oder das Erscheinungsbild von Nachrichten personalisieren und mit Kriterien aus Empfängerprofilen kombinieren.
 
-Ein Personalisierungsblock ist dynamisch, personalisiert und enthält spezifischen Rendercode, der Versänden hinzugefügt werden kann. Sie können beispielsweise Bilder, E-Mail-Header, E-Mail-Footer, Links zu einer Mirrorseite, Abmelde-Links und vieles mehr hinzufügen.
+Ein Gestaltungsbaustein ist dynamisch und personalisiert und enthält spezifischen Rendering-Code, der Sendungen hinzugefügt werden kann. Sie können beispielsweise Bilder, E-Mail-Header, E-Mail-Footer, Links zu einer Mirror-Seite, Abmelde-Links und vieles mehr hinzufügen.
 
-Erfahren Sie, wie dynamische Inhaltsblöcke erstellt wurden und wie Sie sie verwenden, um den Inhalt Ihres E-Mail-Versands zu personalisieren.
+Erfahren Sie, wie Sie dynamische Inhaltsbausteine erstellen und diese zur Personalisierung von Content für Ihren E-Mail-Versand verwenden.
 
 
 >[!VIDEO](https://video.tv.adobe.com/v/24924?quality=12)
@@ -33,10 +33,10 @@ Erfahren Sie, wie dynamische Inhaltsblöcke erstellt wurden und wie Sie sie verw
 
 Dokumentation:
 
-* [Über Personalisierung](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/about-personalization.html)
-* [Gestaltungsbausteine](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/personalization-blocks.html)
+* [Über Personalisierung](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/about-personalization.html?lang=de)
+* [Gestaltungsbausteine](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/personalization-blocks.html?lang=de)
 
 Video-Tutorials:
 
 * [Personalisieren von E-Mails mit Personalisierungsfeldern](/help/sending-messages/email-channel/personalizing-emails-using-personalization-fields.md)
-* [Personalisieren von E-Mails - Erstellen eines mehrsprachigen Newsletters mit bedingtem Inhalt](/help/sending-messages/email-channel/personalizing-emails-create-a-multi-lingual-newsletter-using-conditional-content.md)
+* [Personalisieren von E-Mails – Erstellen eines mehrsprachigen Newsletters mit bedingtem Inhalt](/help/sending-messages/email-channel/personalizing-emails-create-a-multi-lingual-newsletter-using-conditional-content.md)
