@@ -11,9 +11,9 @@ role: Business Practitioner
 level: Beginner
 exl-id: c078146c-f59c-4de6-90de-4f5c6e31c096
 source-git-commit: 86b546688c3b96505bfca758eca5af9ed65d22e7
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '128'
-ht-degree: 78%
+ht-degree: 100%
 
 ---
 
@@ -33,9 +33,9 @@ Machen Sie sich mit der Verwendung von Kampagnen-Workflows vertraut und erfahren
 
 Dokumentation:
 
-* [Über Workflows](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/introduction/about-workflows.html?lang=en)
-* [Workflow erstellen ](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/getting-started/creating-a-workflow.html)
-* [Über Zielgruppenbestimmungsaktivitäten](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/about-targeting-activities.html)
+* [Informationen zu Workflows](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/introduction/about-workflows.html?lang=de)
+* [Workflow erstellen ](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/getting-started/creating-a-workflow.html?lang=de)
+* [Über Zielgruppenbestimmungsaktivitäten](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/about-targeting-activities.html?lang=de)
 
 Tutorials:
 
