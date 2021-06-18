@@ -12,9 +12,9 @@ level: Experienced
 original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/administrating/control-panel-acc/google-txt-record-management.html
 exl-id: 0a39dfe3-8f89-406e-b7b2-d8a3a5eabfca
 source-git-commit: 3757eaf573dab5139bad084b664475c6a7de4b02
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '130'
-ht-degree: 91%
+ht-degree: 100%
 
 ---
 
@@ -28,4 +28,4 @@ Im folgenden Video erfahren Sie, wie Sie [!UICONTROL Google TXT]-Website-Überpr
 
 ## Zusätzliche Ressourcen
 
-* [Verwalten von TXT-Datensätzen (Dokumentation)](https://experienceleague.adobe.com/docs/control-panel/using/subdomains-and-certificates/managing-txt-records.html)
+* [Verwalten von TXT-Einträgen (Dokumentation)](https://experienceleague.adobe.com/docs/control-panel/using/subdomains-and-certificates/managing-txt-records.html?lang=de)
