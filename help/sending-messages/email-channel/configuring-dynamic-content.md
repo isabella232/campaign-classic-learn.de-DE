@@ -11,7 +11,7 @@ role: Business Practitioner
 level: Beginner
 exl-id: a649e71c-1866-4596-88cf-0ede861c8845
 source-git-commit: 21f91848ff9df215b733dc7a45b274668aee59b1
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '81'
 ht-degree: 100%
 
