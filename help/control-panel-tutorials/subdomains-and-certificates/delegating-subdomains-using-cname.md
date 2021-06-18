@@ -11,9 +11,9 @@ role: Administrator
 level: Experienced
 exl-id: 5845478e-8e2e-42dd-b8b1-a85687355f3f
 source-git-commit: 3757eaf573dab5139bad084b664475c6a7de4b02
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '95'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 
@@ -32,5 +32,5 @@ Erfahren Sie, wie Sie eine Subdomain mit CNAME im Control Panel einrichten und s
 ## Zusätzliche Ressourcen
 
 * [Vollständige Subdomain-Zuweisung (Video)](./subdomain-delegation.md)
-* [Einrichten einer neuen Subdomain (Dokumentation)](https://experienceleague.adobe.com/docs/control-panel/using/subdomains-and-certificates/setting-up-new-subdomain.html)
+* [Einrichten einer neuen Subdomain (Dokumentation)](https://experienceleague.adobe.com/docs/control-panel/using/subdomains-and-certificates/setting-up-new-subdomain.html?lang=de)
 
