@@ -7,15 +7,15 @@ role: Business Practitioner, Administrator, Developer
 level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
 source-git-commit: 3757eaf573dab5139bad084b664475c6a7de4b02
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '254'
-ht-degree: 90%
+ht-degree: 100%
 
 ---
 
-# Adobe Campaign Classic V7 Tutorials - Übersicht
+# Adobe Campaign Classic V7 Tutorials – Überblick
 
-Adobe Campaign bietet eine Plattform für die Konzeption kanalübergreifender Kundenerlebnisse, auf der über eine visuell-gestützte Umgebung Kampagnen orchestriert, Interaktionen in Echtzeit verwaltet und Kampagnen kanalübergreifend ausgeführt werden können. Dieses Benutzerhandbuch enthält Videos und Tutorials zu den zahlreichen Funktionen und Funktionen von Adobe Campaign Classic V7.
+Adobe Campaign bietet eine Plattform zur Konzeption kanalübergreifender Kundenerlebnisse und stellt dazu eine Umgebung für die Orchestrierung visueller Kampagnen, die Verwaltung von Echtzeit-Interaktionen und die kanalübergreifende Umsetzung bereit. Dieses Benutzerhandbuch enthält Videos und Tutorials zu den verschiedenen Funktionen und Leistungsmerkmalen von Adobe Campaign Classic V7.
 
 ## Neue Funktionen
 
