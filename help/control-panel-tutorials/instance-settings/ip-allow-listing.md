@@ -14,9 +14,9 @@ level: Experienced
 original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/administrating/control-panel-acc/ip-whitelisting.html,https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/administrating/control-panel-acc/ip-allow-listing.html
 exl-id: 9c68543d-af10-4836-951f-7eef5a3515a8
 source-git-commit: 3757eaf573dab5139bad084b664475c6a7de4b02
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '223'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -33,6 +33,7 @@ Um auf die Verwaltung von Subdomains im Control Panel zuzugreifen, navigieren Si
 
 * [Startseite von Experience Cloud](https://experience.adobe.com/#/home) > Lösungsauswahl: **[!DNL Campaign]** > **[!UICONTROL Control Panel]**-Karte > **Einstellungen der Instanzen**-Karte
 
+
 oder
 * Direkt über die URL: [https://experience.adobe.com/#/controlpanel/instances](https://experience.adobe.com/#/controlpanel/instances)
 
@@ -42,4 +43,4 @@ Erfahren Sie, wie Sie den Zulassungslisten von Campaign Classic-Instanzen einen 
 
 >[!VIDEO](https://video.tv.adobe.com/v/28726?quality=12)
 
-Weiterführende Informationen zum Setzen von IP-Adressen auf die Zulassungsliste finden Sie in der [ausführlichen Produktdokumentation](https://experienceleague.adobe.com/docs/control-panel/using/sftp-management/ip-range-allow-listing.html).
+Weiterführende Informationen zum Setzen von IP-Adressen auf die Zulassungsliste finden Sie in der [ausführlichen Produktdokumentation](https://experienceleague.adobe.com/docs/control-panel/using/sftp-management/ip-range-allow-listing.html?lang=de).
