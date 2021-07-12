@@ -1,27 +1,26 @@
 ---
-title: Verwalten der Marketingermüdung anhand von Druckregeln
-description: Erfahren Sie, wie Sie mithilfe von Filtern Ermüdungsmanagement in Adobe Campaign Classic implementieren.
+title: Verwalten der Marketing-Ermüdung anhand von Druckregeln
+description: Erfahren Sie, wie Sie die Ermüdungsverwaltung in Adobe Campaign Classic mithilfe von Filtern implementieren.
 feature: Ermüdungsverwaltung
 kt: 2148
 doc-type: feature video
 activity: use
 team: TM
-role: Business Practitioner, Developer, Administrator
+role: User, Developer, Admin
 level: Experienced
 exl-id: c6fcdaa9-75ae-4975-9463-ca32a2ae849a
-translation-type: tm+mt
-source-git-commit: 137d1e0c36d038f3fb8a4742bafef6fbac96f41d
+source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
 workflow-type: tm+mt
 source-wordcount: '103'
 ht-degree: 25%
 
 ---
 
-# Einrichten des Ermüdungsmanagements mit vordefinierten Filtern
+# Einrichten der Ermüdungsverwaltung mithilfe vordefinierter Filter
 
-Die Ermüdungsverwaltung steuert die Häufigkeit und Anzahl von Nachrichten, um eine Überforderung von Empfängern zu vermeiden. Wenn das Kampagne-Optimierungsmodul nicht in Ihrer Kampagne vorhanden ist, können Sie einen vordefinierten Filter konfigurieren, der die Population der Zielgruppe nach der Anzahl der empfangenen Nachrichten filtert.
+Die Ermüdungsverwaltung steuert die Häufigkeit und Anzahl von Nachrichten, um eine Überforderung von Empfängern zu vermeiden. Wenn das Modul zur Kampagnenoptimierung nicht in Ihrer Kampagneninstanz vorhanden ist, können Sie einen vordefinierten Filter konfigurieren, der die Zielpopulation nach der Anzahl der empfangenen Nachrichten filtert.
 
-In diesem Video wird erläutert, wie Sie das Ermüdungsmanagement in Adobe Campaign Classic mithilfe von Filtern implementieren.
+In diesem Video wird erläutert, wie Sie die Ermüdungsverwaltung in Adobe Campaign Classic mithilfe von Filtern implementieren.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25091?quality=12)
 
