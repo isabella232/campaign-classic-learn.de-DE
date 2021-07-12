@@ -1,26 +1,26 @@
 ---
-title: Zielgruppen-Workflow erstellen
-description: Erfahren Sie, wie Sie mehrere Versand-Zielgruppen mithilfe eines Targeting-Workflows definieren.
-feature: Workflows, Targeting-Aktivität, Abfrage-Editor
+title: Erstellen eines Zielgruppenbestimmungs-Workflows
+description: Hier erfahren Sie, wie Sie mithilfe von Zielgruppenbestimmungs-Workflows mehrere Versandziele definieren.
+feature: Workflows, Zielgruppenbestimmungsaktivität, Abfrage-Tool
 kt: 2174
 doc-type: feature video
 activity: use
 team: DOC
-role: Business Practitioner
+role: User
 level: Beginner
 exl-id: d54f5cdf-e026-41cb-b5a6-83344bb95125
-source-git-commit: 3757eaf573dab5139bad084b664475c6a7de4b02
+source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
 workflow-type: tm+mt
 source-wordcount: '87'
-ht-degree: 9%
+ht-degree: 65%
 
 ---
 
-# Zielgruppen-Workflow erstellen
+# Erstellen eines Zielgruppenbestimmungs-Workflows
 
-Adobe Campaign verwendet Workflows, um Targeting-Kampagnen durchzuführen, Kampagnen zu erstellen oder Adobe Campaign-technische Prozesse auszuführen. In diesem Video konzentrieren wir uns auf Workflows. Mit Targeting Workflows können Sie mehrere Versand-Zielgruppen erstellen.
+Adobe Campaign verwendet Workflows, um Zielgruppenbestimmungskampagnen durchzuführen, Kampagnen zu erstellen oder technische Adobe Campaign-Prozesse auszuführen. In diesem Video konzentrieren wir uns auf Zielgruppen-Workflows. Mit Zielgruppen-Workflows können Sie mehrere Versandziele erstellen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25605?quality=12)
 
-Informationen zu Workflows](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/introduction/about-workflows.html) finden Sie in der Dokumentation [
-und [Informationen zum Targeting von Aktivitäten](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/about-targeting-activities.html) für weitere Informationen.
+Weitere Informationen finden Sie in der Dokumentation [über Workflows](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/introduction/about-workflows.html?lang=de)
+und [Informationen zu Zielgruppenbestimmungsaktivitäten](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/about-targeting-activities.html?lang=de) für weitere Informationen.
