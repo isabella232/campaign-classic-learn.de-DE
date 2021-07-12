@@ -1,28 +1,28 @@
 ---
-title: Einrichten wiederkehrender und kontinuierlicher E-Mail-Kampagnen
-description: Erfahren Sie, wie Sie einen wiederkehrenden und einen fortlaufenden Versand einrichten und die Unterschiede zwischen den beiden Ansätzen verstehen.
+title: Einrichten wiederkehrender und fortlaufender E-Mail-Kampagnen
+description: Erfahren Sie, wie Sie einen wiederkehrenden und einen fortlaufenden Versand einrichten und wie sich die beiden Ansätze unterscheiden.
 feature: Workflows
 kt: 1560
 doc-type: feature video
 activity: use
 team: TM
-role: Business Practitioner
+role: User
 level: Beginner
 exl-id: 42f2a7e6-7d88-473b-b913-fe09b7016b28
-source-git-commit: 5fb898eca821c5078393003c41032801f8454fd5
+source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
 workflow-type: tm+mt
 source-wordcount: '268'
-ht-degree: 67%
+ht-degree: 95%
 
 ---
 
-# Einrichten wiederkehrender und kontinuierlicher E-Mail-Kampagnen
+# Einrichten wiederkehrender und fortlaufender E-Mail-Kampagnen
 
-In diesem Tutorial erfahren Sie, wie Sie einen wiederkehrenden und einen fortlaufenden Versand einrichten und die Unterschiede zwischen den beiden Ansätzen erläutern.
+In diesem Tutorial erfahren Sie, wie Sie einen wiederkehrenden und einen fortlaufenden Versand einrichten und wie sich die beiden Ansätze unterscheiden.
 
-## Tracking des wiederkehrenden und kontinuierlichen Versands {#recurring-and-continuous-delivery-tracking}
+## Tracking des wiederkehrenden und des fortlaufenden Versands {#recurring-and-continuous-delivery-tracking}
 
-Der wiederkehrende und kontinuierliche Versand unterscheidet sich bei der Verwaltung der Kontaktdaten:
+Der wiederkehrende und der fortlaufende Versand unterscheiden sich bezüglich der Verwaltung von Kontaktdaten:
 
 * Beim **fortlaufenden Versand** können Sie einem bestehenden Versand neue Empfänger hinzufügen, sodass Sie nicht jedes Mal einen neuen Versand erstellen müssen, wenn ein neuer Empfänger hinzugefügt wird. Sie können die kreativen Inhalte direkt im Kampagnen-Workflow aktualisieren, wodurch die Vorlage im Ressourcen-Ordner für Versandvorlagen aktualisiert wird.
 
@@ -40,9 +40,9 @@ In diesem Video wird das Konfigurieren eines wiederkehrenden Versands und einer 
 
 >[!VIDEO](https://video.tv.adobe.com/v/25040?quality=12)
 
-## Einrichten eines Versands (fortlaufend){#how-to-set-up-a-continuous-delivery}
+## Einrichten eines Versands (fortlaufend) {#how-to-set-up-a-continuous-delivery}
 
-In diesem Video wird gezeigt, wie man einen fortlaufenden Versand mit einer inkrementellen Abfrage konfiguriert.
+In diesem Video wird gezeigt, wie Sie einen fortlaufenden Versand mit einer inkrementellen Abfrage konfigurieren.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25039?quality=12)
 
