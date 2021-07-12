@@ -3,12 +3,12 @@ title: Verwaltung von GPG-Schlüsseln – Übersicht
 description: In den folgenden Videos erfahren Sie, wie Sie zur Verschlüsselung ausgehender Daten ein Schlüsselpaar aus öffentlichem/privatem Schlüssel generieren und in einer angegebenen Campaign-Instanz installieren sowie zur Entschlüsselung eingehender Daten einen öffentlichen Schlüssel importieren und in einer Campaign-Instanz installieren.
 feature: Control Panel
 team: TM
-role: Administrator
+role: Admin
 level: Experienced
 original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/administrating/control-panel-acc/gpg-key-management/gpg-key-management-overview.html
 exl-id: 1a3e8320-f992-428a-8dc8-ba5429042751
-source-git-commit: 3757eaf573dab5139bad084b664475c6a7de4b02
-workflow-type: ht
+source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
+workflow-type: tm+mt
 source-wordcount: '161'
 ht-degree: 100%
 
