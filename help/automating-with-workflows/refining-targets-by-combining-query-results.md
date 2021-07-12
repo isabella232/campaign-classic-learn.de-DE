@@ -1,25 +1,25 @@
 ---
 title: Verfeinern von Zielgruppen durch Kombinieren von Abfrageergebnissen
-description: Erfahren Sie, wie Sie Ihre Zielgruppe verfeinern können, indem Sie Abfragen in einem Workflow kombinieren, der die Schnittmenge oder die Aktivitäten der Vereinigung verwendet.
-feature: Workflows, Targeting-Aktivität, Abfrage-Editor
+description: Erfahren Sie, wie Sie Ihre Zielgruppe einschränken können, indem Sie Abfrageergebnisse in einem Workflow kombinieren, indem Sie die Schnitt- oder Vereinigungsaktivität verwenden.
+feature: Workflows, Zielgruppenbestimmungsaktivität, Abfrage-Tool
 kt: 5547
 thumbnail: 36832.jpg
 doc-type: feature video
 activity: use
 team: WWFRE
-role: Business Practitioner
+role: User
 level: Beginner
 exl-id: 3bd6a4cf-95ae-4f4a-b53a-ac04a29843f7
-source-git-commit: 3757eaf573dab5139bad084b664475c6a7de4b02
+source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
 workflow-type: tm+mt
 source-wordcount: '112'
-ht-degree: 36%
+ht-degree: 85%
 
 ---
 
 # Verfeinern von Zielgruppen durch Kombinieren von Abfrageergebnissen
 
-Erfahren Sie, wie Sie Ihre Zielgruppe verfeinern können, indem Sie Abfragen mit den Aktivitäten **[!UICONTROL Schnittmenge]** oder **[!UICONTROL Vereinigung]** kombinieren.
+Erfahren Sie, wie Sie Ihre Zielgruppe einschränken können, indem Sie Abfrageergebnisse in einem Workflow kombinieren, indem Sie die Aktivität **[!UICONTROL Schnitt]** oder **[!UICONTROL Vereinigung]** verwenden.
 
 >[!VIDEO](https://video.tv.adobe.com/v/36832?quality=12)
 
@@ -27,7 +27,7 @@ Erfahren Sie, wie Sie Ihre Zielgruppe verfeinern können, indem Sie Abfragen mit
 
 Dokumentation:
 
-* [Info zu Workflows](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/introduction/about-workflows.html)
+* [Informationen zu Workflows](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/introduction/about-workflows.html?lang=de)
 * [Schnittmenge](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/intersection.html)
 * [Vereinigung](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/union.html)
 
