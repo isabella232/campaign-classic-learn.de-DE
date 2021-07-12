@@ -1,24 +1,24 @@
 ---
 title: Erstellen von Briefpostsendungen
-description: Erfahren Sie, wie Sie einen Direct Mail-Versand erstellen, formatieren und ausführen.
+description: Erfahren Sie, wie Sie einen Briefpost-Versand erstellen, formatieren und ausführen.
 feature: Briefpost
 kt: 3859
 thumbnail: 21377.jpg
 doc-type: feature video
 activity: set-up
 team: WWFRE
-role: Business Practitioner
+role: User
 level: Beginner
 exl-id: 82119bde-daf1-4233-96dc-d6ce235e0934
-source-git-commit: 56fd646d98196346315d8e48216fe316a4db24eb
+source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
 workflow-type: tm+mt
 source-wordcount: '41'
-ht-degree: 24%
+ht-degree: 100%
 
 ---
 
 # Erstellen von Briefpostsendungen
 
-Verstehen Sie, wie [!UICONTROL direct mail] in [!UICONTROL Adobe Campaign] funktioniert, und lernen Sie, wie Sie einen [!UICONTROL Direct Mail ]Versand erstellen, formatieren und ausführen.
+Erfahren Sie, wie [!UICONTROL Briefpost] in [!UICONTROL Adobe Campaign] funktioniert und wie Sie einen [!UICONTROL Briefpost-Versand] erstellen, formatieren und ausführen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/21377?quality=12)
