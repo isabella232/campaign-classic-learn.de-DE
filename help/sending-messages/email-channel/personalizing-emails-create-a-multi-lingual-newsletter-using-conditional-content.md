@@ -10,10 +10,10 @@ team: TM
 role: User
 level: Beginner
 exl-id: 080f5229-9eae-45b6-b0e0-13b4721ad79c
-source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
+source-git-commit: 8910430585bdaa0db076db9c34b34798f649d39c
 workflow-type: tm+mt
-source-wordcount: '118'
-ht-degree: 100%
+source-wordcount: '116'
+ht-degree: 82%
 
 ---
 
@@ -29,8 +29,8 @@ Erfahren Sie, wie Sie einem Versand bedingte Inhalte hinzufügen können, beispi
 
 Dokumentation:
 
-* [Über Personalisierung](https://docs.adobe.com/content/help/de-DE/campaign-classic/using/sending-messages/personalizing-deliveries/about-personalization.html)
-* [Bedingter Inhalt](https://docs.adobe.com/content/help/de-DE/campaign-classic/using/sending-messages/personalizing-deliveries/conditional-content.html)
+* [Über Personalisierung](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/about-personalization.html?lang=en)
+* [Bedingter Inhalt](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/conditional-content.html?lang=en)
 
 Video-Tutorials:
 
