@@ -1,16 +1,15 @@
 ---
 title: Personalisieren von E-Mails mit dynamischen Inhaltsbausteinen
-description: In diesem Tutorial erfahren Sie, wie Sie Versandinhalte personalisieren, JavaScript-Code in Versandvorlagen verwenden sowie Inhaltsbausteine in verschiedenen Versandvorlagen standardisieren und freigeben können.
-feature: Dynamischer Inhalt
+description: In diesem Tutorial erfahren Sie, wie Sie Versandinhalte personalisieren, JavaScript-Code in Versandvorlagen verwenden und Inhaltsbausteine in verschiedenen Versandvorlagen standardisieren und freigeben können.
+feature: Dynamische Inhalte
 kt: 1559
 doc-type: feature video
 activity: use
 team: TM
-translation-type: tm+mt
-source-git-commit: 137d1e0c36d038f3fb8a4742bafef6fbac96f41d
+source-git-commit: 8910430585bdaa0db076db9c34b34798f649d39c
 workflow-type: tm+mt
-source-wordcount: '253'
-ht-degree: 99%
+source-wordcount: '254'
+ht-degree: 70%
 
 ---
 
@@ -24,11 +23,11 @@ In Adobe Campaign können Sie Inhalte oder das Erscheinungsbild von Nachrichten 
 3- Dynamische Personalisierungsfelder einfügen\
 4- Bedingte Inhalte erstellen
 
-In diesem Tutorial erfahren Sie, wie Sie Versandinhalte personalisieren, JavaScript-Code in Versandvorlagen verwenden sowie Inhaltsbausteine in verschiedenen Versandvorlagen standardisieren und freigeben können.
+In diesem Tutorial erfahren Sie, wie Sie Versandinhalte personalisieren, JavaScript-Code in Versandvorlagen verwenden und Inhaltsbausteine in verschiedenen Versandvorlagen standardisieren und freigeben können.
 
 ## Gestaltungsbaustein erstellen und zu einem Versand hinzufügen
 
-Ein Gestaltungsbaustein ist dynamisch und personalisiert und enthält spezifischen Rendering-Code, der Sendungen hinzugefügt werden kann. Sie können beispielsweise Bilder, E-Mail-Header, E-Mail-Footer, Links zu einer Mirrorseite, Abmelde-Links und vieles mehr hinzufügen.
+Ein Gestaltungsbaustein ist dynamisch und enthält spezifischen Rendercode, der Sendungen hinzugefügt werden kann. Sie können beispielsweise Bilder, E-Mail-Header, E-Mail-Footer, Links zu einer Mirrorseite, Abmelde-Links und vieles mehr hinzufügen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/24924?quality=12)
 
@@ -46,4 +45,4 @@ Die Konfiguration bedingter Inhalte erlaubt einen weitreichenden Personalisierun
 
 ## Zusätzliche Ressourcen
 
-* [Über Personalisierung](https://docs.adobe.com/content/help/de-DE/campaign-classic/using/sending-messages/personalizing-deliveries/about-personalization.html)
+* [Über Personalisierung](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/about-personalization.html?lang=en)
