@@ -1,5 +1,5 @@
 ---
-title: Erstellen einer Empfängerliste mit einem Workflow
+title: Erstellen einer Liste von Empfängern mit einem Workflow
 description: Erfahren Sie mehr über das Erstellen einer Audience durch Konfigurieren einer Empfängerliste aus dem Explorer.
 feature: Audiences
 kt: 2173
@@ -10,10 +10,10 @@ team: DOC
 role: User
 level: Beginner
 exl-id: 101e32c1-6a70-49a6-b987-6aa55de3e72a
-source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
+source-git-commit: 8910430585bdaa0db076db9c34b34798f649d39c
 workflow-type: tm+mt
 source-wordcount: '85'
-ht-degree: 96%
+ht-degree: 88%
 
 ---
 
@@ -27,7 +27,7 @@ Erfahren Sie, wie Sie einen Workflow erstellen, um Empfänger als Zielkontakte a
 
 Dokumentation:
 
-* [Listen erstellen und verwalten](https://docs.adobe.com/content/help/de-DE/campaign-classic/using/getting-started/profile-management/creating-and-managing-lists.html)
+* [Listen erstellen und verwalten](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/profile-management/creating-and-managing-lists.html?lang=en)
 
 Tutorials:
 
