@@ -10,10 +10,10 @@ team: WWFRE
 role: User
 level: Beginner
 exl-id: a649e71c-1866-4596-88cf-0ede861c8845
-source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
+source-git-commit: 8910430585bdaa0db076db9c34b34798f649d39c
 workflow-type: tm+mt
 source-wordcount: '81'
-ht-degree: 100%
+ht-degree: 87%
 
 ---
 
@@ -27,7 +27,7 @@ Machen Sie sich mit den verschiedenen Arten von dynamischem Content vertraut und
 
 Produktdokumentation:
 
-* [Bedingte Inhalte](https://docs.adobe.com/content/help/de-DE/campaign-classic/using/sending-messages/personalizing-deliveries/conditional-content.html)
+* [Bedingte Inhalte](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/conditional-content.html?lang=en)
 
 Video-Tutorials:
 
