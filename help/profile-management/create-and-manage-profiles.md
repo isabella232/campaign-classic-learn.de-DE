@@ -1,6 +1,6 @@
 ---
 title: Erstellen und Verwalten von Profilen
-description: Erfahren Sie, wie Sie auf Profildaten zugreifen, Profile sortieren und filtern und Profile manuell erstellen und verwalten können. Machen Sie sich mit den Anforderungen zur Einhaltung der Datenschutz-Grundverordnung (DSGVO) und des California Consumer Privacy Act (CCPA) vertraut.
+description: Erfahren Sie, wie Sie auf Profildaten zugreifen, Profile sortieren und filtern sowie Profile manuell erstellen und verwalten können. Machen Sie sich mit den Anforderungen zur Einhaltung der Datenschutz-Grundverordnung (DSGVO) und des California Consumer Privacy Act (CCPA) vertraut.
 landing-page-description: Erläuterung des Konzepts von Profilen. Erfahren Sie, wie Sie auf Profildaten zugreifen, Profile sortieren und filtern und Profile manuell erstellen und verwalten können. Erfahren Sie mehr über die DSGVO und CCPA.
 feature: Profile
 kt: 5081
@@ -11,10 +11,10 @@ team: WWFRE
 role: User
 level: Beginner
 exl-id: f5694e76-4694-45f3-b4c1-3478f7543b3f
-source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
+source-git-commit: 8910430585bdaa0db076db9c34b34798f649d39c
 workflow-type: tm+mt
 source-wordcount: '152'
-ht-degree: 86%
+ht-degree: 76%
 
 ---
 
@@ -30,6 +30,6 @@ In diesem Video wird auch die Einhaltung der Datenschutz-Grundverordnung (DSGVO)
 
 **Dokumentation:**
 
-* [Über Profile](https://docs.adobe.com/content/help/de-DE/campaign-classic/using/getting-started/profile-management/about-profiles.html)
-* [Profile bearbeiten](https://docs.adobe.com/content/help/en/campaign-classic/using/getting-started/profile-management/editing-a-profile.html)
-* [Profile verwalten](https://docs.adobe.com/content/help/en/campaign-classic/using/getting-started/profile-management/adding-profiles.html)
+* [Über Profile](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/profile-management/about-profiles.html?lang=en)
+* [Profile bearbeiten](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/profile-management/editing-a-profile.html?lang=en)
+* [Profile verwalten](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/profile-management/adding-profiles.html?lang=en)
