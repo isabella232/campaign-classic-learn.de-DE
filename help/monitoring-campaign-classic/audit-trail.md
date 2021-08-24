@@ -9,16 +9,16 @@ team: PM
 role: Admin
 level: Beginner
 exl-id: 66ce7a21-f0ca-47a5-80f7-ee8596fac7a7
-source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
+source-git-commit: 8910430585bdaa0db076db9c34b34798f649d39c
 workflow-type: tm+mt
 source-wordcount: '169'
-ht-degree: 100%
+ht-degree: 50%
 
 ---
 
 # Verwenden des Audit-Protokolls
 
-Das [!UICONTROL Audit-Protokoll] erfasst in Echtzeit eine umfassende Liste von Aktionen und Ereignissen, die in Adobe Campaign auftreten. Die Funktionen des [!UICONTROL Audit-Protokolls] beinhalten eine Self-Service-Option für den Zugriff auf einen Datenverlauf, damit sich zum Beispiel folgende Fragen beantworten lassen:
+[!UICONTROL Audit-] Eigenschaften erfassen in Echtzeit eine umfassende Liste von Aktionen und Ereignissen, die in Adobe Campaign auftreten. Die Funktionen des [!UICONTROL Audit-Protokolls] enthalten eine Self-Service-Möglichkeit für den Zugriff auf einen Datenverlauf, um Ihnen bei der Beantwortung von Fragen zu helfen, z. B.:
 
 * Was ist mit einem Objekt geschehen?
 * Wer hat es zuletzt geändert und wann?
@@ -28,7 +28,7 @@ Das [!UICONTROL Audit-Protokoll] erfasst in Echtzeit eine umfassende Liste von A
 >
 >Audit-Protokolle erfordern Campaign Classic Version 19.1 oder höher.
 
-Das [!UICONTROL Audit-Protokoll] protokolliert und listet Operatoraktionen wie Erstellen, Ändern und Löschen von Workflows, Optionen und Quellschemata auf. Außerdem werden folgende Aktionen speziell für Workflows protokolliert:
+Das [!UICONTROL Audit-Protokoll] protokolliert und listet Operatoraktionen wie Erstellen, Ändern und Löschen von Workflows, Optionen und Quellschemata auf. Darüber hinaus werden die folgenden Aktionen speziell für Workflows protokolliert:
 
 * Starten
 * Aussetzen
@@ -43,4 +43,4 @@ Im folgenden Video erfahren Sie, wo Sie auf die Audit-Protokolle zugreifen könn
 
 >[!VIDEO](https://video.tv.adobe.com/v/27425?quality=12)
 
-Weitere Informationen finden Sie in der [Dokumentation zum Audit-Protokoll](https://docs.adobe.com/content/help/de-DE/campaign-classic/using/monitoring-campaign-classic/production-procedures/audit-trail.html).
+Weitere Informationen finden Sie in der [Dokumentation zum Audit-Protokoll](https://experienceleague.adobe.com/docs/campaign-classic/using/monitoring-campaign-classic/production-procedures/audit-trail.html?lang=de).
