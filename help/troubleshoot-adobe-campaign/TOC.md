@@ -7,7 +7,7 @@ index: true
 feature: Overview
 role: Admin
 level: Experienced
-source-git-commit: 496d9268fdc6276ac9dbb1b6db608aeae24eec5c
+source-git-commit: 8fead8e1e71f26c87033cc72f5a14e38beb602f7
 workflow-type: tm+mt
 source-wordcount: '124'
 ht-degree: 0%
@@ -25,7 +25,7 @@ ht-degree: 0%
    + [Filtern von Workflows nach Ergebnisbedingung beibehalten](/help/troubleshoot-adobe-campaign/keep-result-workflow.md)
 + Sendungen und Kanäle {#deliveries-and-channels}
    + [Fehler beim Debuggen einer Nachricht bei einem Versand abgebrochen](/help/troubleshoot-adobe-campaign/message-cancelled-error.md)
-   + [SMS-Versand im Status &quot;Ausstehend&quot;](/help/troubleshoot-adobe-campaign/resolve-pending-state-sms-delivery.md)
+   + [SMS-Versand in Status &quot;Ausstehend&quot;](/help/troubleshoot-adobe-campaign/resolve-pending-state-sms-delivery.md)
    + [Der Status des Broad-Logs ist nicht korrekt, wenn eine SMS an eine falsche Nummer gesendet wird](/help/troubleshoot-adobe-campaign/sms-broad-log.md)
 + Systemadministration {#administration}
    + [Alle IP-Adressen für SOAP-API-Aufrufe zulassen](/help/troubleshoot-adobe-campaign/allow-all-ip-address-to-make-soap-calls.md)
