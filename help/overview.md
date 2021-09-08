@@ -2,14 +2,14 @@
 title: Adobe Campaign Classic-Tutorials – Übersicht
 description: Adobe Campaign bietet eine Plattform zur Konzeption kanalübergreifender Kundenerlebnisse und stellt dazu eine Umgebung für die visuelle Kampagnenorchestrierung, die Echtzeit-Interaktionsverwaltung und die kanalübergreifende Umsetzung bereit. Dieses Benutzerhandbuch enthält Videos und Tutorials zu den zahlreichen Funktionen von Adobe Campaign Standard.
 sub-product: Campaign Classic
-feature: Übersicht
+feature: Overview
 role: User, Admin, Developer
 level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
-source-git-commit: af19780541ac0f2bc3dbcd37f095ae602b872223
+source-git-commit: 566aeb86b931525137cc1ad5edb766272976390d
 workflow-type: tm+mt
-source-wordcount: '300'
-ht-degree: 80%
+source-wordcount: '297'
+ht-degree: 93%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 80%
 Adobe Campaign bietet eine Plattform zur Konzeption kanalübergreifender Kundenerlebnisse und stellt dazu eine Umgebung für die visuelle Kampagnenorchestrierung, die Echtzeit-Interaktionsverwaltung und die kanalübergreifende Umsetzung bereit. Dieses Benutzerhandbuch enthält Videos und Tutorials zu den verschiedenen Funktionen und Leistungsmerkmalen von Adobe Campaign Classic V7.
 
 >[!INFO]
-> Hast du Fragen? Möchten Sie Ihre Erfahrungen austauschen oder mit anderen tauschen? Oder haben Sie Feedback zum Lerninhalt für das Adobe-Team? Nehmen Sie an der Konversation im [Adobe Campaign Lerncommunity-Thread](https://experienceleaguecommunities.adobe.com/t5/adobe-campaign-classic/join-the-discussion-around-adobe-campaign-learning/td-p/419096) teil!
+> Haben Sie Fragen? Möchten Sie Ihre Erfahrungen mitteilen oder Ihre Gedanken mit anderen austauschen? Oder haben Sie Feedback zum Lerninhalt für das Adobe-Team? Beteiligen Sie sich an der Diskussion im [Thread der Adobe Campaign-Lerngemeinschaft](https://experienceleaguecommunities.adobe.com:443/t5/adobe-campaign-classic/join-the-discussion-on-adobe-campaign-learning/td-p/419096)!
 
 ## Neue Funktionen
 
