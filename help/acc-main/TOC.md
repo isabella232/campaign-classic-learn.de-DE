@@ -4,24 +4,17 @@ sub-product: Campaign Classic
 user-guide-title: Adobe Campaign Classic – Tutorials
 user-guide-description: Adobe Campaign Classic bietet Marketing-Experten eine visuell-gestützte Umgebung für die Konzeption kanalübergreifender Kundenerlebnisse, über die sie Kampagnen orchestrieren, Interaktionen in Echtzeit verwalten und Kampagnen kanalübergreifend ausführen können.
 breadcrumb-title: Tutorials
-breadcrumb-url: /docs/campaign-classic-learn/tutorials/overview.html
-solution-title: Experience League
-solution-hub-url: https://experienceleague.adobe.com/?tag=Campaign+Classic#recommended/solutions/campaign
-tutorials-title: Tutorials
-tutorials-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html
-getting-started-title: Documentation
-getting-started-url: https://docs.campaign.adobe.com/doc/AC/en/PTF_Starting_with_Adobe_Campaign_About_Adobe_Campaign_Classic.html
-source-git-commit: f52cc63295f831c27623cc540d918d49adc2f5d8
+source-git-commit: 0545c1b31654a4e50088423838cb2b4a1eca5dd4
 workflow-type: tm+mt
-source-wordcount: '369'
-ht-degree: 95%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
 
 # Adobe Campaign Classic – Tutorials {#tutorials}
 
-+ [Übersicht](/help/overview.md)
++ [Überblick](/help/overview.md)
 + Erste Schritte {#getting-started}
    + [Einleitung zu Adobe Campaign Classic](/help/getting-started/introduction-to-adobe-campaign-classic.md)
    + [Installieren und Einrichten des Adobe Campaign-Clients](/help/getting-started/install-and-setup-the-adobe-campaign-client.md)
@@ -47,7 +40,7 @@ ht-degree: 95%
       + [Personalisieren von E-Mails mit Personalisierungsfeldern](/help/sending-messages/email-channel/personalizing-emails-using-personalization-fields.md)
       + [Personalisieren von E-Mails – Erstellen eines mehrsprachigen Newsletters mit bedingtem Inhalt](/help/sending-messages/email-channel/personalizing-emails-create-a-multi-lingual-newsletter-using-conditional-content.md)
       + [Konfigurieren wiederkehrender und kontinuierlicher E-Mail-Kampagnen](/help/sending-messages/recurring-deliveries.md)
-      + [Defiinieren interaktiver E-Mail-Inhalte mit AMP](/help/sending-messages/email-channel/defining-interactive-email-content-with-amp.md)
+      + [Definieren interaktiver E-Mail-Inhalte mit AMP](/help/sending-messages/email-channel/defining-interactive-email-content-with-amp.md)
       + [Problembehebung beim E-Mail-Versand](/help/sending-messages/email-channel/troubleshooting-email-delivery-issues.md)
       + [Erstellung von E-Mails im Sinne optimaler Zustellbarkeit](/help/sending-messages/email-channel/design-emails-for-deliverability.md)
       + [Best Practices für die Optimierung der Zustellbarkeit](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=de)
@@ -66,7 +59,7 @@ ht-degree: 95%
    + Ermüdungsverwaltung {#fatigue-management}
       + [Verwenden von Typologieregeln](/help/sending-messages/fatigue-management/typology-rules-for-fatigue-management.md)
       + [Verwenden von vordefinierten Filtern](/help/sending-messages/fatigue-management/fatigue-management-using-filters.md)
-   + [Konfigurieren und verwalten von Anmeldediensten](/help/sending-messages/configuring-and-managing-subscription-services.md)
+   + [Konfigurieren und Verwalten von Anmeldediensten](/help/sending-messages/configuring-and-managing-subscription-services.md)
 + Kampagnen orchestrieren {#orchestration}
    + [Ausführen einer Kampagne](/help/orchestrating-campaigns/executing-a-campaign.md)
    + [Einführung in Multi-Channel- und Cross-Channel-Kampagnen](/help/orchestrating-campaigns/introduction-to-cross-and-multi-channel-campaigns.md)
@@ -75,8 +68,8 @@ ht-degree: 95%
 + Bericht {#reporting}
    + [Zugriff auf native Berichte](/help/reporting/accessing-built-in-reports.md)
    + [Erstellen eines deskriptiven Analyseberichts](/help/reporting/generating-a-descriptive-analysis-report.md)
-+ Automatisieren mit Workflow{#automating-with-workflows}
-   + [Erstellen eines Workflows](/help/automating-with-workflows/creating-a-workflow.md)
++ Automatisieren mit Workflows{#automating-with-workflows}
+   + [Workflow erstellen](/help/automating-with-workflows/creating-a-workflow.md)
    + [Erstellen eines Zielgruppenbestimmungs-Workflows](/help/automating-with-workflows/creating-a-targeting-workflow.md)
    + [Verfeinern von Zielgruppen durch Kombinieren von Abfrageergebnissen](/help/automating-with-workflows/refining-targets-by-combining-query-results.md)
    + [Verfeinern von Zielgruppen durch Ausschließen von Abfrageergebnissen](/help/automating-with-workflows/refining-targets-by-excluding-query-results.md)
@@ -87,7 +80,7 @@ ht-degree: 95%
    + [Verwalten von Validierungen](/help/automating-with-workflows/managing-approvals.md)
 + Inhaltserstellung{#designing-content}
    + [Konfigurieren von Landingpages](/help/designing-content/configure-landingpages.md)
-+ Monitor {#monitoring}
++ Überwachen von {#monitoring}
    + [Workflow-Heatmap](/help/monitoring-campaign-classic/workflow-heatmap.md)
    + [Audit-Protokoll](/help/monitoring-campaign-classic/audit-trail.md)
 + Integrieren von {#integrating}
@@ -96,4 +89,4 @@ ht-degree: 95%
    + [Control Panel](https://experienceleague.adobe.com/docs/campaign-classic-learn/control-panel/control-panel-overview.html?lang=de)
    + Zugriff auf externe Datenbanken (FDA) {#fda}
       + [Verwaltung von Big Data [!DNL Snowflake]](/help/administrating/snowflake/big-data-segmentation-on-snowflake.md)
-+ [Fehlerbehebung bei Adobe Campaign](https://experienceleague.adobe.com/docs/campaign-classic-learn/troubleshooting/overview.html)
++ [Fehlerbehebung in Adobe Campaign](https://experienceleague.adobe.com/docs/campaign-classic-learn/troubleshooting/overview.html?lang=de)
