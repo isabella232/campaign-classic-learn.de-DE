@@ -1,8 +1,8 @@
 ---
 title: Hinzufügen von IP-Adressen zu Zulassungslisten
-seo-title: Hinzufügen von IP-Adressen zu Zulassungslisten
+seo-title: Adding IP addresses to allow lists
 description: Erfahren Sie, wie Sie den Zulassungslisten von Campaign Classic-Instanzen einen IP-Bereich hinzufügen und Bereiche mithilfe des Control Panel aus der Zulassungsliste entfernen.
-seo-description: Im folgenden Video erfahren Sie, wie Sie neue Verbindungen zu Ihren Instanzen einrichten, indem Sie IP-Adressbereiche auf die Zulassungsliste setzen.
+seo-description: The video below explains how to set up new connections to your instances by allow listing IP addresses ranges.
 feature: Control Panel
 kt: 3479
 thumbnail: 28726.jpg
@@ -14,8 +14,8 @@ level: Experienced
 original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/administrating/control-panel-acc/ip-whitelisting.html,https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/administrating/control-panel-acc/ip-allow-listing.html
 exl-id: 9c68543d-af10-4836-951f-7eef5a3515a8
 source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
-workflow-type: tm+mt
-source-wordcount: '223'
+workflow-type: ht
+source-wordcount: '196'
 ht-degree: 100%
 
 ---
@@ -32,6 +32,7 @@ Im Control Panel können Sie neue Verbindungen zu Ihren Instanzen einrichten, in
 Um auf die Verwaltung von Subdomains im Control Panel zuzugreifen, navigieren Sie zu:
 
 * [Startseite von Experience Cloud](https://experience.adobe.com/#/home) > Lösungsauswahl: **[!DNL Campaign]** > **[!UICONTROL Control Panel]**-Karte > **Einstellungen der Instanzen**-Karte
+
 
 
 oder
