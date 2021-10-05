@@ -2,12 +2,11 @@
 user-guide-title: Erste Schritte mit Push-Benachrichtigungen für Android in Campaign Classic
 user-guide-description: Dieses Tutorial führt Sie durch die Schritte, die zum Senden von Push-Benachrichtigungen von Adobe Campaign an eine Android-App erforderlich sind.
 breadcrumb-title: 'Erste Schritte mit Push-Benachrichtigungen für Android '
-breadcrumb-url: /docs/campaign-classic-learn/getting-started-with-push-notifications-for-android/introduction.html
 index: true
-source-git-commit: 963cd6dd61c8678aece3d639f72db4c100bcbbdc
-workflow-type: ht
-source-wordcount: '81'
-ht-degree: 100%
+source-git-commit: d0fc0f9009f090af6f2bc366d199594026044d18
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
