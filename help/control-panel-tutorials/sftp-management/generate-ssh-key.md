@@ -1,6 +1,6 @@
 ---
-title: Erstellen eines SSH-Schlüssels
-description: Erfahren Sie, wie Sie einen SSH-Schlüssel mit einem Terminal generieren und wie Sie die öffentliche Version des Schlüssels im Control Panel speichern.
+title: Erzeugen eines SSH-Schlüssels
+description: Erfahren Sie, wie Sie einen SSH-Schlüssel mit einem Terminal erzeugen und wie Sie die öffentliche Version des Schlüssels im Control Panel speichern.
 feature: Control Panel
 kt: 6348
 thumbnail: 27259.jpg
@@ -12,15 +12,15 @@ level: Experienced
 original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/administrating/control-panel-acc/generate-ssh-key.html
 exl-id: 6ff9713c-9392-425d-9a13-3c1cc7afe2c2
 source-git-commit: e6446906ccd0ca521175a24675b7fae61854217c
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '129'
-ht-degree: 28%
+ht-degree: 100%
 
 ---
 
-# Erstellen eines SSH-Schlüssels
+# Erzeugen eines SSH-Schlüssels
 
-Sie müssen einen SSH-Schlüssel generieren können, um ihn zum Control Panel hinzufügen zu können.
+Sie müssen dazu in der Lage sein, einen SSH-Schlüssel zu erzeugen, um ihn dem Control Panel hinzufügen zu können.
 
 ## Zugreifen auf die SFTP-Verwaltung im Control Panel
 
@@ -31,10 +31,10 @@ Um auf die SFTP-Verwaltung im Control Panel zuzugreifen, navigieren Sie zu:
    oder
 * Direkt über die URL: [http://experience.adobe.com/#/controlpanel/sftp](https://experience.adobe.com/)
 
-## So generieren Sie einen SSH-Schlüssel
+## So erzeugen Sie einen SSH-Schlüssel
 
-Erfahren Sie, wie Sie einen SSH-Schlüssel mit einem Terminal generieren und wie Sie die öffentliche Version des Schlüssels im Control Panel speichern.
+Erfahren Sie, wie Sie einen SSH-Schlüssel mit einem Terminal erzeugen und wie Sie die öffentliche Version des Schlüssels im Control Panel speichern.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27259?quality=12)
 
-*Erstellen eines SSH-Schlüssels (2:16 Min.)*
+*So erzeugen Sie einen SSH-Schlüssel (2:16 Min.)*
