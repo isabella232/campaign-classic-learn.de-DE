@@ -1,6 +1,6 @@
 ---
-title: SMS-Versand in Status "Ausstehend"
-description: Erfahren Sie, wie Sie das Problem eines SMS-Versands lösen können, der in der  Status "Ausstehend"für das neu erstellte externe Konto.
+title: SMS-Versand wechselt in den Status "Ausstehend"
+description: Erfahren Sie, wie Sie verhindern können, dass ein SMS-Versand für ein neu erstelltes externes Konto in den Status "Ausstehend" wechselt.
 feature: SMS
 role: Admin
 level: Experienced
@@ -8,14 +8,14 @@ type: Troubleshooting
 kt: 8429
 exl-id: f6030e69-143e-40fa-838d-107e3ca3f4ad
 source-git-commit: 772f54e81c42cc88b1aa123843c36a06866c024e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '52'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# SMS-Versand in Status &quot;Ausstehend&quot;
+# SMS-Versand wechselt in den Status &quot;Ausstehend&quot;
 
-Erfahren Sie, wie Sie das Problem eines SMS-Versands lösen können, der in der  Status &quot;Ausstehend&quot;für das neu erstellte externe Konto.
+Erfahren Sie, wie Sie verhindern können, dass ein SMS-Versand für ein neu erstelltes externes Konto in den Status &quot;Ausstehend&quot; wechselt.
 
 >[!VIDEO](https://video.tv.adobe.com/v/335986?quality=12)
