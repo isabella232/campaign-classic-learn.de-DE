@@ -11,8 +11,8 @@ role: Admin
 level: Experienced
 exl-id: 5845478e-8e2e-42dd-b8b1-a85687355f3f
 source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
-workflow-type: tm+mt
-source-wordcount: '95'
+workflow-type: ht
+source-wordcount: '93'
 ht-degree: 100%
 
 ---
@@ -25,7 +25,7 @@ ht-degree: 100%
 
 Um mit Adobe Campaign E-Mails versenden oder Landingpages veröffentlichen zu können, müssen Sie eine neue Subdomain einrichten.
 
-Erfahren Sie, wie Sie eine Subdomain mit CNAME im Control Panel einrichten und senden.
+Erfahren Sie, wie Sie mithilfe ovn CNAME eine Subdomain im Control Panel einrichten und senden.
 
 >[!VIDEO](https://video.tv.adobe.com/v/326612?quality=12)
 
