@@ -1,18 +1,18 @@
 ---
-title: Fehlerbehebung in Adobe Campaign - Übersicht
+title: Fehlerbehebung in Adobe Campaign – Überblick
 description: Hier finden Sie Hilfe zur Fehlerbehebung bei Problemen mit Adobe Campaign.
 sub-product: Campaign Classic
 feature: Overview
 role: User, Admin, Developer
 level: Beginner, Experienced
-source-git-commit: a244150716a6f7cb55e9ca614c83159961342e5e
-workflow-type: tm+mt
+exl-id: f8945058-4f2b-4b9c-bbb4-2761c420b278
+source-git-commit: d8b4d1f2a82b108cd94854460c858dae04cd4725
+workflow-type: ht
 source-wordcount: '54'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
+# Fehlerbehebung in Adobe Campaign – Überblick
 
-# Fehlerbehebung in Adobe Campaign - Übersicht
-
-Hier finden Sie Hilfe zur Fehlerbehebung bei Problemen mit Adobe Campaign. Dieser Abschnitt wurde vom Adobe-Support bereitgestellt, um Sie bei der Fehlerbehebung von Problemen zu unterstützen, die möglicherweise mit Adobe Campaign Classic v7 oder Adobe Campaign v8 auftreten.
+Hier finden Sie Hilfe zur Fehlerbehebung bei Problemen mit Adobe Campaign. Dieser Abschnitt wurde vom Support von Adobe bereitgestellt, um Sie bei der Fehlerbehebung bei Problemen zu unterstützen, die bei Adobe Campaign Classic v7 oder Adobe Campaign v8 auftreten könnten.
