@@ -12,8 +12,8 @@ level: Experienced
 original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/administrating/control-panel-acc/adding-url-permissions.html
 exl-id: 6fc468d8-7cde-4153-9bc8-56955db8b867
 source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
-workflow-type: tm+mt
-source-wordcount: '52'
+workflow-type: ht
+source-wordcount: '50'
 ht-degree: 100%
 
 ---
