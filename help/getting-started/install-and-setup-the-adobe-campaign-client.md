@@ -27,4 +27,4 @@ In folgenden Video erfahren Sie, wie Sie die Adobe Campaign-Client-Konsole herun
 
 * [Kompatibilitätsmatrix](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/compatibility-matrix.html?lang=de#compatibility-matrix)
 * [Installieren der Client-Konsole](https://experienceleague.adobe.com/docs/campaign-classic/using/installing-campaign-classic/connect-to-campaign/installing-the-client-console.html?lang=de)
-* [Implementierungshandbuch für Campaign Classic](://experienceleague.adobe.com/docs/campaign-classic/using/campaign-classic-home.html?lang=de)
+* [Implementierungshandbuch für Campaign Classic](https://experienceleague.adobe.com/docs/campaign-classic/using/campaign-classic-home.html?lang=de)
