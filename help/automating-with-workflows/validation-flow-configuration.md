@@ -1,7 +1,7 @@
 ---
 title: Konfigurieren von Validierungs-Workflows in Adobe Campaign Classic
 description: Erfahren Sie, wie Sie verschiedene Validierungs-Workflows für Genehmigungen konfigurieren.
-feature: Workflows, Genehmigungen
+feature: Workflows, Approvals
 kt: 1566
 doc-type: feature video
 activity: setup
@@ -11,7 +11,7 @@ level: Experienced
 exl-id: 34fbb91d-ae99-497c-872e-55ce2e6ea2aa
 source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
 workflow-type: tm+mt
-source-wordcount: '271'
+source-wordcount: '269'
 ht-degree: 96%
 
 ---
@@ -30,7 +30,7 @@ Vor der Aktivierung von Genehmigungsschritten muss das Marketing-Team die einzel
 * Die Adobe Campaign-Rolle eines Validierungsverantwortlichen innerhalb einer Genehmigungsaktivität kann entweder ein einzelner Validierungsverantwortlicher (Benutzer) oder eine Gruppe von Validierungsverantwortlichen (Benutzerrolle) sein.
 * Damit Kampagnenentwickler die Validierungsverantwortlichen als Genehmiger in einer Kampagne oder einem Versand auswählen können, müssen diese von einem Administrator in Adobe Campaign konfiguriert werden.
 
-## Konfigurieren von Genehmigungen für Kampagnen   {#configuring-approvals-for-campaigns}
+## Konfigurieren von Genehmigungen für Kampagnen  {#configuring-approvals-for-campaigns}
 
 Wenn Sie in Ihrem Kampagnen-Workflow für alle Sendungen dieselben Validierungsverantwortlichen haben, wenden Sie die Genehmigungsfunktion der Kampagne an, indem Sie Genehmigungen und Validierungsverantwortliche auf Kampagnenebene einrichten. Die Genehmigungsaufgaben und Validierungsverantwortlichen werden nach der Ausführung des Workflows in jede Versandaktivität Ihres Workflows übertragen.
 

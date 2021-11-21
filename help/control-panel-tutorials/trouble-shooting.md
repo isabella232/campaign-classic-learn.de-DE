@@ -11,7 +11,7 @@ level: Experienced
 original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/administrating/control-panel-acc/trouble-shooting.html
 exl-id: 016e8b77-20df-4ca5-b5e7-fe2f3e7ba7a3
 source-git-commit: 2f8ae3d47e4debf71311f341d3c02ff3a7f5297a
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '332'
 ht-degree: 100%
 
@@ -55,7 +55,7 @@ Der Administrator muss den Benutzer für jede Instanz, die er verwalten möchte,
 ### Nützliche Dokumentation
 
 * [Funktionsweise des Control Panels](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=de)
-* [[!UICONTROL Verwalten von Berechtigungen für das ]Control Panel](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=de)
+* [[!UICONTROL Verwalten von Berechtigungen für das ]Control Panel](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=en)
 
 ## Herstellen einer Verbindung zum SFTP-Server (Client oder API)
 
@@ -67,4 +67,4 @@ Für Verbindungen mit SFTP-Servern ist Folgendes erforderlich:
 
 ### Nützliche Dokumentation {#helpful-docs}
 
-* [Anmeldung bei Ihrem SFTP-Server](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=de)
+* [Anmeldung bei Ihrem SFTP-Server](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=en)

@@ -1,15 +1,15 @@
 ---
 title: Personalisieren von E-Mails mit dynamischen Inhaltsbausteinen
 description: In diesem Tutorial erfahren Sie, wie Sie Versandinhalte personalisieren, JavaScript-Code in Versandvorlagen verwenden und Inhaltsbausteine in verschiedenen Versandvorlagen standardisieren und freigeben können.
-feature: Dynamische Inhalte
+feature: Dynamic Content
 kt: 1559
 doc-type: feature video
 activity: use
 team: TM
 source-git-commit: 8910430585bdaa0db076db9c34b34798f649d39c
 workflow-type: tm+mt
-source-wordcount: '254'
-ht-degree: 70%
+source-wordcount: '252'
+ht-degree: 74%
 
 ---
 
@@ -33,7 +33,7 @@ Ein Gestaltungsbaustein ist dynamisch und enthält spezifischen Rendercode, der 
 
 ## Ein Personalisierungsfeld einem Versand hinzufügen
 
-Personalisierungsfelder bilden die erste Stufe einer Anpassung des Nachrichteninhalts. Durch Einfügen der Felder wird angegeben, an welcher Stelle die aus der gewählten Datenquelle stammenden Informationen angezeigt werden sollen.
+Personalisierungsfelder dienen zur Personalisierung des Inhalts gesendeter Nachrichten auf erster Ebene. Die Felder, die Sie in einen Hauptinhalt einfügen, zeigen die Position an, an der die Daten aus einer ausgewählten Datenquelle eingefügt werden sollen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/24925?quality=12)
 
@@ -45,4 +45,4 @@ Die Konfiguration bedingter Inhalte erlaubt einen weitreichenden Personalisierun
 
 ## Zusätzliche Ressourcen
 
-* [Über Personalisierung](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/about-personalization.html?lang=en)
+* [Über Personalisierung](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/about-personalization.html?lang=de)

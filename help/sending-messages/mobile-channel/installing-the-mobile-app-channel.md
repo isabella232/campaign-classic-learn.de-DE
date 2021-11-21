@@ -1,7 +1,7 @@
 ---
 title: Installieren des Mobile-App-Kanals
 description: Erfahren Sie, wie Sie überprüfen können, ob der Mobile-App-Kanal in Ihrer Instanz installiert ist, und wie Sie ihn installieren.
-feature: Push-Benachrichtigung
+feature: Push
 kt: 6438
 thumbnail: 326544.jpg
 doc-type: feature video
@@ -12,7 +12,7 @@ level: Beginner
 exl-id: f1e71f7d-4af1-4122-ae30-14c9f2ff2a19
 source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
 workflow-type: tm+mt
-source-wordcount: '70'
+source-wordcount: '69'
 ht-degree: 82%
 
 ---

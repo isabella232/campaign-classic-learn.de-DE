@@ -11,7 +11,7 @@ level: Beginner
 exl-id: 42f2a7e6-7d88-473b-b913-fe09b7016b28
 source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
 workflow-type: tm+mt
-source-wordcount: '268'
+source-wordcount: '267'
 ht-degree: 95%
 
 ---
@@ -40,7 +40,7 @@ In diesem Video wird das Konfigurieren eines wiederkehrenden Versands und einer 
 
 >[!VIDEO](https://video.tv.adobe.com/v/25040?quality=12)
 
-## Einrichten eines Versands (fortlaufend) {#how-to-set-up-a-continuous-delivery}
+## Einrichten eines fortlaufenden Versands {#how-to-set-up-a-continuous-delivery}
 
 In diesem Video wird gezeigt, wie Sie einen fortlaufenden Versand mit einer inkrementellen Abfrage konfigurieren.
 

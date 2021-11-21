@@ -1,7 +1,7 @@
 ---
 title: Verwenden der Aktivität „Liste aktualisieren“, um eine Liste mit einem Workflow zu erstellen
 description: Erfahren Sie, wie Sie Ihre Zielgruppe einschränken, indem Sie einen Standardausschluss auf einen Workflow anwenden. Außerdem erfahren Sie, wie Sie vordefinierte Filter erstellen und Probleme mit Workflows beheben.
-feature: Workflows, Zielgruppenbestimmungsaktivität, Abfrage-Tool
+feature: Workflows, Targeting Activity, Query Editor
 kt: 5078
 thumbnail: 35620.jpg
 doc-type: feature video
@@ -12,8 +12,8 @@ level: Beginner
 exl-id: 078bd5d2-e441-4af5-b81c-89a1892601e3
 source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
 workflow-type: tm+mt
-source-wordcount: '124'
-ht-degree: 72%
+source-wordcount: '119'
+ht-degree: 71%
 
 ---
 

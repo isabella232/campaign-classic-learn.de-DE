@@ -6,8 +6,8 @@ user-guide-description: Adobe Campaign Classic bietet Marketing-Experten eine vi
 breadcrumb-title: Tutorials
 source-git-commit: 0545c1b31654a4e50088423838cb2b4a1eca5dd4
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '369'
+ht-degree: 100%
 
 ---
 
