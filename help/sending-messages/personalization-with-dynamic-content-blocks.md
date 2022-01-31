@@ -1,15 +1,15 @@
 ---
 title: Personalisieren von E-Mails mit dynamischen Inhaltsbausteinen
 description: In diesem Tutorial erfahren Sie, wie Sie Versandinhalte personalisieren, JavaScript-Code in Versandvorlagen verwenden und Inhaltsbausteine in verschiedenen Versandvorlagen standardisieren und freigeben können.
-feature: Dynamic Content
+feature: Dynamic Content, Personalization
 kt: 1559
 doc-type: feature video
 activity: use
 team: TM
-source-git-commit: 8910430585bdaa0db076db9c34b34798f649d39c
+source-git-commit: 7d63f43c26182bd7ffb618392463283da0b3d307
 workflow-type: tm+mt
-source-wordcount: '252'
-ht-degree: 74%
+source-wordcount: '257'
+ht-degree: 71%
 
 ---
 
@@ -43,6 +43,4 @@ Die Konfiguration bedingter Inhalte erlaubt einen weitreichenden Personalisierun
 
 >[!VIDEO](https://video.tv.adobe.com/v/24926?quality=12)
 
-## Zusätzliche Ressourcen
-
-* [Über Personalisierung](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/about-personalization.html?lang=de)
+Weitere Informationen zur Personalisierung finden Sie unter [Produktdokumentation](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/about-personalization.html?lang=de).

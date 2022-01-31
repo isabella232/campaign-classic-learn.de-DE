@@ -1,16 +1,16 @@
 ---
 title: Erstellen von Cross-Channel-Kampagnen
 description: Erfahren Sie, wie Sie eine Cross-Channel-Kampagne erstellen, indem Sie E-Mail- und Briefpost-Sendungen verwenden, die auf der Interaktion des Kunden mit dem ersten Versand basieren.
-feature: Workflows
+feature: Cross Channel Orchestration
 kt: 7018
 thumbnail: 330990.jpg
 doc-type: feature video
 activity: use
 team: TM
 exl-id: adf5eec1-9705-48f0-84a9-57a44bf79d0d
-source-git-commit: ac74fffaaf15bced07212d0df4b631944f15f742
+source-git-commit: 7d63f43c26182bd7ffb618392463283da0b3d307
 workflow-type: tm+mt
-source-wordcount: '92'
+source-wordcount: '84'
 ht-degree: 100%
 
 ---
@@ -22,7 +22,3 @@ In einer Cross-Channel-Kampagne nutzt eine einzelne Marketing-Kommunikation vers
 Erfahren Sie, wie Sie eine Cross-Channel-Kampagne erstellen, indem Sie E-Mail- und Briefpost-Sendungen verwenden, die auf der Interaktion des Kunden mit dem ersten Versand basieren.
 
 >[!VIDEO](https://video.tv.adobe.com/v/330990?quality=12)
-
-## Zusätzliche Ressourcen
-
-* [Einführung in Multi-Channel- und Cross-Channel-Kampagnen](/help/orchestrating-campaigns/introduction-to-cross-and-multi-channel-campaigns.md)

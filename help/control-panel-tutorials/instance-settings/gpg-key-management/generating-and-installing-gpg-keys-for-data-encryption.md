@@ -11,9 +11,9 @@ role: Admin
 level: Experienced
 original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/administrating/control-panel-acc/gpg-key-management/generating-and-installing-gpg-keys-for-data-encryption.html
 exl-id: 823e299e-dc61-426b-80c8-7c5cb889f04f
-source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
+source-git-commit: 7d63f43c26182bd7ffb618392463283da0b3d307
 workflow-type: tm+mt
-source-wordcount: '104'
+source-wordcount: '87'
 ht-degree: 100%
 
 ---
@@ -23,8 +23,3 @@ ht-degree: 100%
 Mit dem Control Panel können Sie Daten verschlüsseln, die aus Ihrer Adobe Campaign-Instanz stammen. Erfahren Sie, wie Sie zur Verschlüsselung ausgehender Daten ein Schlüsselpaar mit öffentlichem/privatem Schlüssel generieren und in einer bestimmten [!DNL Campaign]-Instanz installieren können.
 
 >[!VIDEO](https://video.tv.adobe.com/v/36386?quality=12)
-
-## Zusätzliche Ressourcen
-
-* [Verwaltung von GPG-Schlüsseln (Videos)](./gpg-key-management-overview.md)
-* [Verwaltung von GPG-Schlüsseln (Dokumentation)](https://experienceleague.adobe.com/docs/control-panel/using/instances-settings/gpg-keys-management.html?lang=de)

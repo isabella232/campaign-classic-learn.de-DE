@@ -10,19 +10,15 @@ team: WWFRE
 role: User
 level: Beginner
 exl-id: 521b970a-55eb-498f-9350-3fd7546bf1df
-source-git-commit: 77aa26692532bd83d219dc6e83af0704ea35367e
+source-git-commit: 7d63f43c26182bd7ffb618392463283da0b3d307
 workflow-type: tm+mt
-source-wordcount: '68'
+source-wordcount: '50'
 ht-degree: 100%
 
 ---
 
 # Erkunden der Benutzeroberfläche von Adobe Campaign Classic
 
-In dieser Lektion lernen Sie die Hauptbenutzeroberfläche von Adobe Campaign Classic kennen und erhalten Informationen über das Navigieren der Hauptfunktionen.
+In dieser Lektion lernen Sie die Hauptbenutzeroberfläche von Adobe Campaign Classic kennen und erhalten Informationen über das Navigieren zwischen den Hauptfunktionen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/35130?quality=12)
-
-## Zusätzliche Ressourcen
-
-* [Erste Schritte mit der Campaign-Benutzeroberfläche (Dokumentation)](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/starting-with-adobe-campaign/campaign-workspace/adobe-campaign-workspace.html?lang=de)

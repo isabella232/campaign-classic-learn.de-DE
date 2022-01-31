@@ -5,10 +5,11 @@ sub-product: Campaign Classic
 feature: Overview
 role: User, Admin, Developer
 level: Beginner
+recommendations: noCatalog, noDisplay
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
-source-git-commit: 566aeb86b931525137cc1ad5edb766272976390d
+source-git-commit: 7d63f43c26182bd7ffb618392463283da0b3d307
 workflow-type: tm+mt
-source-wordcount: '297'
+source-wordcount: '264'
 ht-degree: 100%
 
 ---
@@ -33,14 +34,6 @@ Adobe Campaign bietet eine Plattform zur Konzeption kanalübergreifender Kundene
 * **[Testsendungen absenden und validieren](/help/sending-messages/email-channel/send-and-validate-proofs.md)**
 
    *Erfahren Sie, wie Sie einen Testversand absenden und validieren.*
-
-* **[Erstellen von E-Mails im Sinne optimaler Zustellbarkeit](/help/sending-messages/email-channel/design-emails-for-deliverability.md)**
-
-   *Erfahren Sie, wie Sie Best Practices für die Optimierung der Zustellbarkeit anwenden.*
-
-* **[Erstellen und Entwerfen von E-Mail-Sendungen](/help/sending-messages/email-channel/create-and-design-email-deliveries.md)**
-
-   *Machen Sie sich mit dem Erstellen eines E-Mail-Versands vertraut und erfahren Sie, wie Sie E-Mail-Inhalte gestalten und personalisieren können.*
 
 
 ## Mitarbeiterauswahl

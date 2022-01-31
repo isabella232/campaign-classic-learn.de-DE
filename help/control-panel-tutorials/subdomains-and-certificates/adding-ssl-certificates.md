@@ -11,9 +11,9 @@ role: Admin
 level: Experienced
 original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/administrating/control-panel-acc/adding-ssl-certificates.html
 exl-id: 9ba485fb-be26-4f3c-a9de-844fecaec20d
-source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
+source-git-commit: 7d63f43c26182bd7ffb618392463283da0b3d307
 workflow-type: tm+mt
-source-wordcount: '218'
+source-wordcount: '199'
 ht-degree: 100%
 
 ---
@@ -58,8 +58,3 @@ Im folgenden Video erfahren Sie, wie SSL-Zertifikate im [!UICONTROL Control Pane
 >[!VIDEO](https://video.tv.adobe.com/v/31166?quality=12)
 
 *SSL-Zertifikate installieren (01:25 Min.)*
-
-## Zusätzliche Ressourcen
-
-* [Vollständige Subdomain-Zuweisung (Video)](./subdomain-delegation.md)
-* [Verlängern des SSL-Zertifikats einer Subdomain (Dokumentation)](https://experienceleague.adobe.com/docs/control-panel/using/subdomains-and-certificates/renewing-subdomain-certificate.html?lang=de)

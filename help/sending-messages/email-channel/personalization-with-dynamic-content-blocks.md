@@ -1,7 +1,7 @@
 ---
 title: Personalisieren von E-Mails mit dynamischen Inhaltsbausteinen
 description: Erfahren Sie, wie Sie dynamische Inhaltsbausteine erstellen und diese zur Personalisierung von Content für Ihren E-Mail-Versand verwenden.
-feature: Dynamic Content
+feature: Dynamic Content, Personalization
 kt: 1559
 thumbnail: 24924
 doc-type: feature video
@@ -10,10 +10,10 @@ team: TM
 role: Admin, Developer
 level: Beginner
 exl-id: 0f49c286-ebb7-419d-98ab-89a8c0772636
-source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
+source-git-commit: 7d63f43c26182bd7ffb618392463283da0b3d307
 workflow-type: tm+mt
-source-wordcount: '144'
-ht-degree: 100%
+source-wordcount: '122'
+ht-degree: 92%
 
 ---
 
@@ -26,17 +26,6 @@ Ein Gestaltungsbaustein ist dynamisch und personalisiert und enthält spezifisch
 
 Erfahren Sie, wie Sie dynamische Inhaltsbausteine erstellen und diese zur Personalisierung von Content für Ihren E-Mail-Versand verwenden.
 
-
 >[!VIDEO](https://video.tv.adobe.com/v/24924?quality=12)
 
-## Zusätzliche Ressourcen
-
-Dokumentation:
-
-* [Über Personalisierung](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/about-personalization.html?lang=de)
-* [Gestaltungsbausteine](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/personalization-blocks.html?lang=de)
-
-Video-Tutorials:
-
-* [Personalisieren von E-Mails mit Personalisierungsfeldern](/help/sending-messages/email-channel/personalizing-emails-using-personalization-fields.md)
-* [Personalisieren von E-Mails – Erstellen eines mehrsprachigen Newsletters mit bedingtem Inhalt](/help/sending-messages/email-channel/personalizing-emails-create-a-multi-lingual-newsletter-using-conditional-content.md)
+Weitere Informationen zur Personalisierung finden Sie unter [Produktdokumentation](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/about-personalization.html?lang=de).
