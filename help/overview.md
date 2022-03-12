@@ -7,10 +7,10 @@ role: User, Admin, Developer
 level: Beginner
 recommendations: noCatalog, noDisplay
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
-source-git-commit: 7d63f43c26182bd7ffb618392463283da0b3d307
-workflow-type: ht
-source-wordcount: '264'
-ht-degree: 100%
+source-git-commit: 7048f1ac4fefb382941ec611b0b28b31f1de1df3
+workflow-type: tm+mt
+source-wordcount: '269'
+ht-degree: 93%
 
 ---
 
@@ -23,6 +23,10 @@ Adobe Campaign bietet eine Plattform zur Konzeption kanalübergreifender Kundene
 
 ## Neue Funktionen
 
+* **[Integration mit Adobe Target](/help/integrations/target-integration.md)**
+
+   *Hier erfahren Sie, wie Sie einen Versand mit dynamischen Inhalten personalisieren, die von Adobe Target bereitgestellt werden.*
+
 * **[Erstellen von Cross-Channel-Kampagnen](/help/orchestrating-campaigns/cross-channel-campaigns.md)**
 
    *Erfahren Sie, wie Sie eine Cross-Channel-Kampagne erstellen und ausführen.*
@@ -30,11 +34,6 @@ Adobe Campaign bietet eine Plattform zur Konzeption kanalübergreifender Kundene
 * **[Kontrollgruppen verwenden](/help/sending-messages/email-channel/use-control-groups.md)**
 
    *Machen Sie sich mit dem Konzept der Kontrollgruppen vertraut und erfahren Sie, wie Sie für Ihren Versand eine Kontrollgruppe verwenden.*
-
-* **[Testsendungen absenden und validieren](/help/sending-messages/email-channel/send-and-validate-proofs.md)**
-
-   *Erfahren Sie, wie Sie einen Testversand absenden und validieren.*
-
 
 ## Mitarbeiterauswahl
 
