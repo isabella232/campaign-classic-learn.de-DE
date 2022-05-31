@@ -6,9 +6,9 @@ index: true
 feature: Control Panel
 role: Admin
 level: Experienced
-source-git-commit: d0fc0f9009f090af6f2bc366d199594026044d18
-workflow-type: ht
-source-wordcount: '123'
+source-git-commit: cae588174705dea60149788944be7faa3a9b50cd
+workflow-type: tm+mt
+source-wordcount: '122'
 ht-degree: 100%
 
 ---
@@ -16,7 +16,7 @@ ht-degree: 100%
 
 # Adobe Campaign Control Panel – Tutorials {#control-panel}
 
-+ [Control Panel – Übersicht](/help/control-panel-tutorials/control-panel-overview.md)
++ [Control Panel](/help/control-panel-tutorials/control-panel-overview.md)
 + [Erste Schritte mit dem Control Panel](/help/control-panel-tutorials/getting-started-with-the-control-panel.md)
 + SFTP-Verwaltung {#sftp-management}
    + [Überwachen der Server-Kapazität](/help/control-panel-tutorials/sftp-management/monitoring-server-capacity.md)
