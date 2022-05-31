@@ -4,17 +4,17 @@ sub-product: Campaign Classic
 user-guide-title: Adobe Campaign Classic – Tutorials
 user-guide-description: Adobe Campaign Classic bietet Marketing-Experten eine visuell-gestützte Umgebung für die Konzeption kanalübergreifender Kundenerlebnisse, über die sie Kampagnen orchestrieren, Interaktionen in Echtzeit verwalten und Kampagnen kanalübergreifend ausführen können.
 breadcrumb-title: Tutorials
-source-git-commit: 7048f1ac4fefb382941ec611b0b28b31f1de1df3
-workflow-type: ht
-source-wordcount: '368'
-ht-degree: 100%
+source-git-commit: 1425897404136a6ec492b94532ea957b528d00e3
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
 
 # Adobe Campaign Classic – Tutorials {#tutorials}
 
-+ [Überblick](/help/overview.md)
++ [Adobe Campaign Classic V7](/help/overview.md)
 + Erste Schritte {#getting-started}
    + [Einleitung zu Adobe Campaign Classic](/help/getting-started/introduction-to-adobe-campaign-classic.md)
    + [Installieren und Einrichten des Adobe Campaign-Clients](/help/getting-started/install-and-setup-the-adobe-campaign-client.md)
