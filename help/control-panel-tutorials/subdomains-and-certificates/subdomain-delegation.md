@@ -11,18 +11,14 @@ role: Admin
 level: Experienced
 original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/administrating/control-panel-acc/subdomain-delegation.html
 exl-id: 28960c68-860c-4707-8d59-65c3222307dd
-source-git-commit: 7d63f43c26182bd7ffb618392463283da0b3d307
-workflow-type: ht
-source-wordcount: '125'
+source-git-commit: 80d6c06de5f14996daaedeb07b050db81908c370
+workflow-type: tm+mt
+source-wordcount: '107'
 ht-degree: 100%
 
 ---
 
 # Vollständige Subdomain-Zuweisung
-
->[!IMPORTANT]
->
-> Die Subdomain-Zuweisung über das [!UICONTROL Control Panel] befindet sich in der Beta-Phase und unterliegt häufigen Aktualisierungen und Änderungen ohne Vorankündigung.
 
 Über das Adobe Campaign [!UICONTROL Control Panel] können Sie Adobe Campaign eine Subdomain vollständig zuweisen.
 
