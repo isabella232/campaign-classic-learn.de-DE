@@ -7,10 +7,10 @@ role: User, Admin, Developer
 level: Beginner
 recommendations: noCatalog, noDisplay
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
-source-git-commit: 7048f1ac4fefb382941ec611b0b28b31f1de1df3
-workflow-type: ht
-source-wordcount: '269'
-ht-degree: 100%
+source-git-commit: 35c931b7859be5d5d4353b51ddf4f9a923f7270c
+workflow-type: tm+mt
+source-wordcount: '371'
+ht-degree: 59%
 
 ---
 
@@ -23,17 +23,20 @@ Adobe Campaign bietet eine Plattform zur Konzeption kanalübergreifender Kundene
 
 ## Neue Funktionen
 
-* **[Integration mit Adobe Target](/help/integrations/target-integration.md)**
+* **[Einführung in SMS](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/introduction-to-sms.html)**:
+   *Erfahren Sie, wie SMS funktioniert und wie Adobe Campaign SMS sendet*
 
-   *Hier erfahren Sie, wie Sie einen Versand mit dynamischen Inhalten personalisieren, die von Adobe Target bereitgestellt werden.*
+* **[SMS-Konto für einen standardmäßigen SMPP-Provider einrichten](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/set-up-account-for-standard-smpp-provider.html)**
 
-* **[Erstellen von Cross-Channel-Kampagnen](/help/orchestrating-campaigns/cross-channel-campaigns.md)**
+   *Erfahren Sie, wie Sie den SMS-Connector an Ihren SMPP-Provider anpassen. Passen Sie Ihre SMS-Einstellungen zur Verarbeitung von Verbindungsbeschränkungen an, richten Sie den maximalen Durchsatz, das Übertragungsfenster und die Verschlüsselung mit TLS ein.*
 
-   *Erfahren Sie, wie Sie eine Cross-Channel-Kampagne erstellen und ausführen.*
+* **[SMS-Connector an Ihren SMPP-Provider anpassen](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/adapt-sms-connector-to-smpp-provider.html)**
 
-* **[Kontrollgruppen verwenden](/help/sending-messages/email-channel/use-control-groups.md)**
+   *Erfahren Sie, wie Sie Ihre SMS-Einstellungen optimieren können, um Verbindungsbeschränkungen zu handhaben, den maximalen Durchsatz festzulegen, das Übertragungsfenster einzurichten und die Verschlüsselung mit TLS durchzuführen.*
 
-   *Machen Sie sich mit dem Konzept der Kontrollgruppen vertraut und erfahren Sie, wie Sie für Ihren Versand eine Kontrollgruppe verwenden.*
+* **[Maximieren Sie Ihren E-Mail-ROI und lernen Sie Best Practices für die Rückgewinnung von Abonnenten kennen.](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/strategy/campaign-maximize-email-best-practices.html)**
+
+   *Erfahren Sie, wie Sie den E-Mail-ROI maximieren und Best Practices für die Rückgewinnung von Abonnenten erlernen. Entdecken Sie die Strategien zur Verbesserung der Interaktion Ihrer Abonnenten und verstehen Sie den Gesamterfolg Ihrer E-Mail-Kampagnen.*
 
 ## Mitarbeiterauswahl
 
