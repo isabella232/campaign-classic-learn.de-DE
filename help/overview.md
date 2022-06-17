@@ -8,9 +8,9 @@ level: Beginner
 recommendations: noCatalog, noDisplay
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
 source-git-commit: da73463b67cefbd617e837ec54d5632f51f8aa34
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '371'
-ht-degree: 59%
+ht-degree: 100%
 
 ---
 
@@ -23,21 +23,21 @@ Adobe Campaign bietet eine Plattform zur Konzeption kanalübergreifender Kundene
 
 ## Neue Funktionen
 
-* **[Einführung in SMS](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/introduction-to-sms.html)**
+* **[Einführung in SMS](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/introduction-to-sms.html?lang=de)**
 
-   *Erfahren Sie, wie SMS funktioniert und wie Adobe Campaign SMS sendet*
+   *Erfahren Sie, wie der SMS funktioniert und wie Adobe Campaign SMS sendet*
 
-* **[SMS-Konto für einen standardmäßigen SMPP-Provider einrichten](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/set-up-account-for-standard-smpp-provider.html)**
+* **[SMS-Konto für einen Standard-SMPP-Provider einrichten](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/set-up-account-for-standard-smpp-provider.html?lang=de)**
 
-   *Erfahren Sie, wie Sie den SMS-Connector an Ihren SMPP-Provider anpassen. Passen Sie Ihre SMS-Einstellungen zur Verarbeitung von Verbindungsbeschränkungen an, richten Sie den maximalen Durchsatz, das Übertragungsfenster und die Verschlüsselung mit TLS ein.*
+   *Erfahren Sie, wie Sie den SMS-Connector an Ihren SMPP-Provider anpassen. Passen Sie Ihre SMS-Einstellungen zur Verarbeitung von Verbindungsbeschränkungen an und richten Sie den maximalen Durchsatz, das Übertragungsfenster und die Verschlüsselung mit TLS ein.*
 
-* **[SMS-Connector an Ihren SMPP-Provider anpassen](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/adapt-sms-connector-to-smpp-provider.html)**
+* **[SMS-Connector an Ihren SMPP-Provider anpassen](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/adapt-sms-connector-to-smpp-provider.html?lang=de)**
 
    *Erfahren Sie, wie Sie Ihre SMS-Einstellungen optimieren können, um Verbindungsbeschränkungen zu handhaben, den maximalen Durchsatz festzulegen, das Übertragungsfenster einzurichten und die Verschlüsselung mit TLS durchzuführen.*
 
-* **[Maximieren Sie Ihren E-Mail-ROI und lernen Sie Best Practices für die Rückgewinnung von Abonnenten kennen.](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/strategy/campaign-maximize-email-best-practices.html)**
+* **[Maximieren Sie Ihren E-Mail-ROI und lernen Sie Best Practices für die Rückgewinnung von Abonnenten kennen.](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/strategy/campaign-maximize-email-best-practices.html?lang=de)**
 
-   *Erfahren Sie, wie Sie den E-Mail-ROI maximieren und Best Practices für die Rückgewinnung von Abonnenten erlernen. Entdecken Sie die Strategien zur Verbesserung der Interaktion Ihrer Abonnenten und verstehen Sie den Gesamterfolg Ihrer E-Mail-Kampagnen.*
+   *Erfahren Sie, wie Sie den E-Mail-ROI maximieren, und lernen Sie Best Practices für die Rückgewinnung von Abonnenten kennen. Entdecken Sie Strategien zur Verbesserung der Abonnenten-Interaktion und lernen Sie, den Gesamterfolg Ihrer E-Mail-Kampagnen zu deuten.*
 
 ## Mitarbeiterauswahl
 
