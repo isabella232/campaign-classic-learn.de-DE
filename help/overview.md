@@ -7,10 +7,10 @@ role: User, Admin, Developer
 level: Beginner
 recommendations: noCatalog, noDisplay
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
-source-git-commit: 7e0296bfd4b22a8ef913a50fa594cff08ff783ed
+source-git-commit: 1e10b9b29fb7c10f5754c3fdd300c68e27448da6
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '353'
+ht-degree: 81%
 
 ---
 
@@ -23,11 +23,11 @@ Adobe Campaign bietet eine Plattform zur Konzeption kanalübergreifender Kundene
 
 ## Neue Funktionen
 
-* **[Überwachen von Workflows](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/performance-monitoring/monitor-workflows.html)**
+* **[Control Panel - Überwachen von Workflows](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/performance-monitoring/monitor-workflows.html){target=&quot;_blank&quot;}**
 
    *Erfahren Sie, wie Sie die temporäre Speicherverwendung Ihrer Workflows überwachen und wo Sie Workflow-Einstellungen konfigurieren können, um Datenbank- oder Workflow-Probleme in Ihrer Instanz zu vermeiden.*
 
-* **[Durchsätze und Latenz überwachen](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/performance-monitoring/monitor-throughputs-and-latency.html)**
+* **[Control Panel - Überwachen von Durchsätzen und Latenz](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/performance-monitoring/monitor-throughputs-and-latency.html){target=&quot;_blank&quot;}**
 
    *Erfahren Sie, wie Sie den Versanddurchsatz und die Latenz von Transaktionsnachrichten in Ihrer Kampagneninstanz überwachen.*
 
