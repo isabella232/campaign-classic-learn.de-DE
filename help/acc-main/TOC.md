@@ -5,9 +5,9 @@ user-guide-title: Adobe Campaign Classic – Tutorials
 user-guide-description: Adobe Campaign Classic bietet Marketing-Experten eine visuell-gestützte Umgebung für die Konzeption kanalübergreifender Kundenerlebnisse, über die sie Kampagnen orchestrieren, Interaktionen in Echtzeit verwalten und Kampagnen kanalübergreifend ausführen können.
 breadcrumb-title: Tutorials
 source-git-commit: 2dda295d82179e7838a3b6b76fbf79668dd6e1d7
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '406'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -42,7 +42,7 @@ ht-degree: 98%
       + [Konfigurieren wiederkehrender und kontinuierlicher E-Mail-Kampagnen](/help/sending-messages/recurring-deliveries.md)
       + [Definieren interaktiver E-Mail-Inhalte mit AMP](/help/sending-messages/email-channel/defining-interactive-email-content-with-amp.md)
       + [Problembehebung beim E-Mail-Versand](/help/sending-messages/email-channel/troubleshooting-email-delivery-issues.md)
-      + [Erstellung von E-Mails im Sinne optimaler Zustellbarkeit](/help/sending-messages/email-channel/design-emails-for-deliverability.md)
+      + [Erstellen von E-Mails im Sinne optimaler Zustellbarkeit](/help/sending-messages/email-channel/design-emails-for-deliverability.md)
    + SMS-Kanal {#sms-channel}
       + [Einrichten von SMS für Adobe Campaign](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/overview.html?lang=de)
       + [SMS-Versand erstellen](/help/sending-messages/mobile-channel/create-a-sms-delivery.md)
@@ -86,7 +86,7 @@ ht-degree: 98%
 + Integrieren von {#integrating}
    + [Integration mit Adobe Target](/help/integrations/target-integration.md)
    + [Integration mit Dynamics 365](/help/integrations/dynamics365-integration.md)
-+ Verwalten {#administrating}
++ Verwalten von {#administrating}
    + [Control Panel](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/control-panel-overview.html?lang=de){target=&quot;_blank&quot;}
    + Zugriff auf externe Datenbanken (FDA) {#fda}
       + [Verwaltung von Big Data [!DNL Snowflake]](/help/administrating/snowflake/big-data-segmentation-on-snowflake.md)
