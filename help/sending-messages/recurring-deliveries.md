@@ -1,5 +1,5 @@
 ---
-title: Einrichten wiederkehrender und fortlaufender E-Mail-Kampagnen
+title: Konfigurieren wiederkehrender und kontinuierlicher E-Mail-Kampagnen
 description: Erfahren Sie, wie Sie einen wiederkehrenden und einen fortlaufenden Versand einrichten und wie sich die beiden Ansätze unterscheiden.
 feature: Workflows, Campaigns
 kt: 1560
@@ -9,14 +9,14 @@ team: TM
 role: User
 level: Beginner
 exl-id: 42f2a7e6-7d88-473b-b913-fe09b7016b28
-source-git-commit: 7d63f43c26182bd7ffb618392463283da0b3d307
+source-git-commit: 5f0cfc42aa1405c37787cd16d4cd0d6b7a462227
 workflow-type: tm+mt
-source-wordcount: '245'
+source-wordcount: '239'
 ht-degree: 100%
 
 ---
 
-# Einrichten wiederkehrender und fortlaufender E-Mail-Kampagnen
+# Konfigurieren wiederkehrender und kontinuierlicher E-Mail-Kampagnen
 
 In diesem Tutorial erfahren Sie, wie Sie einen wiederkehrenden und einen fortlaufenden Versand einrichten und wie sich die beiden Ansätze unterscheiden.
 
