@@ -8,9 +8,9 @@ level: Beginner
 recommendations: noCatalog, noDisplay
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
 source-git-commit: e9b7b7e76e026227bd8c44a854bde98d1adf1428
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '420'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
@@ -27,15 +27,15 @@ Adobe Campaign bietet eine Plattform zur Konzeption kanalübergreifender Kundene
 
    *Erfahren Sie, wie SMPP-Verbindungen hergestellt und Daten per SMPP über PDUs ausgetauscht werden. Informationen zur Fehlerbehebung bei Verbindungen.*
 
-* **[Control Panel für hybride Hosting-Modelle](https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/control-panel-for-hybrid-hosting-models.html?lang=en)**
+* **[Control Panel für hybride Hosting-Modelle](https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/control-panel-for-hybrid-hosting-models.html?lang=de)**
 
    *Erfahren Sie, wie Sie das Control Panel für hybride Hosting-Modelle von Adobe Campaign aktivieren, auf das Control Panel zugreifen und wichtige Funktionen entsperren.*
 
-* **[Control Panel – Überwachen von Workflows](https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/performance-monitoring/monitor-workflows.html?lang=en){target=&quot;_blank&quot;}**
+* **[Control Panel – Überwachen von Workflows](https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/performance-monitoring/monitor-workflows.html?lang=de){target=&quot;_blank&quot;}**
 
    *Erfahren Sie, wie Sie die temporäre Speicherauslastung Ihrer Workflows überwachen und wo Sie Workflow-Einstellungen konfigurieren können, um Datenbank- oder Workflow-Probleme in Ihrer Instanz zu vermeiden.*
 
-* **[Control Panel – Überwachen von Durchsätzen und Latenzen](https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/performance-monitoring/monitor-throughputs-and-latency.html?lang=en){target=&quot;_blank&quot;}**
+* **[Control Panel – Überwachen von Durchsätzen und Latenzen](https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/performance-monitoring/monitor-throughputs-and-latency.html?lang=de){target=&quot;_blank&quot;}**
 
    *Erfahren Sie, wie Sie Versanddurchsätze und Latenzen von Transaktionsnachrichten in Ihrer Kampagneninstanz überwachen.*
 
