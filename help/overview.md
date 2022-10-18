@@ -7,7 +7,7 @@ role: User, Admin, Developer
 level: Beginner
 recommendations: noCatalog, noDisplay
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
-source-git-commit: e9b7b7e76e026227bd8c44a854bde98d1adf1428
+source-git-commit: 10be650f7a5e001d7afb74dcab1edb7dbfc0ec96
 workflow-type: ht
 source-wordcount: '420'
 ht-degree: 100%
@@ -20,6 +20,8 @@ Adobe Campaign bietet eine Plattform zur Konzeption kanalübergreifender Kundene
 
 >[!INFO]
 > Haben Sie Fragen? Möchten Sie Ihre Erfahrungen mitteilen oder Ihre Gedanken mit anderen austauschen? Oder haben Sie Feedback zum Lerninhalt für das Adobe-Team? Beteiligen Sie sich an der Diskussion im [Thread der Adobe Campaign-Lern-Community](https://experienceleaguecommunities.adobe.com:443/t5/adobe-campaign-classic/join-the-discussion-on-adobe-campaign-learning/td-p/419096)!
+
+<div id="whats-new-section">
 
 ## Neue Funktionen
 
@@ -46,6 +48,17 @@ Adobe Campaign bietet eine Plattform zur Konzeption kanalübergreifender Kundene
 * **[SMS-Konto für einen Standard-SMPP-Provider einrichten](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/set-up-account-for-standard-smpp-provider.html?lang=de)**
 
    *Erfahren Sie, wie Sie den SMS-Connector an Ihren SMPP-Provider anpassen. Optimieren Sie Ihre SMS-Einstellungen zur Handhabung von Verbindungsbeschränkungen und richten Sie den maximalen Durchsatz, das Übertragungsfenster sowie Verschlüsselung mit TLS ein.*
+
+</div>
+
+<div id="recs-overview-body-1"></div>
+<div id="recs-overview-body-2"></div>
+<div id="recs-overview-body-3"></div>
+<div id="recs-overview-body-4"></div>
+<div id="recs-overview-body-5"></div>
+<div id="recs-overview-body-6"></div>
+
+<div id="staff-picks-section">
 
 ## Favoriten unserer Mitarbeitenden
 
@@ -92,6 +105,8 @@ Adobe Campaign bietet eine Plattform zur Konzeption kanalübergreifender Kundene
   </td>
 </tr>
 </table>
+
+</div>
 
 ## Zusätzliche Ressourcen
 
