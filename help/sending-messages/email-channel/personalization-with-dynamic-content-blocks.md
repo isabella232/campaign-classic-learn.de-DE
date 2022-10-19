@@ -3,16 +3,16 @@ title: Personalisieren von E-Mails mit dynamischen Inhaltsbausteinen
 description: Erfahren Sie, wie Sie dynamische Inhaltsbausteine erstellen und diese zur Personalisierung von Content für Ihren E-Mail-Versand verwenden.
 feature: Dynamic Content, Personalization
 kt: 1559
-thumbnail: 24924
+thumbnail: 24924.jpg
 doc-type: feature video
 activity: use
 team: TM
 role: Admin, Developer
 level: Beginner
 exl-id: 0f49c286-ebb7-419d-98ab-89a8c0772636
-source-git-commit: 7d63f43c26182bd7ffb618392463283da0b3d307
+source-git-commit: 337ba3c5e591582ddf955ac3cb993b551872e4a1
 workflow-type: ht
-source-wordcount: '122'
+source-wordcount: '0'
 ht-degree: 100%
 
 ---
