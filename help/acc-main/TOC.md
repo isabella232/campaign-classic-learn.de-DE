@@ -4,10 +4,10 @@ sub-product: Campaign Classic
 user-guide-title: Adobe Campaign Classic – Tutorials
 user-guide-description: Adobe Campaign Classic bietet Marketing-Experten eine visuell-gestützte Umgebung für die Konzeption kanalübergreifender Kundenerlebnisse, über die sie Kampagnen orchestrieren, Interaktionen in Echtzeit verwalten und Kampagnen kanalübergreifend ausführen können.
 breadcrumb-title: Tutorials
-source-git-commit: 5ea94a7e00a2c9fdc9fbadb563aa61f43479cb24
+source-git-commit: 3be59ba2d184aab2e614d8b27326e8a464068650
 workflow-type: tm+mt
-source-wordcount: '406'
-ht-degree: 100%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -77,6 +77,7 @@ ht-degree: 100%
    + [Konfigurieren von Anreicherungsaktivitäten](/help/automating-with-workflows/enrichment-activity.md)
    + [Datensegmentierung](/help/data-management/data-segmentation.md)
    + [Verwalten von Validierungen](/help/automating-with-workflows/managing-approvals.md)
+   + [Erfahren Sie mehr von Ihren Kollegen - Best Practices bei Workflows](/help/automating-with-workflows/workflow-best-practices-for-marketers.md)
 + Inhaltserstellung{#designing-content}
    + [Konfigurieren von Landingpages](/help/designing-content/configure-landingpages.md)
 + Überwachen von {#monitoring}
