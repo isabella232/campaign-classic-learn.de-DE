@@ -2,12 +2,12 @@
 product: adobe campaign
 sub-product: Campaign Classic
 user-guide-title: Adobe Campaign Classic – Tutorials
-user-guide-description: Adobe Campaign Classic bietet Marketing-Experten eine visuell-gestützte Umgebung für die Konzeption kanalübergreifender Kundenerlebnisse, über die sie Kampagnen orchestrieren, Interaktionen in Echtzeit verwalten und Kampagnen kanalübergreifend ausführen können.
+user-guide-description: Mit Adobe Campaign Classic können Marketing-Fachleute Cross-Channel-Kundenerlebnisse gestalten und eine Umgebung für die visuelle Orchestrierung von Kampagnen, die Verwaltung von Interaktionen in Echtzeit und die Cross-Channel-Ausführung bereitstellen.
 breadcrumb-title: Tutorials
 source-git-commit: bc9d5b178d3bb3fc7d76056da0eac700aedb571d
-workflow-type: tm+mt
-source-wordcount: '420'
-ht-degree: 97%
+workflow-type: ht
+source-wordcount: '0'
+ht-degree: 100%
 
 ---
 
@@ -68,7 +68,7 @@ ht-degree: 97%
    + [Zugriff auf native Berichte](/help/reporting/accessing-built-in-reports.md)
    + [Erstellen eines deskriptiven Analyseberichts](/help/reporting/generating-a-descriptive-analysis-report.md)
 + Automatisieren mit Workflows{#automating-with-workflows}
-   + [Workflow erstellen](/help/automating-with-workflows/creating-a-workflow.md)
+   + [Erstellen eines Workflows](/help/automating-with-workflows/creating-a-workflow.md)
    + [Erstellen eines Zielgruppenbestimmungs-Workflows](/help/automating-with-workflows/creating-a-targeting-workflow.md)
    + [Verfeinern von Zielgruppen durch Kombinieren von Abfrageergebnissen](/help/automating-with-workflows/refining-targets-by-combining-query-results.md)
    + [Verfeinern von Zielgruppen durch Ausschließen von Abfrageergebnissen](/help/automating-with-workflows/refining-targets-by-excluding-query-results.md)
@@ -77,7 +77,7 @@ ht-degree: 97%
    + [Konfigurieren von Anreicherungsaktivitäten](/help/automating-with-workflows/enrichment-activity.md)
    + [Datensegmentierung](/help/data-management/data-segmentation.md)
    + [Verwalten von Validierungen](/help/automating-with-workflows/managing-approvals.md)
-   + [Erfahren Sie mehr von Ihren Kollegen – Best Practices für Workflows](/help/automating-with-workflows/workflow-best-practices-for-marketers.md)
+   + [Erfahren Sie mehr von Ihren Kolleginnen und Kollegen – Best Practices für Workflows](/help/automating-with-workflows/workflow-best-practices-for-marketers.md)
 + Inhaltserstellung{#designing-content}
    + [Konfigurieren von Landingpages](/help/designing-content/configure-landingpages.md)
 + Überwachen von {#monitoring}
@@ -93,6 +93,6 @@ ht-degree: 97%
       + [Verwaltung von Big Data [!DNL Snowflake]](/help/administrating/snowflake/big-data-segmentation-on-snowflake.md)
 + [Fehlerbehebung in Adobe Campaign](https://experienceleague.adobe.com/docs/campaign-classic-learn/troubleshooting/overview.html?lang=de)
 + Strategie und Vordenkerposition{#strategy}
-   + [Zehn Best Practices für den Erfolg von Adobe Campaign für Marketing-Experten](/help/strategy/10-best-practices-for-marketers.md)
+   + [Zehn Best Practices zum Erfolg von Adobe Campaign für Marketing-Fachleute](/help/strategy/10-best-practices-for-marketers.md)
    + [Maximieren Sie den E-Mail-ROI und Best Practices für die Rückgewinnung von Abonnenten.](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/strategy/campaign-maximize-email-best-practices.html?lang=de)
    + [Best Practices für die Optimierung der Zustellbarkeit](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=de)
