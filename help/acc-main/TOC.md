@@ -4,10 +4,10 @@ sub-product: Campaign Classic
 user-guide-title: Adobe Campaign Classic – Tutorials
 user-guide-description: Mit Adobe Campaign Classic können Marketing-Fachleute Cross-Channel-Kundenerlebnisse gestalten und eine Umgebung für die visuelle Orchestrierung von Kampagnen, die Verwaltung von Interaktionen in Echtzeit und die Cross-Channel-Ausführung bereitstellen.
 breadcrumb-title: Tutorials
-source-git-commit: 20e337556e1b0db8280c7ed6d64fa5ec8dcfeebf
-workflow-type: ht
-source-wordcount: '441'
-ht-degree: 100%
+source-git-commit: af37ff7388ae3bbc615726372d06a990737676a7
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -59,6 +59,8 @@ ht-degree: 100%
    + Ermüdungsverwaltung {#fatigue-management}
       + [Verwenden von Typologieregeln](/help/sending-messages/fatigue-management/typology-rules-for-fatigue-management.md)
       + [Verwenden von vordefinierten Filtern](/help/sending-messages/fatigue-management/fatigue-management-using-filters.md)
+   + Nachrichten überwachen {#monitoring-messages}
+      + [Funktionsweise der Quarantäneverwaltung](/help/sending-messages/quarantine-management.md)
    + [Konfigurieren und Verwalten von Anmeldediensten](/help/sending-messages/configuring-and-managing-subscription-services.md)
 + Kampagnen orchestrieren {#orchestration}
    + [Ausführen einer Kampagne](/help/orchestrating-campaigns/executing-a-campaign.md)
