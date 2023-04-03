@@ -10,8 +10,8 @@ team: TM
 role: User
 level: Beginner
 exl-id: 080f5229-9eae-45b6-b0e0-13b4721ad79c
-source-git-commit: 7d63f43c26182bd7ffb618392463283da0b3d307
-workflow-type: ht
+source-git-commit: 13f7ab2dd41216a603a22f181dc4d06302c5918a
+workflow-type: tm+mt
 source-wordcount: '91'
 ht-degree: 100%
 
@@ -23,6 +23,6 @@ Die Konfiguration bedingter Inhalte erlaubt einen weitreichenden Personalisierun
 
 Erfahren Sie am Beispiel eines mehrsprachigen Newsletters, wie Sie einem Versand bedingte Inhalte hinzufügen können.
 
->[!VIDEO](https://video.tv.adobe.com/v/24926?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/24926?quality=12&learn=on)
 
 Weitere Informationen zur Personalisierung finden Sie unter [Produktdokumentation](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/about-personalization.html?lang=de).

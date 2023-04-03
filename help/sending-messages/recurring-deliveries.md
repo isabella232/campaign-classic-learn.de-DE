@@ -9,7 +9,7 @@ team: TM
 role: User
 level: Beginner
 exl-id: 42f2a7e6-7d88-473b-b913-fe09b7016b28
-source-git-commit: 5f0cfc42aa1405c37787cd16d4cd0d6b7a462227
+source-git-commit: 13f7ab2dd41216a603a22f181dc4d06302c5918a
 workflow-type: tm+mt
 source-wordcount: '239'
 ht-degree: 100%
@@ -38,10 +38,10 @@ Der wiederkehrende und der fortlaufende Versand unterscheiden sich bezüglich de
 
 In diesem Video wird das Konfigurieren eines wiederkehrenden Versands und einer Planungsaktivität erläutert.
 
->[!VIDEO](https://video.tv.adobe.com/v/25040?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/25040?quality=12&learn=on)
 
 ## Einrichten eines fortlaufenden Versands {#how-to-set-up-a-continuous-delivery}
 
 In diesem Video wird gezeigt, wie Sie einen fortlaufenden Versand mit einer inkrementellen Abfrage konfigurieren.
 
->[!VIDEO](https://video.tv.adobe.com/v/25039?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/25039?quality=12&learn=on)

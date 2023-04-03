@@ -1,6 +1,6 @@
 ---
 title: Konfigurieren von Validierungs-Workflows in Adobe Campaign Classic
-description: Erfahren Sie, wie Sie verschiedene Validierungs-Workflows für Genehmigungen konfigurieren.
+description: Erfahren Sie, wie Sie verschiedene Validierungs-Workflows konfigurieren.
 feature: Workflows, Approvals
 kt: 1566
 doc-type: feature video
@@ -9,7 +9,7 @@ team: TM
 role: User
 level: Experienced
 exl-id: 34fbb91d-ae99-497c-872e-55ce2e6ea2aa
-source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
+source-git-commit: 13f7ab2dd41216a603a22f181dc4d06302c5918a
 workflow-type: tm+mt
 source-wordcount: '269'
 ht-degree: 96%
@@ -34,18 +34,18 @@ Vor der Aktivierung von Genehmigungsschritten muss das Marketing-Team die einzel
 
 Wenn Sie in Ihrem Kampagnen-Workflow für alle Sendungen dieselben Validierungsverantwortlichen haben, wenden Sie die Genehmigungsfunktion der Kampagne an, indem Sie Genehmigungen und Validierungsverantwortliche auf Kampagnenebene einrichten. Die Genehmigungsaufgaben und Validierungsverantwortlichen werden nach der Ausführung des Workflows in jede Versandaktivität Ihres Workflows übertragen.
 
->[!VIDEO](https://video.tv.adobe.com/v/25175?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/25175?quality=12&learn=on)
 
 ## Konfigurieren von Genehmigungen auf Versandebene   {#configuring-approvals-for-deliveries}
 
 Sie können Genehmigungen auch auf Versandebene einrichten. Wenn sich die Genehmigungsschritte und Validierungsverantwortlichen für den Versand von denen für Kampagnen unterscheiden, wird die Kampagnenkonfiguration durch die Versandeinstellungen außer Kraft gesetzt.
 
->[!VIDEO](https://video.tv.adobe.com/v/25176?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/25176?quality=12&learn=on)
 
 ## Konfigurieren von Genehmigungsaktivitäten   {#configuring-an-approval-activity}
 
 Im Gegensatz zu Versand- oder Kampagnengenehmigungen ermöglicht die Genehmigungsaktivität die Erstellung eines Genehmigungsprozesses innerhalb eines Workflows. Auf diese Weise kann die Auswahllogik der Zielgruppenbestimmung vor Beginn des Versands validiert werden. Bei Bedarf sind Genehmigungen auch auf mehreren Ebenen innerhalb des Workflows zulässig.
 
->[!VIDEO](https://video.tv.adobe.com/v/25174?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/25174?quality=12&learn=on)
 
 Weitere Informationen finden Sie in der [Dokumentation zu Genehmigungen](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/flow-control-activities/approval.html?lang=de).
