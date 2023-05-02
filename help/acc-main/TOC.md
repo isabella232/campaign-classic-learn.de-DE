@@ -4,10 +4,10 @@ sub-product: Campaign Classic
 user-guide-title: Adobe Campaign Classic – Tutorials
 user-guide-description: Mit Adobe Campaign Classic können Marketing-Fachleute Cross-Channel-Kundenerlebnisse gestalten und eine Umgebung für die visuelle Orchestrierung von Kampagnen, die Verwaltung von Interaktionen in Echtzeit und die Cross-Channel-Ausführung bereitstellen.
 breadcrumb-title: Tutorials
-source-git-commit: f4005dbd21dbe7c38ab5831a260a87a5bb9ea4ca
+source-git-commit: 3812f2852958edb7be5fca16fe2e5e9b31a91199
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '459'
+ht-degree: 98%
 
 ---
 
@@ -32,6 +32,7 @@ ht-degree: 0%
 + Senden von Nachrichten {#sending-messages}
    + E-Mail-Kanal{#email-channel}
       + [Erstellen und Entwerfen von E-Mail-Sendungen](/help/sending-messages/email-channel/create-and-design-email-deliveries.md)
+      + [Inhaltserstellung für E-Mail-Versand](/help/sending-messages/email-channel/design-email-delivery-content.md)
       + [Verwalten von Testadressen und Testsendungen in einer E-Mail](/help/sending-messages/email-channel/managing-seed-and-proofs.md)
       + [Senden und Validieren eines Testversands](/help/sending-messages/email-channel/send-and-validate-proofs.md)
       + [Verwenden von Kontrollgruppen](/help/sending-messages/email-channel/use-control-groups.md)
