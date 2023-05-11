@@ -5,9 +5,9 @@ user-guide-title: Adobe Campaign Classic – Tutorials
 user-guide-description: Mit Adobe Campaign Classic können Marketing-Fachleute Cross-Channel-Kundenerlebnisse gestalten und eine Umgebung für die visuelle Orchestrierung von Kampagnen, die Verwaltung von Interaktionen in Echtzeit und die Cross-Channel-Ausführung bereitstellen.
 breadcrumb-title: Tutorials
 source-git-commit: 3812f2852958edb7be5fca16fe2e5e9b31a91199
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '459'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -32,7 +32,7 @@ ht-degree: 98%
 + Senden von Nachrichten {#sending-messages}
    + E-Mail-Kanal{#email-channel}
       + [Erstellen und Entwerfen von E-Mail-Sendungen](/help/sending-messages/email-channel/create-and-design-email-deliveries.md)
-      + [Inhaltserstellung für E-Mail-Versand](/help/sending-messages/email-channel/design-email-delivery-content.md)
+      + [Gestalten von E-Mail-Versandinhalten](/help/sending-messages/email-channel/design-email-delivery-content.md)
       + [Verwalten von Testadressen und Testsendungen in einer E-Mail](/help/sending-messages/email-channel/managing-seed-and-proofs.md)
       + [Senden und Validieren eines Testversands](/help/sending-messages/email-channel/send-and-validate-proofs.md)
       + [Verwenden von Kontrollgruppen](/help/sending-messages/email-channel/use-control-groups.md)
@@ -88,7 +88,7 @@ ht-degree: 98%
 + Konfigurieren von Landingpages {#landing-pages}
    + [Konfigurieren von Landingpages](/help/designing-content/configure-landingpages.md)
    + [Erstellen eines Präferenzzentrums](/help/designing-content/create-a-preference-center.md)
-+ [Umfrage erstellen](/help/designing-content/create-a-survey.md)
++ [Erstellen einer Umfrage](/help/designing-content/create-a-survey.md)
 + Überwachen von {#monitoring}
    + [Workflow-Heatmap](/help/monitoring-campaign-classic/workflow-heatmap.md)
    + [Audit-Protokoll](/help/monitoring-campaign-classic/audit-trail.md)
