@@ -9,10 +9,10 @@ team: PM
 role: Admin
 level: Beginner
 exl-id: 7d1673ed-19a0-4c68-8bba-281609a16aaf
-source-git-commit: 087a7836a7ab748f8bad797c748cab3c2440fd91
+source-git-commit: f122d1246adc057ba50a7f2656473dd2f2067890
 workflow-type: tm+mt
-source-wordcount: '65'
-ht-degree: 50%
+source-wordcount: '47'
+ht-degree: 70%
 
 ---
 
@@ -21,5 +21,3 @@ ht-degree: 50%
 In diesem Video wird die Konfiguration und Installation des Adobe Experience Platform Mobile SDK erläutert.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27699?quality=12&learn=on)
-
-Weitere Informationen zum Konfigurieren der Campaign Classic-Erweiterung im Mobile SDK finden Sie unter [Produktdokumentation](hhttps://github.com/Adobe-Marketing-Cloud/aep-sdks-documentation/blob/master/using-mobile-extensions/adobe-campaignclassic/README.md).
