@@ -10,10 +10,10 @@ team: WWFRE
 role: User
 level: Beginner
 exl-id: e0128b5f-3f09-460b-8524-624edeb27c4f
-source-git-commit: d56ae485ffdd3ccaf75a0cf76652f2ade7f61fed
+source-git-commit: 0b52f82b3047b47ef46342811fa0d42cc574b7d8
 workflow-type: tm+mt
-source-wordcount: '86'
-ht-degree: 48%
+source-wordcount: '109'
+ht-degree: 38%
 
 ---
 
@@ -23,8 +23,7 @@ Machen Sie sich mit dem Konzept der Kontrollgruppen vertraut und erfahren Sie, w
 
 >[!VIDEO](https://video.tv.adobe.com/v/330955?quality=12&learn=on)
 
-Weitere Informationen finden Sie in der Produktdokumentation unter:
-
-* [So definieren Sie Kontrollgruppen](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/orchestrate-campaigns/marketing-campaign-target.html?lang=en#defining-a-control-group){target="_blank"}
-* [Zielpopulation eines Versands definieren](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/key-steps-when-creating-a-delivery/steps-defining-the-target-population.html?lang=en){target="_blank"}
-
+>[!IMPORTANT]
+>Wenn der Zielgruppen-Workflow mehrere Sendungen enthält, müssen Sie die Kontrollgruppeneinstellungen auf Versandebene und in den Kampagneneinstellungen aktivieren.
+>Weitere Informationen finden Sie in der Produktdokumentation . [So definieren Sie Kontrollgruppen](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/orchestrate-campaigns/marketing-campaign-target.html?lang=en#defining-a-control-group){target="_blank"}
+und [Zielpopulation des Versands](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/key-steps-when-creating-a-delivery/steps-defining-the-target-population.html?lang=en){target="_blank"}
