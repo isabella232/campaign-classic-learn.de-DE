@@ -1,7 +1,7 @@
 ---
 title: Personalisieren von E-Mails – Erstellen eines mehrsprachigen Newsletters mit bedingtem Inhalt
 description: Erfahren Sie am Beispiel eines mehrsprachigen Newsletters, wie Sie einem Versand bedingte Inhalte hinzufügen können.
-feature: Dynamic Content, Personalization
+feature: Personalization
 kt: 5922
 thumbnail: 24926.jpg
 doc-type: feature video
@@ -10,8 +10,8 @@ team: TM
 role: User
 level: Beginner
 exl-id: 080f5229-9eae-45b6-b0e0-13b4721ad79c
-source-git-commit: 13f7ab2dd41216a603a22f181dc4d06302c5918a
-workflow-type: ht
+source-git-commit: f155a48a2eea11867a217051741941d57ad54915
+workflow-type: tm+mt
 source-wordcount: '91'
 ht-degree: 100%
 
