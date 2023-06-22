@@ -2,7 +2,7 @@
 title: Verfeinern von Zielgruppen durch Kombinieren von Abfrageergebnissen
 description: Erfahren Sie, wie Sie Ihre Zielgruppe einschränken können, indem Sie Abfrageergebnisse in einem Workflow kombinieren, indem Sie die Schnitt- oder Vereinigungsaktivität verwenden.
 feature: Workflows, Targeting Activity, Query Editor
-kt: 5547
+jira: KT-5547
 thumbnail: 36832.jpg
 doc-type: feature video
 activity: use
@@ -10,7 +10,7 @@ team: WWFRE
 role: User
 level: Beginner
 exl-id: 3bd6a4cf-95ae-4f4a-b53a-ac04a29843f7
-source-git-commit: 13f7ab2dd41216a603a22f181dc4d06302c5918a
+source-git-commit: f4e86b933660ced199c30d318445363b74c51c4b
 workflow-type: tm+mt
 source-wordcount: '52'
 ht-degree: 100%

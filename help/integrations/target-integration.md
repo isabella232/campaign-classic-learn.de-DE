@@ -4,15 +4,15 @@ description: Hier erfahren Sie, wie Sie einen Versand mit dynamischen Inhalten p
 feature: Target Integration
 role: User
 level: Beginner, Intermediate, Experienced
-kt: 9601
+jira: KT-9601
 thumbnail: 341030.jpg
-source-git-commit: 7048f1ac4fefb382941ec611b0b28b31f1de1df3
+exl-id: 1338427d-d75e-4480-9377-f8e68e067364
+source-git-commit: f4e86b933660ced199c30d318445363b74c51c4b
 workflow-type: tm+mt
 source-wordcount: '55'
-ht-degree: 0%
+ht-degree: 61%
 
 ---
-
 
 # Integration mit Adobe Target
 
