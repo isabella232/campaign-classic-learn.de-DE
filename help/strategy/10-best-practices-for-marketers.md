@@ -2,15 +2,16 @@
 title: Zehn Best Practices zum Erfolg von Adobe Campaign für Marketing-Fachleute
 description: Lernen Sie die zehn Best Practices kennen, die Nutzerinnen und Nutzer von Adobe Campaign dabei unterstützen, den digitalen Wandel des Verbraucherverhaltens zu beschleunigen und Kundinnen und Kunden ein besseres Erlebnis zu bieten.
 doc-type: article
+feature: Personalization, Campaigns, Subscriptions, Deliverability
 role: User
 level: Beginner
 jira: KT-11772
 last-substantial-update: 2023-01-31T00:00:00Z
 exl-id: 7152c09f-7ea0-49a8-ac3b-cc304d42c7e4
-source-git-commit: f4e86b933660ced199c30d318445363b74c51c4b
-workflow-type: ht
+source-git-commit: eae208987b8430773421cba7aec2f77d5441b618
+workflow-type: tm+mt
 source-wordcount: '1279'
-ht-degree: 100%
+ht-degree: 99%
 
 ---
 
@@ -49,7 +50,7 @@ Genau wie Ihre Kundinnen und Kunden haben Sie eine tägliche Routine. Der Versan
 
 Wenn Ihre Kundinnen und Kunden zum Beispiel morgens ihr Handy nach den besten Angeboten durchsuchen, sollten Sie ihnen eine Promotion schicken. Wenn sie nachts nach dem neuesten Trend suchen, sollten Sie eine Folgenachricht mit einem Promo-Code für den kostenlosen Versand versenden. Es ist auch wichtig, das Heatmap-Tool in [!DNL Campaign] zu nutzen. Damit können Sie verfolgen, wann Ihre Workflows und Sendungen ausgeführt werden. Die Koordination und Ausführung von Kommunikationsaktivitäten über mehrere Marken hinweg kann eine Herausforderung darstellen. Für die allgemeine Stabilität und Stärke Ihrer Nachricht und Campaign-Instanz ist es von unschätzbarem Wert, [den Rhythmus, die Kadenz und das Timing Ihrer E-Mails im Auge zu behalten und zu kennen](https://experienceleaguecommunities.adobe.com/t5/adobe-campaign-classic-blogs/predictive-send-time-optimization-with-adobe-campaign/ba-p/561554?profile.language=de).
 
-## 4. Personalisierung dort verwenden, wo es von Bedeutung ist
+## 4. Verwenden Sie die Personalisierung, wo es wichtig ist.
 
 Heutzutage erwarten die Verbraucherinnen und Verbraucher eine gewisse Personalisierung der Nachrichten, die sie erhalten. [80 % der Personen kaufen eher von einer Marke, die ihnen personalisierte Erlebnisse bietet](https://us.epsilon.com/power-of-me). Der eigene Name in der Betreffzeile ist großartig. Die Personalisierung kann jedoch viel weiter gehen. Sie können bereits angesehene Produkte einbeziehen, auf ähnliche Produkte verweisen oder das kohärente Erlebnis und Erscheinungsbild Ihrer Marke kontinuierlich stärken. Jedes Detail zählt und steigert die Interaktion mit Ihren Nachrichten sowie deren Öffnungsraten.
 
