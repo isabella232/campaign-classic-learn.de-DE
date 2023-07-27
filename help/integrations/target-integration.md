@@ -1,5 +1,5 @@
 ---
-title: Integration mit Adobe Target
+title: Integrieren von Campaign Classic V7 in Adobe Target
 description: Hier erfahren Sie, wie Sie einen Versand mit dynamischen Inhalten personalisieren, die von Adobe Target bereitgestellt werden.
 feature: Target Integration
 role: User
@@ -7,14 +7,15 @@ level: Beginner, Intermediate, Experienced
 jira: KT-9601
 thumbnail: 341030.jpg
 exl-id: 1338427d-d75e-4480-9377-f8e68e067364
-source-git-commit: f4e86b933660ced199c30d318445363b74c51c4b
+badgeIntegration: label="Integration" type="positive"
+source-git-commit: 3e2746e371c381f303a7b39fbea1f9c9a2444c63
 workflow-type: tm+mt
-source-wordcount: '55'
-ht-degree: 61%
+source-wordcount: '62'
+ht-degree: 43%
 
 ---
 
-# Integration mit Adobe Target
+# Integrieren von Campaign Classic V7 in Adobe Target
 
 Hier erfahren Sie, wie Sie einen Versand mit dynamischen Inhalten personalisieren, die von Adobe Target bereitgestellt werden.
 
