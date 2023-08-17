@@ -24,7 +24,7 @@ Mit Adobe Campaign können Sie eine erweiterte Segmentierung vornehmen, indem Si
 
 Kunden generieren Daten mit jedem Kanal an ihren Fingerspitzen, da sie alle Dinge tun, die Menschen tun, wenn sie versuchen, eine Kaufentscheidung zu treffen oder einfach mit Ihrer Marke zu interagieren.
 
-Das integrierte Kundenprofil von Adobe Campaign ermöglicht es Marketing-Experten, diese Daten in großem Maßstab zu erfassen und zu verwalten. Alles von Profilattributen wie demografischen Details &quot;Postleitzahl&quot; &quot;Adresse&quot; &quot;Geschlecht&quot; usw., Interaktionsdaten, &quot;Öffnen einer Nachricht&quot;, &quot;Klicken auf eine E-Mail&quot;, &quot;Website-Besuch&quot;, in Konversionsdaten und sogar Offline-Daten.
+Das integrierte Kundenprofil von Adobe Campaign ermöglicht es Marketingexperten, diese Daten in großem Maßstab zu erfassen und zu verwalten. Dabei reicht es von Profilattributen wie demografischen Details über die Postleitzahl &quot;Adresse&quot;, &quot;Geschlecht&quot; usw., über Interaktionsdaten, das Öffnen einer Nachricht, das Klicken auf eine E-Mail&quot;, &quot;Website-Besuch&quot;bis hin zu Konversionsdaten und sogar Offline-Daten.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23629?quality=12&learn=on)
 
@@ -36,7 +36,7 @@ Das integrierte Kundenprofil von Adobe Campaign ermöglicht es Marketing-Experte
 
 Sobald Sie die Profile verstanden haben, sind Sie bereit, eine erweiterte Segmentierung durch tiefe Abfragen der allgemeinen Kundenattribute und anderer Datenquellen durchzuführen. Damit können Sie wiederverwendbare Listen erstellen, Listen dynamisch aktualisieren, basierend auf Echtzeitänderungen an Daten, und sogar komplexere Aktivitäten durchführen, wie z. B. Tests mit mehreren Varianten an einem dieser Datenpunkte.
 
-Bitte beachten Sie: Dieses Video wurde in Adobe Campaign Classic V6 aufgezeichnet, die Funktionalität ist genau gleich, die Workflow-Symbole haben sich jedoch geändert.
+Bitte beachten Sie: Dieses Video wurde in Adobe Campaign Classic V6 aufgenommen. Die Funktionen sind identisch, die Workflow-Symbole haben sich jedoch geändert.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23635?quality=12&learn=on)
 

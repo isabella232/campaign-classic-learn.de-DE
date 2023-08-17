@@ -22,4 +22,4 @@ Hier erfahren Sie, wie Sie einen Versand mit dynamischen Inhalten personalisiere
 >[!VIDEO](https://video.tv.adobe.com/v/341030?quality=12&learn=on)
 
 >[!NOTE]
-> Das Video wurde in Campaign V8 aufgezeichnet. Die Funktionalität ist für Campaign Classic V7 und Campaign V8 identisch.
+> Das Video wurde in Campaign V8 aufgezeichnet, die Funktionalität ist für Campaign Classic V7 und Campaign V8 identisch.

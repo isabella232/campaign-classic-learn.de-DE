@@ -1,6 +1,6 @@
 ---
-title: Umfrage erstellen
-description: Erfahren Sie, wie Sie eine Umfrage in Adobe Campaign Classic erstellen.
+title: Erstellen einer Umfrage
+description: Erfahren Sie, wie Sie in Adobe Campaign Classic eine Umfrage erstellen.
 version: Classic v7
 feature: Surveys
 role: User
@@ -9,16 +9,16 @@ doc-type: Feature Video
 last-substantial-update: 2023-04-25T00:00:00Z
 jira: KT-11925
 thumbnail: 3415810.jpeg
-source-git-commit: f4005dbd21dbe7c38ab5831a260a87a5bb9ea4ca
+exl-id: 21a2036b-469c-4724-a9c8-b1ab6d7389a5
+source-git-commit: 5940dc31dbdaf0808aef3ff691a37332d908489c
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '26'
+ht-degree: 100%
 
 ---
 
+# Erstellen einer Umfrage
 
-# Umfrage erstellen
-
-Erfahren Sie, wie Sie eine Umfrage in Adobe Campaign Classic erstellen.
+Erfahren Sie, wie Sie in Adobe Campaign Classic eine Umfrage erstellen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3415810/?learn=on)

@@ -22,5 +22,5 @@ Adobe Campaign verwendet Workflows, um Zielgruppenbestimmungskampagnen durchzuf�
 
 >[!VIDEO](https://video.tv.adobe.com/v/25605?quality=12&learn=on)
 
-Weitere Informationen finden Sie in der Dokumentation [Über Workflows](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/introduction/about-workflows.html?lang=de)
+Siehe die Dokumentation . [Über Workflows](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/introduction/about-workflows.html?lang=de)
 und [über Zielgruppenbestimmungsaktivitäten](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/about-targeting-activities.html?lang=de) für weitere Informationen.
