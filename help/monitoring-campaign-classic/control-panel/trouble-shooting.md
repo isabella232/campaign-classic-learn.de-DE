@@ -6,10 +6,10 @@ jira: KT-2938
 doc-type: article
 activity: use
 team: PM
-source-git-commit: f4e86b933660ced199c30d318445363b74c51c4b
+source-git-commit: 35e036486c5b533b54b3f626d88734e9a9fc3b8a
 workflow-type: tm+mt
-source-wordcount: '342'
-ht-degree: 100%
+source-wordcount: '346'
+ht-degree: 98%
 
 ---
 
@@ -41,11 +41,11 @@ Der Administrator muss den Benutzer für jede Instanz, die er verwalten möchte,
 
 ### Nützliche Videos
 
->[!VIDEO](https://video.tv.adobe.com/v/27183?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/27183?quality=12&learn=on){transcript=true}
 
 *IMS-Organisations-ID prüfen (00:26 Min.)*
 
->[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12&learn=on){transcript=true}
 
 *Hinzufügen eines Administrators zum Produktprofil „Administratoren“ für die Verwendung des [!UICONTROL Control Panel] (01:03 Min.)*
 
